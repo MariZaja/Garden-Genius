@@ -1,0 +1,7 @@
+CREATE TABLE plant (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(50) UNIQUE,
+    description TEXT NOT NULL,
+    email VARCHAR(255) UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

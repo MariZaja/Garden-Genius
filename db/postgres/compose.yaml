@@ -1,0 +1,15 @@
+services:
+  postgres:
+    build:
+      dockerfile: Dockerfile
+    environment:
+      POSTGRES_USER: gardenGenius
+      POSTGRES_PASSWORD: pass123
+      POSTGRES_DB: gardenGeniusDb
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
