@@ -12,12 +12,20 @@ def main()-> None:
 
     #species_ids = get_first_x_ids(plant_list, 5)
 
-    #for species_id in species_ids:
-    for species_id in range(2, 21):
+    # species_details = get_species_details(101, key)
+    # species = create_species_from_json(species_details)
+    # print(f"{species.common_name}")
+
+    start_id = int(input("Podaj id gatunku, od którego chcesz zacząć: "))
+    if start_id < 1 or start_id > 2901:
+        raise ValueError("start_id must be between 1 and 2901")
+
+    for species_id in range(start_id, start_id + 101):
         species_details = get_species_details(species_id, key)
-        species = create_species_from_json(species_details)
-        #print(species.__dict__)
-        print(f"{species.common_name}")
+
+        # species = create_species_from_json(species_details)
+        # print(species.__dict__)
+        # print(f"{species.common_name}")
 
 
 

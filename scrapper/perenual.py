@@ -45,7 +45,7 @@ def get_species_list(key: str, page: int = None, q: str = None, order: Order = N
     return response.json()
 
 def get_species_details(id: int, key: str):
-    url = f"https://perenual.com/api/species/details/[{id}]?key={key}"
+    url = f"https://perenual.com/api/species/details/{id}?key={key}"
 
     payload = {}
     headers = {}

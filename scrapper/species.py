@@ -74,7 +74,10 @@ class Species:
 def create_species_from_json(json_data: dict) -> Species:
     dimensions = Dimensions(**json_data['dimensions'])
     depth_water_requirement = WaterRequirement(**json_data['depth_water_requirement'])
-    volume_water_requirement = WaterRequirement(**json_data['volume_water_requirement'])
+    if isinstance(json_data['volume_water_requirement'], dict):
+        volume_water_requirement = WaterRequirement(**json_data['volume_water_requirement'])
+    else:
+        volume_water_requirement = None
     hardiness = Hardiness(min=json_data['hardiness']['min'], max=json_data['hardiness']['max'])
     hardiness_location = HardinessLocation(**json_data['hardiness_location'])
     default_image = DefaultImage(**json_data['default_image'])
