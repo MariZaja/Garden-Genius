@@ -20,7 +20,7 @@ def main()-> None:
     if start_id < 1 or start_id > 2901:
         raise ValueError("start_id must be between 1 and 2901")
 
-    for species_id in range(start_id, start_id + 101):
+    for species_id in range(start_id, start_id + 100):
         species_details = get_species_details(species_id, key)
 
         # species = create_species_from_json(species_details)
