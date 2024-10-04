@@ -1,0 +1,118 @@
+{
+    "id": 699,
+    "common_name": "alluaudia",
+    "scientific_name": [
+        "Alluaudia dumosa"
+    ],
+    "other_name": [],
+    "family": "Didiereaceae",
+    "origin": [
+        "Southern Madagascar"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "5.00 to 10.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=699&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=699&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "gray-green",
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "gray-white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "November"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=699&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White, Pink, Green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Alluaudia dumosa, also known as Madagascar ocotillo, is an amazing species of flowering plant due to its distinctive qualities. Its thick, round-stemmed branches are densely covered in shiny, small leaves and spines, providing habitats for small creatures. Additionally, the brilliant red flowers of this species provide nectar to pollinators such as bees and hummingbirds. Madagascar ocotillo is a hardy plant species that can survive in dry climates and strong winds. Its spores can survive in the harshest arid regions of Madagascar, providing food and shelter for numerous creatures. The Alluaudia dumosa displays an impressive resilience and is an incredible addition to any garden or landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/699_alluaudia_dumosa/og/23916848941_6fb91e7c28_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/699_alluaudia_dumosa/regular/23916848941_6fb91e7c28_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/699_alluaudia_dumosa/medium/23916848941_6fb91e7c28_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/699_alluaudia_dumosa/small/23916848941_6fb91e7c28_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/699_alluaudia_dumosa/thumbnail/23916848941_6fb91e7c28_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

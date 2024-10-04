@@ -1,0 +1,109 @@
+{
+    "id": 694,
+    "common_name": "prairie onion",
+    "scientific_name": [
+        "Allium stellatum"
+    ],
+    "other_name": [
+        "Prairie Onion",
+        "Glade Onion",
+        "Glade Onion"
+    ],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=694&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=694&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=694&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Sand",
+        " Loam"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Reddish-pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "black"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Prairie Onion (Allium stellatum) is an amazing wildflower due to its unique aesthetic and versatility. Reaching up to 18 inches in height, this purple-pink flowering plant has an onion-like bulb and deep green foliage. Blooming season begins in May and can last through September, providing bright pops of color to dry and moist meadows. Prairie Onions are incredibly hardy and easy to grow, surviving in a range of temperatures and soils. They are a great choice for rock and xeriscape gardens since they require very little water or maintenance. The Prairie Onion is a surefire way to bring a delightful burst of color to any open space.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/694_allium_stellatum/og/Allium_lusitanicum_003.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/694_allium_stellatum/regular/Allium_lusitanicum_003.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/694_allium_stellatum/medium/Allium_lusitanicum_003.jpg",
+        "small_url": "https://perenual.com/storage/species_image/694_allium_stellatum/small/Allium_lusitanicum_003.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/694_allium_stellatum/thumbnail/Allium_lusitanicum_003.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

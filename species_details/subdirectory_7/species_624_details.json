@@ -1,0 +1,138 @@
+{
+    "id": 624,
+    "common_name": "chu-lan tree",
+    "scientific_name": [
+        "Aglaia odorata"
+    ],
+    "other_name": [],
+    "family": "Meliaceae",
+    "origin": [
+        "Southeastern Asia"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "8.00 to 10.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 8,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=624&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=624&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "blooms",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=624&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The chu-lan tree (Aglaia odorata) is an amazing tropical species that can be found in southeast Asia and the Pacific. It is an evergreen shrub with pointed oval leaves and fragrant, white flowers that bloom in clusters. The tree is full of history and culture within it's native regions. It produces edible fruits, is incredibly easy to grow and maintain, and is an excellent source of natural shade. Additionally, chu-lan trees are known to have calming aromatherapy-like effects and are greatly valued for their beauty and traditional medicinal uses. Thus, making the chu-lan tree an amazing addition to any garden or landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/624_aglaia_odorata/og/51246982944_75e2fb8d88_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/624_aglaia_odorata/regular/51246982944_75e2fb8d88_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/624_aglaia_odorata/medium/51246982944_75e2fb8d88_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/624_aglaia_odorata/small/51246982944_75e2fb8d88_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/624_aglaia_odorata/thumbnail/51246982944_75e2fb8d88_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

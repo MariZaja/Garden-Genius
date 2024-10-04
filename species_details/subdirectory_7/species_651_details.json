@@ -1,0 +1,106 @@
+{
+    "id": 651,
+    "common_name": "alangium",
+    "scientific_name": [
+        "Alangium platanifolium var. macrophyllum"
+    ],
+    "other_name": [],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "12.00 to 15.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 12,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=651&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=651&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=651&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "White with yellow anthers",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Alangium platanifolium var. macrophyllum, commonly called Alangium, is an amazing plant. Its large, leathery leaves reach up to five feet long, while its vibrant yellow-green flowers with deep red stamens make it a showstopper in any landscape. Alangium is drought tolerant, making it an ideal choice for dry environments. It also does well in partial shade, making it perfect for urban and suburban gardens. It resists heavy foot traffic, making it incredibly durable for patios, sidewalks and other areas receiving significant foot traffic. What\u2019s more, it\u2019s incredibly low maintenance, requiring little more than occasional watering. Truly, Alangium is a conversation starter and an ideal addition to any yard or garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/og/Alangium_chinensis_floraison2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/regular/Alangium_chinensis_floraison2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/medium/Alangium_chinensis_floraison2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/small/Alangium_chinensis_floraison2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/651_alangium_platanifolium_var_macrophyllum/thumbnail/Alangium_chinensis_floraison2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

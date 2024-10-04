@@ -1,0 +1,104 @@
+{
+    "id": 626,
+    "common_name": "Chinese evegreen",
+    "scientific_name": [
+        "Aglaonema 'Cutlass'"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Shrub",
+    "dimension": "1.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Leaf Cutting"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade",
+        "full shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=626&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White spadix with greenish-yellow spathe",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Chinese evergreen (Aglaonema 'Cutlass') is an amazing plant that is sure to bring joy and beauty to any home. It\u2019s low-maintenance and requires minimal care, making it perfect for novice gardeners. It\u2019s easy to propagate and comes in vibrant colors featuring streaks of white, cream, and pink. This stunning foliage reduces stress and can help improve air quality by naturally filtering toxins from the air. Chinese evergreen is a great way to add a touch of luxury to any home d\u00e9cor.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/og/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/regular/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/medium/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/small/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/thumbnail/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

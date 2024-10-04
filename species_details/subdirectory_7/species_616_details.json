@@ -1,0 +1,120 @@
+{
+    "id": 616,
+    "common_name": "coastal agave",
+    "scientific_name": [
+        "Agave shawii"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Southern California",
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Offsets",
+        "Seed Propagation",
+        "Cutting",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=616&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=616&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=616&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Coastal Agave (Agave shawii) is an amazing species that is native to coastal regions of California and is characterized by its bright violet-pink and yellow blooms. This versatile species is both drought and salt tolerant, making it suitable for an array of climates. It also has amazing longevity, growing mature plants that can live upwards of 75 years. Its leaves are unique and distinctive, ranging from vivid blue-green to a purplish-gray color that can turn almost silver as it ages. Highly sought after, this species is a great addition to any garden and its aromatic blooms make it a great choice for cut flowers. With its resilience and wide color variations, Coastal Agave is sure to amaze.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/616_agave_shawii/og/36689783073_9767391d99_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/616_agave_shawii/regular/36689783073_9767391d99_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/616_agave_shawii/medium/36689783073_9767391d99_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/616_agave_shawii/small/36689783073_9767391d99_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/616_agave_shawii/thumbnail/36689783073_9767391d99_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

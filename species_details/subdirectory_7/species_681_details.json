@@ -1,0 +1,121 @@
+{
+    "id": 681,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium 'Purple Sensation'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Netherlands"
+    ],
+    "type": "Bulb",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=681&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=681&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "blooms",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=681&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The ornamental onion (Allium 'Purple Sensation') is an amazing flowering plant that is sure to amaze! Its dark purple flowers and globular clusters of blooms will bring an elegant and classic charm to any garden. It has a striking long-lasting appearance, ensuring your garden will always look beautiful. Plus, its deer and rabbit resistant qualities make it a great addition for any garden. It's an easy to grow, low maintenance, and hardy perennial that you won't regret adding to your garden. Its dazzling beauty and care-free maintenance make it an outstanding choice for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/681_allium_purple_sensation/og/52094660963_e58708ba0c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/681_allium_purple_sensation/regular/52094660963_e58708ba0c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/681_allium_purple_sensation/medium/52094660963_e58708ba0c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/681_allium_purple_sensation/small/52094660963_e58708ba0c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/681_allium_purple_sensation/thumbnail/52094660963_e58708ba0c_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

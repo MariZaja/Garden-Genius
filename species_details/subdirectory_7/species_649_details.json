@@ -1,0 +1,137 @@
+{
+    "id": 649,
+    "common_name": "chocolate vine",
+    "scientific_name": [
+        "Akebia quinata"
+    ],
+    "other_name": [],
+    "family": "Lardizabalaceae",
+    "origin": [
+        "Japan",
+        "China",
+        "Korea"
+    ],
+    "type": "Vine",
+    "dimension": "20.00 to 40.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=649&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=649&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=649&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Chocolate-purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Chocolate vine is a stunning climbing plant with beautiful, dusky purple flowers and lush dark foliage. Utilizing its strong vines, the plant can grow up to 20 feet, covering walls and trees. The fragrant bloom makes it attractive to pollinators and it also produces edible, sweet-tasting purple fruits. Its unique, chocolatey scent adds a touch of luxury to any garden. A hardy and easy-to-maintain perennial, chocolate vine is a wonderful addition to any landscape, exuding mysterious vibes and enriching the space in an unforgettable way.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/649_akebia_quinata/og/14766055561_6e9fcb386e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/649_akebia_quinata/regular/14766055561_6e9fcb386e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/649_akebia_quinata/medium/14766055561_6e9fcb386e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/649_akebia_quinata/small/14766055561_6e9fcb386e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/649_akebia_quinata/thumbnail/14766055561_6e9fcb386e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

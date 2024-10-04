@@ -1,0 +1,97 @@
+{
+    "id": 676,
+    "common_name": "allium",
+    "scientific_name": [
+        "Allium kunthianum"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Caucasus"
+    ],
+    "type": "Bulb",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Bulb Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=676&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=676&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": null,
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=676&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale pink with purple midveins",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Allium kunthianum is a wonderful plant species for gardeners who like to watch the blooming of colorful flowers. Characterized by its pink and white flowers, this species is also a great pollinator of the garden. Its pom-pom like inflorescence adds an amazing aesthetic touch to any home garden. Its smooth, tough texture is also untouched when growing in extreme weather conditions. Allium kunthianum\u2019s evergreen foliage provides year-round beauty and interest, while the flowers attract lofty butterflies and hummingbirds. All these features, combined with its ease of cultivation make it an ideal choice as an ornamental plant, both in rock gardens and in beds.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/676_allium_kunthianum/og/52682376381_361b1dbf1e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/676_allium_kunthianum/regular/52682376381_361b1dbf1e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/676_allium_kunthianum/medium/52682376381_361b1dbf1e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/676_allium_kunthianum/small/52682376381_361b1dbf1e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/676_allium_kunthianum/thumbnail/52682376381_361b1dbf1e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

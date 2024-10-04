@@ -1,0 +1,120 @@
+{
+    "id": 664,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium 'Ambassador'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Netherlands"
+    ],
+    "type": "Bulb",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=664&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=664&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "December",
+        "January"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=664&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The ornamental onion (Allium 'Ambassador') is an amazing plant for any garden. Its tall, 2-foot umbels of bright purple flowers rise high above its deep green foliage, creating a dramatic statement in any landscape. Not only are the blooms beautiful to look at, but they also release a wonderful garlic-like aroma that adds to the ambiance. Its light purple, round bulbs are often used as an ornamental feature, either in the garden or in a potted display. Plus, the ornamental onion is surprisingly easy to care for and can survive in most climates. For a stunning and aromatic touch to any garden, ornamental onion (Allium 'Ambassador') is an excellent choice.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/664_allium_ambassador/og/52265692295_ef78282782_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/664_allium_ambassador/regular/52265692295_ef78282782_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/664_allium_ambassador/medium/52265692295_ef78282782_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/664_allium_ambassador/small/52265692295_ef78282782_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/664_allium_ambassador/thumbnail/52265692295_ef78282782_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,117 @@
+{
+    "id": 635,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Arctic Fox'"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=635&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=635&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=635&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "tan"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Arctic Fox') is an amazing plant species that is sure to brighten up your garden. It has an attractive, bright green foliage that has white margins, making it stand out in any garden. This unique coloration is enhanced by its vibrant, blue flower spikes in spring. Not only is it beautiful, bugleweed is also quite hardy and easy to grow in even difficult spots. It will easily spread across large areas and does well in both sun and part shade. It is also very low maintenance, able to withstand drought conditions, and tolerant of a wide range of soil types. It doesn\u2019t require much water, so it is both economical and eco-friendly. With bugleweed in your garden, it hosts a show of brilliant color that is sure to please.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

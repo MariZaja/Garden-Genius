@@ -1,0 +1,121 @@
+{
+    "id": 623,
+    "common_name": "chu-lan tree",
+    "scientific_name": [
+        "Aglaia edulis"
+    ],
+    "other_name": [],
+    "family": "Meliaceae",
+    "origin": [
+        "Bhutan",
+        "Cambodia",
+        "China",
+        "India",
+        "Indonesia",
+        "Malaysia",
+        "Myanmar",
+        "Philippines",
+        "Thailand",
+        "Vietnam"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "20.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=623&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=623&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=623&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Orange-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The chu-lan tree (Aglaia edulis) is an unique and amazing species. It has a mottled bark, which adds great visual interest and a unique texture to the landscape. Its leaves are glossy and light green in color, and they can be used for herbal remedies and infusions. Additionally, its sweet-smelling white flowers have been used in perfumes for centuries. This tree produces edible fruit, making it a popular source of food. On top of that, the chu-lan tree is also known for its tolerance to drought and frost, making it an attractive choice for landscapers around the world. In short, the chu-lan tree is an extraordinary species, and easily stands out from the rest.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/623_aglaia_edulis/og/726px-MeC3B1C3B1efum_tol.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/623_aglaia_edulis/regular/726px-MeC3B1C3B1efum_tol.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/623_aglaia_edulis/medium/726px-MeC3B1C3B1efum_tol.jpg",
+        "small_url": "https://perenual.com/storage/species_image/623_aglaia_edulis/small/726px-MeC3B1C3B1efum_tol.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/623_aglaia_edulis/thumbnail/726px-MeC3B1C3B1efum_tol.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

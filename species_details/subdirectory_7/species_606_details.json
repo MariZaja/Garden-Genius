@@ -1,0 +1,134 @@
+{
+    "id": 606,
+    "common_name": "American century plant",
+    "scientific_name": [
+        "Agave americana"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Southwestern United States",
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "3.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=606&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=606&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "thorn",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "sheltered"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=606&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Root rot",
+        " Scale insects",
+        "  Pest resistant",
+        " Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Greenish yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The American century plant, or Agave americana, is an amazing, low maintenance succulent that can stay green for years. It is native to the deserts of the southwestern US, which makes it the perfect pick for a drought-tolerant garden. This tough plant can reach heights of up to 23 feet, making it a great choice for a show-stopping hedge. Furthermore, its stunning blue leaves are even edged with yellow and provide beautiful contrast in any garden. As a bonus, it will reward gardeners biannually with beautiful white and yellow blooms.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/606_agave_americana/og/51350574500_deff0b0166_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/606_agave_americana/regular/51350574500_deff0b0166_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/606_agave_americana/medium/51350574500_deff0b0166_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/606_agave_americana/small/51350574500_deff0b0166_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/606_agave_americana/thumbnail/51350574500_deff0b0166_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

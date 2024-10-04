@@ -1,0 +1,123 @@
+{
+    "id": 647,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Valfredda' CHOCOLATE CHIP"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=647&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=647&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=647&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown",
+        "tan",
+        "black"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "brown",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Valfredda' CHOCOLATE CHIP) is an amazing plant species to add to your garden. It is an ornamental evergreen ground cover with small dark green leaves and purple flower spikes. Its unique color combination and texture makes it an eye-catching addition to any green space. What makes it even more special are the chocolate brown variegated foliage. This shade-tolerant perennial is easy to grow, disease-resistant and low-maintenance. It withstands cold winters and will brighten up any dull garden in summer. Best of all, Bugleweed's spread is controlled, so you don't have to worry about it taking over your garden. Ultimately, Bugleweed is an excellent choice for any garden and will provide a stunning and vibrant display.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/647_ajuga_reptans_valfredda_chocolate_chip/og/Ajuga_reptans_valfredda_002.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/647_ajuga_reptans_valfredda_chocolate_chip/regular/Ajuga_reptans_valfredda_002.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/647_ajuga_reptans_valfredda_chocolate_chip/medium/Ajuga_reptans_valfredda_002.jpg",
+        "small_url": "https://perenual.com/storage/species_image/647_ajuga_reptans_valfredda_chocolate_chip/small/Ajuga_reptans_valfredda_002.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/647_ajuga_reptans_valfredda_chocolate_chip/thumbnail/Ajuga_reptans_valfredda_002.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

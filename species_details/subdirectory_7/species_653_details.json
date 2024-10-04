@@ -1,0 +1,140 @@
+{
+    "id": 653,
+    "common_name": "hollyhock",
+    "scientific_name": [
+        "Alcea rosea"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Garden origin"
+    ],
+    "type": "Shrub",
+    "dimension": "5.00 to 8.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=653&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=653&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "red-pink"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=653&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Mites",
+        " Rust",
+        "  Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White, pink & red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "yellow",
+        "purple",
+        "orange",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hollyhock (Alcea rosea) is a beautiful and versatile plant that is easy to grow. With blooms that come in shades of pink, purple, yellow, and white, it will add a splash of vivid color to any garden. It has tall stalks of large flowers and is undemanding and very tolerant, growing in a range of soils and climates. It is also a great choice for a wildlife garden, attracting beneficial insects like bees and hoverflies. Its flowers also make for a stunning cut flower for arranging. Hollyhock is an amazing plant and a timeless favorite in the garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/653_alcea_rosea/og/52177324906_3e75a503f7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/653_alcea_rosea/regular/52177324906_3e75a503f7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/653_alcea_rosea/medium/52177324906_3e75a503f7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/653_alcea_rosea/small/52177324906_3e75a503f7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/653_alcea_rosea/thumbnail/52177324906_3e75a503f7_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

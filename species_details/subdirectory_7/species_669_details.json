@@ -1,0 +1,108 @@
+{
+    "id": 669,
+    "common_name": "chives",
+    "scientific_name": [
+        "Allium 'Chivette'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=669&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=669&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=669&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Lavender-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Chives (Allium 'Chivette') are a herbaceous perennial famed for their culinary uses, appeal and mild onion flavor. In the garden they form very attractive clumps of glossy, grass-like blue-green foliage and star-shaped, purple flowers that bloom in summer. The flower and foliage have a wonderful scent and attract beneficial insects. Chivette is a relatively pest and disease-free, low maintenance ornamental and edible, withstanding even cold winters. In the kitchen, the leaves can be snipped and used in salads, sauces, and other dishes. Plant your chives in a sunny spot and enjoy sweet-smelling foliage that's delicious too!",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/669_allium_chivette/og/pexels-photo-8332487.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/669_allium_chivette/regular/pexels-photo-8332487.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/669_allium_chivette/medium/pexels-photo-8332487.jpg",
+        "small_url": "https://perenual.com/storage/species_image/669_allium_chivette/small/pexels-photo-8332487.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/669_allium_chivette/thumbnail/pexels-photo-8332487.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

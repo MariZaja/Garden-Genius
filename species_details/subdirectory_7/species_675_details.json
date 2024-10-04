@@ -1,0 +1,123 @@
+{
+    "id": 675,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium karataviense"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Central Asia"
+    ],
+    "type": "Bulb",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=675&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=675&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pale-pink",
+                "ivory-yellow-white",
+                "pink-white",
+                "purple-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "pink-green",
+                "silvery-green",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=675&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ornamental onion (Allium karataviense) is an amazing plant for many reasons. It is a hardy bulb from Central Asia with striking, star-shaped flowers in shades of purple and pink. Its leaves die back after flowering in midsummer and the flowers last until fall. It is perfect for a low-water garden as it is drought tolerant and prefers well-drained soil. It attracts butterflies and bees to the garden and can even be planted indoors for a stunning show of flowers. It also has beautiful, grass-like foliage and is an easy plant to care for - making it the perfect choice for a low-maintenance garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/675_allium_karataviense/og/27838217802_ea1b2fd173_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/675_allium_karataviense/regular/27838217802_ea1b2fd173_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/675_allium_karataviense/medium/27838217802_ea1b2fd173_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/675_allium_karataviense/small/27838217802_ea1b2fd173_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/675_allium_karataviense/thumbnail/27838217802_ea1b2fd173_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

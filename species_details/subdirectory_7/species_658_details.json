@@ -1,0 +1,128 @@
+{
+    "id": 658,
+    "common_name": "lady's mantle",
+    "scientific_name": [
+        "Alchemilla mollis 'Thriller'"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "Western Asia",
+        "Europe"
+    ],
+    "type": "Herb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=658&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=658&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=658&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Crown rot",
+        " Slugs",
+        "snails",
+        "  Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Chartreuse",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Lady's mantle (Alchemilla mollis 'Thriller') is an amazingly versatile plant that works in both formal and informal gardens. Its unique, ruffled foliage forms a mounding habit that is fantastic as a low growing, spreading edging plant. Its small yellow flowers also add interesting accents to your garden \u2013 like little face shapes poking out from the foliage. It does particularly well in moist soil and can survive in both partial shade and full sun. It is also a great groundcover for problem areas due to its willowy branches and deep green color. Furthermore, it is easy to maintain and is a great choice for the low maintenance gardener.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/658_alchemilla_mollis_thriller/og/6989599758_f6eacf968f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/658_alchemilla_mollis_thriller/regular/6989599758_f6eacf968f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/658_alchemilla_mollis_thriller/medium/6989599758_f6eacf968f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/658_alchemilla_mollis_thriller/small/6989599758_f6eacf968f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/658_alchemilla_mollis_thriller/thumbnail/6989599758_f6eacf968f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,126 @@
+{
+    "id": 645,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Silver Beauty'"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=645&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=645&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=645&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "silver",
+        "brown",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Silver Beauty') is an amazing plant species, renowned for its variegated foliage and beautiful purple flower spikes that bloom throughout spring and summer. Unlike other varieties, 'Silver Beauty' features glossy, silver-green foliage that adds an elegant touch to gardens. Its low-maintenance nature means it requires little care and attention, allowing gardeners to enjoy its beauty without too much fuss. Plus, it's relatively pest and disease resistant, meaning even those with black thumbs can enjoy the beauty of this resilient plant. Best of all, this fast-growing species makes an ideal ground-cover and perfect addition to rock gardens, meadows, borders, and more!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/645_ajuga_reptans_silver_beauty/og/Ajuga_reptans_2zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/645_ajuga_reptans_silver_beauty/regular/Ajuga_reptans_2zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/645_ajuga_reptans_silver_beauty/medium/Ajuga_reptans_2zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/645_ajuga_reptans_silver_beauty/small/Ajuga_reptans_2zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/645_ajuga_reptans_silver_beauty/thumbnail/Ajuga_reptans_2zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

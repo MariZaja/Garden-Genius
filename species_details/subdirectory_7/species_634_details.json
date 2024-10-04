@@ -1,0 +1,152 @@
+{
+    "id": 634,
+    "common_name": "common bugle",
+    "scientific_name": [
+        "Ajuga reptans"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=634&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=634&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "blue-violet"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=634&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "bronze",
+        "green",
+        "purple",
+        "pink",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Common bugle (Ajuga reptans) is an amazing plant species that can be used to decorate any garden. It is a low-growing, evergreen herbaceous perennial with vibrant, star-shaped foliage that emerges in shades of steel blue, deep green or purple. Its small, blue flowers form a dense mat in the late spring season, contributing color and texture to any garden. This perennial also has a rapid spread rate and is able to grow in partially shaded areas, making it an excellent ground cover. It is hardy, cold-tolerant, drought-resistant and deer-resistant. Plus, its foliage can be used as an ornamental in floral arrangements. All around, common bugle is an eye-catching species that pairs well with other plants, making it a great addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/634_ajuga_reptans/og/52079855469_b3fea85b0e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/634_ajuga_reptans/regular/52079855469_b3fea85b0e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/634_ajuga_reptans/medium/52079855469_b3fea85b0e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/634_ajuga_reptans/small/52079855469_b3fea85b0e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/634_ajuga_reptans/thumbnail/52079855469_b3fea85b0e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

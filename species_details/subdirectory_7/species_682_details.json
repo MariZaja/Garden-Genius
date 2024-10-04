@@ -1,0 +1,112 @@
+{
+    "id": 682,
+    "common_name": "garlic",
+    "scientific_name": [
+        "Allium sativum 'Inchelium Red'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Bulb Propagation",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=682&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=682&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=682&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pinkish-white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "purple",
+        "burgundy"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Garlic (Allium sativum 'Inchelium Red') is a unique and flavorful variety of garlic. It features large, purple-red bulbs that contain more of the spicy, flavorful compounds that make garlic so amazing. It is rich in antioxidants, vitamins, and minerals that can help maintain health, and has antiviral, antifungal, and antibacterial properties. Plus, the Inchelium Red variety has a very long storage life, so you can store it in a cool and dry place for up to eight months. In addition, it has a wonderful flavor that adds a zing to dishes, making it a great choice for any chef. In short, garlic (Allium sativum 'Inchelium Red') is truly amazing!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/682_allium_sativum_inchelium_red/og/11301560876_8e5813f1a9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/682_allium_sativum_inchelium_red/regular/11301560876_8e5813f1a9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/682_allium_sativum_inchelium_red/medium/11301560876_8e5813f1a9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/682_allium_sativum_inchelium_red/small/11301560876_8e5813f1a9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/682_allium_sativum_inchelium_red/thumbnail/11301560876_8e5813f1a9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

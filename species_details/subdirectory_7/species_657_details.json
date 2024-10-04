@@ -1,0 +1,132 @@
+{
+    "id": 657,
+    "common_name": "lady's mantle",
+    "scientific_name": [
+        "Alchemilla mollis"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "Western Asia",
+        "Europe"
+    ],
+    "type": "Herb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=657&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=657&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green",
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+    ],
+    "pruning_month": [
+        "May",
+        "May",
+        "June",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=657&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Easy",
+    "pest_susceptibility": [
+        "Crown rot",
+        " Slugs",
+        "snails",
+        "  Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Chartreuse",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Lady's mantle (Alchemilla mollis) is an amazing, hardy little plant that loves to spread and make amazing ground cover. It features buttery yellow clusters of flowers, deep lobed leaves, and amazing evening dew that gathers on the leaves. It's not fussy about soil, and it loves sunny and shady spots alike. It's also ideal for growing in borders, rock gardens, and even containers. Its deep colors add to the beauty of any garden, and its easy-care growing habits complete the package. Lady's mantle is an amazing, versatile addition to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/657_alchemilla_mollis/og/52123708969_7cab2fd287_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/657_alchemilla_mollis/regular/52123708969_7cab2fd287_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/657_alchemilla_mollis/medium/52123708969_7cab2fd287_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/657_alchemilla_mollis/small/52123708969_7cab2fd287_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/657_alchemilla_mollis/thumbnail/52123708969_7cab2fd287_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

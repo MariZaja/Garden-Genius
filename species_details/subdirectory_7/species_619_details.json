@@ -1,0 +1,126 @@
+{
+    "id": 619,
+    "common_name": "white snakeroot",
+    "scientific_name": [
+        "Ageratina altissima"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stolon"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=619&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=619&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-colored"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-colored"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=619&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "White snakeroot (Ageratina altissima) is an amazing native wildflower species. It is known for its vigorous growth, and its thick cluster of tiny snowy-white floral heads. The mat forming herbaceous perennial stays evergreen, and can tolerate a variety of soil conditions and light levels. The flowers are visited by a variety of pollinators, and when the flowers are done, they are replaced by showy seed heads. The white snakeroot has a long history of medicinal use, and the root of the plant is said to have powerful healing properties. But moreover, its beauty and graceful structure make it an amazing addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/619_ageratina_altissima/og/21285911241_2a4f83a3d4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/619_ageratina_altissima/regular/21285911241_2a4f83a3d4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/619_ageratina_altissima/medium/21285911241_2a4f83a3d4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/619_ageratina_altissima/small/21285911241_2a4f83a3d4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/619_ageratina_altissima/thumbnail/21285911241_2a4f83a3d4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,127 @@
+{
+    "id": 686,
+    "common_name": "chives",
+    "scientific_name": [
+        "Allium schoenoprasum 'Snowcap'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Temperate Northern Hemisphere"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=686&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=686&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "November",
+        "December",
+        "January",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 3,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=686&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [
+        "Rust",
+        " Thrips",
+        "  Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Chives (Allium schoenoprasum 'Snowcap') are an amazing herb that are incredibly versatile. Their small, white florets resemble snow, giving them the beautiful 'Snowcap' name. Their mild onion and garlic flavor makes them perfect for adding freshness to dishes like salads, omelets, and mashed potatoes. In addition to being a delicious addition to your meals, they add a bit of eye-catching beauty to your garden. As perennials, they'll come back each year and they are easy to maintain - simply trim them back in the spring and they\u2019ll remain lush and healthy throughout the season. Chives are a great way to spice up your meals and your garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/686_allium_schoenoprasum_snowcap/og/Allium_schoenoprasum_001.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/686_allium_schoenoprasum_snowcap/regular/Allium_schoenoprasum_001.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/686_allium_schoenoprasum_snowcap/medium/Allium_schoenoprasum_001.jpg",
+        "small_url": "https://perenual.com/storage/species_image/686_allium_schoenoprasum_snowcap/small/Allium_schoenoprasum_001.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/686_allium_schoenoprasum_snowcap/thumbnail/Allium_schoenoprasum_001.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

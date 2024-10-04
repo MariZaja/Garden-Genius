@@ -1,0 +1,141 @@
+{
+    "id": 650,
+    "common_name": "alangium",
+    "scientific_name": [
+        "Alangium platanifolium"
+    ],
+    "other_name": [],
+    "family": "Cornaceae",
+    "origin": [
+        "China",
+        "Japan"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "12.00 to 15.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 12,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=650&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=650&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-yellow"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=650&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "White with yellow anthers",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "yellow",
+        "orange",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Alangium platanifolium is an amazing plant species that provides beautiful flowers, foliage and fruit. Its white, fragrant flowers with pink to purple centers have five long petals, and they are held high above its green, large, oval-shaped leaves. The flowers are followed by the distinctive curious looking fruits that can range in size from 1/2 inch to 1 inch. This species is also drought-tolerant and can do well in full sun or partial shade. All in all, Alangium platanifolium is an excellent choice for brightening up your garden with its beauty and hardiness.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/650_alangium_platanifolium/og/50165791711_849d3d5107_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/650_alangium_platanifolium/regular/50165791711_849d3d5107_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/650_alangium_platanifolium/medium/50165791711_849d3d5107_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/650_alangium_platanifolium/small/50165791711_849d3d5107_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/650_alangium_platanifolium/thumbnail/50165791711_849d3d5107_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

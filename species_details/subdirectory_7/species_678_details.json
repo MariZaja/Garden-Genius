@@ -1,0 +1,120 @@
+{
+    "id": 678,
+    "common_name": "German garlic",
+    "scientific_name": [
+        "Allium lusitanicum"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Europe"
+    ],
+    "type": "Bulb",
+    "dimension": "0.75 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=678&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=678&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=678&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale pink to pinkish-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "German garlic, scientific name Allium lusitanicum, is a diverse and hardy plant species. It is known for its strong garlic-like flavor and aroma. Its taste is milder and sweeter than other garlic varieties, making it highly sought after. This species is drought resistant and grows best in full sun. It is easy to care for and requires no special attention. German garlic is also disease resistant, making it excellent to plant in diverse climates. It is a great addition to gardens, patios, and outdoor living areas, providing color and texture. Its strong aroma also deters many insects and pests. German garlic is an amazing plant that adds flavor, beauty, and protection to any outdoor area.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/678_allium_lusitanicum/og/52284274607_40b7c8241e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/678_allium_lusitanicum/regular/52284274607_40b7c8241e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/678_allium_lusitanicum/medium/52284274607_40b7c8241e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/678_allium_lusitanicum/small/52284274607_40b7c8241e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/678_allium_lusitanicum/thumbnail/52284274607_40b7c8241e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

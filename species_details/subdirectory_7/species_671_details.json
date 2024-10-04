@@ -1,0 +1,138 @@
+{
+    "id": 671,
+    "common_name": "scallion",
+    "scientific_name": [
+        "Allium fistulosum"
+    ],
+    "other_name": [
+        "Welsh onion",
+        "Japanese bunching onion",
+        "Japanese bunching onion"
+    ],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Central China"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=671&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=671&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "bulbs",
+            "color": [
+                "white-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "June",
+        "July",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=671&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Root rot",
+        " Rust",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Showy, White, (yellow anthers)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The scallion is a truly amazing vegetable! It is an onion variety with a unique taste and crunchy texture, and has a milder flavor than other onions. Depending on the variety, scallions may have a slightly sweet taste, making them a popular addition to salads and other dishes. Plus, scallions are incredibly versatile - thin slices of it can be used to garnish everything from fried rice to tacos, or even cooked in a stir-fry. Plus, their strong root system requires minimal weeding and fertilizing, making them a great addition to any garden. Their beauty and flavour make them an indispensable part of any culinary masterpiece. In short, the scallion is an excellent choice for those seeking both flavor and convenience!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/671_allium_fistulosum/og/25082567665_7c36a69c15_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/671_allium_fistulosum/regular/25082567665_7c36a69c15_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/671_allium_fistulosum/medium/25082567665_7c36a69c15_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/671_allium_fistulosum/small/25082567665_7c36a69c15_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/671_allium_fistulosum/thumbnail/25082567665_7c36a69c15_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 666,
+    "common_name": "wild leek",
+    "scientific_name": [
+        "Allium babingtonii"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Ireland"
+    ],
+    "type": "Bulb",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=666&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=666&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=666&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Mauve to greenish white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Wild leek (Allium babingtonii) is a unique and amazing species of flowering plant. It has spectacular, white flowers that look like stars, and small, oblong stemless leaves. Its blue-green foliage stands out in the garden and makes a great contrast to other plants. What's more, it has an edible bulb that can be eaten raw, cooked or used in salads. Its strong flavour and garlicky aroma make it a popular ingredient in cuisine. It can tolerate colder temperatures and requires minimal maintenance, making it a must-have plant for any garden. With its incredible flowers, culinary use, and low-maintenance nature, wild leek is truly an amazing species.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/666_allium_babingtonii/og/52351847169_fed2da6e16_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/666_allium_babingtonii/regular/52351847169_fed2da6e16_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/666_allium_babingtonii/medium/52351847169_fed2da6e16_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/666_allium_babingtonii/small/52351847169_fed2da6e16_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/666_allium_babingtonii/thumbnail/52351847169_fed2da6e16_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

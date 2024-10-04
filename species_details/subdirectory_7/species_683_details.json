@@ -1,0 +1,125 @@
+{
+    "id": 683,
+    "common_name": "garlic",
+    "scientific_name": [
+        "Allium sativum 'Music'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Central Asia",
+        "Iran",
+        "Afghanistan",
+        "Pakistan",
+        "India",
+        "China"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation",
+        "Scaling"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=683&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=683&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "1-2",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "bulbs",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "roots",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=683&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pinkish-white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Garlic (Allium sativum 'Music') is an amazing plant that has the perfect combination of versatility and flavor. Its bulbs contain big cloves that feature a vibrant purple skin and creamy white flesh. This strain of garlic is especially notable because its mild taste is far more subtle than many other garlic varieties. Its low sulfur content also makes it especially great for pickling and canning. Whether stewed in sauces, grilled, or roasted, garlic is a wonder to savor. Plus, it is also known for its many health benefits, so it's a win-win!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/683_allium_sativum_music/og/52585999934_4393704522_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/683_allium_sativum_music/regular/52585999934_4393704522_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/683_allium_sativum_music/medium/52585999934_4393704522_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/683_allium_sativum_music/small/52585999934_4393704522_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/683_allium_sativum_music/thumbnail/52585999934_4393704522_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

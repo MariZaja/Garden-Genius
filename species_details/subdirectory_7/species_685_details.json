@@ -1,0 +1,131 @@
+{
+    "id": 685,
+    "common_name": "chives",
+    "scientific_name": [
+        "Allium schoenoprasum"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Temperate Northern Hemisphere"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=685&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=685&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=685&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Rust",
+        " Thrips",
+        "  Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Chives (Allium schoenoprasum) are an amazing addition to any garden. Their flat leaf blades make an attractive display of green throughout the growing season, and the bright purple flowers from mid-summer through fall attract butterflies and honeybees. Besides adding a splash of color to the garden, chives also serve a culinary purpose. The leaves are an essential ingredient for many dishes, offering a mild onion flavor and a hint of garlic. Chives can also be used to make delicious sauces, salads, spreads, and even a delightful chive cream cheese spread. Not only do they jazz up your cooking, they are packed with vitamins and minerals like potassium, iron, and vitamins A, C, and K! So get those chives planted and reap the benefits of this garden wonder.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/685_allium_schoenoprasum/og/52051352635_47e6334d92_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/685_allium_schoenoprasum/regular/52051352635_47e6334d92_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/685_allium_schoenoprasum/medium/52051352635_47e6334d92_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/685_allium_schoenoprasum/small/52051352635_47e6334d92_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/685_allium_schoenoprasum/thumbnail/52051352635_47e6334d92_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

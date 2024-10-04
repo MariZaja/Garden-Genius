@@ -1,0 +1,135 @@
+{
+    "id": 656,
+    "common_name": "hollyhock",
+    "scientific_name": [
+        "Alcea rugosa"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Caucasus",
+        "Crimea",
+        "European Russia",
+        "Ukraine"
+    ],
+    "type": "Shrub",
+    "dimension": "4.00 to 9.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 9,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=656&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=656&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "cream-yellow",
+                "white-yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=656&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The hollyhock is an incredible plant that can brighten any landscape. It's elegant, ruffled blooms have a life cycle of one season, and can range in colors from pink, white and yellow. Its dark green foliage is composed of deeply serrated leaves that appear to have been cut by scissor, making it an excellent addition to any garden. Grown from seeds, the hollyhock can reach heights of up to 8-10 feet tall, adding striking vertical interest to a garden. Pollinators love this plant, and butterflies and hummingbirds can often be seen flitting from petal to petal. Planting hollyhocks pairs well with other h",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/656_alcea_rugosa/og/7850732032_1e91b38508_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/656_alcea_rugosa/regular/7850732032_1e91b38508_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/656_alcea_rugosa/medium/7850732032_1e91b38508_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/656_alcea_rugosa/small/7850732032_1e91b38508_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/656_alcea_rugosa/thumbnail/7850732032_1e91b38508_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

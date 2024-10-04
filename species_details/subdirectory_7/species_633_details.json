@@ -1,0 +1,97 @@
+{
+    "id": 633,
+    "common_name": "ajania",
+    "scientific_name": [
+        "Ajania pacifica 'Pink Ice'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Shrub",
+    "dimension": "0.75 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Division",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=633&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=633&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "June",
+        "July",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=633&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Autumn",
+    "flower_color": "Light pink rays with yellow centers",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink",
+        "cream"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ajania pacifica 'Pink Ice' is a truly amazing plant that brightens up any garden. Featuring silver-gray foliage with rosy-coral highlights, this tough perennial is drought and salt tolerant, making it ideal for coastal gardens. It blooms small daisy-like flowers throughout summer, adding a splash of pink or yellow to your garden. With clumping habits, it creates mounds of attractive foliage, and is deer, rabbit, and drought tolerant. This makes it easy to maintain and reuse with minimal effort. Its unique colors and easy adaptability make it an amazing plant to admire and enjoy.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

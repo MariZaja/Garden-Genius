@@ -1,0 +1,134 @@
+{
+    "id": 688,
+    "common_name": "German garlic",
+    "scientific_name": [
+        "Allium senescens"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Europe",
+        "temperate Asia"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=688&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=688&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "lavender-white",
+                "lavender-pink"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=688&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale pink to purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "German garlic (Allium senescens) is an amazing plant species with many benefits. It is a perennial bulb belonging to the onion family and has edible bulbs and hollow leaves with a garlic-like odor. This hardy plant is extremely easy to grow, with a long harvesting period for its bulbs. The flavor of its bulbs is milder than most other garlic varieties. Its Vitamin C and antiviral compounds make it a great choice for health conscious households. It's also perfect for landscaping, as its round bulbs and flat leaves make it an ornamental feature in a garden. German garlic is truly one of the most amazing plant species out there.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/688_allium_senescens/og/49188833203_d33c16cbe0_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/688_allium_senescens/regular/49188833203_d33c16cbe0_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/688_allium_senescens/medium/49188833203_d33c16cbe0_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/688_allium_senescens/small/49188833203_d33c16cbe0_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/688_allium_senescens/thumbnail/49188833203_d33c16cbe0_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

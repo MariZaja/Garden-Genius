@@ -1,0 +1,151 @@
+{
+    "id": 655,
+    "common_name": "hollyhock",
+    "scientific_name": [
+        "Alcea rosea (single)"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Garden origin"
+    ],
+    "type": "Shrub",
+    "dimension": "5.00 to 8.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=655&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=655&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pink-red-yellow",
+                "red",
+                "red-yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "blooms",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=655&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Mites",
+        " Rust",
+        "  Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White, pink & red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "purple",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Hollyhock (Alcea Rosea) is an incredible flower that makes a stunning addition to any garden. With its beautiful, five petal blooms, the plant can reach up to 6 feet in height and can be found in a variety of colors including pink, yellow, white, and purple. The flowers are most often single and tend to be bi-colored with a dark center. Planting this flower in your garden will provide you with a great deal of beauty and contrast as the leaves and flower buds take on a deep purple hue before the blooms appear. Not only are these flowers eye-catching, but they are also highly fragrant, perfect for attracting pollinators to your garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/655_alcea_rosea_single/og/51265082640_c6f378dbd5_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/655_alcea_rosea_single/regular/51265082640_c6f378dbd5_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/655_alcea_rosea_single/medium/51265082640_c6f378dbd5_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/655_alcea_rosea_single/small/51265082640_c6f378dbd5_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/655_alcea_rosea_single/thumbnail/51265082640_c6f378dbd5_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

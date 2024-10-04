@@ -1,0 +1,129 @@
+{
+    "id": 639,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Burgundy Glow'"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=639&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=639&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=639&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "tan",
+        "burgundy",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "bronze",
+        "green",
+        "purple",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Burgundy Glow') is an amazing groundcover that adds texture and color to any landscape. It grows quickly, blooms in late spring or early summer with gorgeous deep pink flowers, and provides year-round interest with maroon- and bronze-tinged foliage. Very hardy, it does well in sun or partial shade and tolerates a wide range of soils. As an added bonus, it is also deer-resistant and requires little maintenance once established. Perfect for planting in large areas, it is both drought- and heat-tolerant and a great choice for outdoor gardens and residential settings.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/og/Ajuga_27Burgundy_Glow27_01.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/regular/Ajuga_27Burgundy_Glow27_01.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/medium/Ajuga_27Burgundy_Glow27_01.jpg",
+        "small_url": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/small/Ajuga_27Burgundy_Glow27_01.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/639_ajuga_reptans_burgundy_glow/thumbnail/Ajuga_27Burgundy_Glow27_01.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

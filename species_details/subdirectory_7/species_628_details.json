@@ -1,0 +1,121 @@
+{
+    "id": 628,
+    "common_name": "Chinese evergreen",
+    "scientific_name": [
+        "Aglaonema 'Silver Queen'"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Shrub",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Leaf Cutting"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=628&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=628&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "full shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=628&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White spadix with greenish-yellow spathe",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Chinese evergreen (Aglaonema 'Silver Queen') is one of the most popular houseplants because of its ease of care and gorgeous foliage. Its lush, dark green leaves can be splashed with colors of silver, gray, and white, making it a stunning addition to any home. Not only is it beautiful, but it is also very low maintenance, requiring little light and water to thrive. Additionally, it is known to purify the air and help reduce airborne toxins. These long-living plants can bring a bit of nature indoors and put a pleasant pop of color in any home.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/og/24798632751_3a039ecbc6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/regular/24798632751_3a039ecbc6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/medium/24798632751_3a039ecbc6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/small/24798632751_3a039ecbc6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/thumbnail/24798632751_3a039ecbc6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

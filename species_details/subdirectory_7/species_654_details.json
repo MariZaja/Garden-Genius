@@ -1,0 +1,131 @@
+{
+    "id": 654,
+    "common_name": "hollyhock",
+    "scientific_name": [
+        "Alcea rosea 'Nigra'"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Garden origin"
+    ],
+    "type": "Shrub",
+    "dimension": "5.00 to 8.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=654&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=654&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "dark-maroon"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=654&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Mites",
+        " Rust",
+        "  Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White, pink & red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "black"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hollyhock (Alcea rosea 'Nigra') is truly an amazing plant species. It boasts stunning deep purple, velvety flowers with intricate yellow stamens that add visual interest to any garden. Longer-lasting than many other perennial plants, this species of hollyhock blooms from summer through to fall and is an excellent source of nectar for pollinators. The deep purple hue is a striking addition to any outdoor space, and its hardiness makes it easy to propagate and grow. Its upright habit and resistance to rabbits and deer make it the ideal choice for both private and public gardens. Whether you\u2019re a novice gardener or a seasoned expert, there is nothing quite like the majestic beauty of hollyhock 'Nigra.'",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/654_alcea_rosea_nigra/og/7972146336_7430b09f99_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/654_alcea_rosea_nigra/regular/7972146336_7430b09f99_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/654_alcea_rosea_nigra/medium/7972146336_7430b09f99_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/654_alcea_rosea_nigra/small/7972146336_7430b09f99_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/654_alcea_rosea_nigra/thumbnail/7972146336_7430b09f99_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

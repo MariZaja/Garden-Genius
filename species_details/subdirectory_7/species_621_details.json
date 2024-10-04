@@ -1,0 +1,123 @@
+{
+    "id": 621,
+    "common_name": "floss flower",
+    "scientific_name": [
+        "Ageratum houstonianum"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Flower",
+    "dimension": "0.50 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=621&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=621&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=621&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Crown rot",
+        " Mold",
+        " Root rot",
+        " Rust",
+        "  Deer resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Medium blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Floss flower (Ageratum houstonianum) is an amazing species of flower due to its beautiful and lively display of bloom. It has petite, fluffy flowers that come in a range of vibrant colors, including blue, purple and white. The blooms look like miniature puffs of cotton candy, adding a whimsical and delicate feel to any garden. The floss flower grows well in temperatures from 65-70 degrees Fahrenheit and requires minimal maintenance. Its prolific blooms are known to last for months and can provide exceptional color to a garden for most of the growing season.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/621_ageratum_houstonianum/og/51344979097_90743ec1fc_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/621_ageratum_houstonianum/regular/51344979097_90743ec1fc_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/621_ageratum_houstonianum/medium/51344979097_90743ec1fc_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/621_ageratum_houstonianum/small/51344979097_90743ec1fc_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/621_ageratum_houstonianum/thumbnail/51344979097_90743ec1fc_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,136 @@
+{
+    "id": 640,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Catlin's Giant'"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=640&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=640&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue-violet"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "brown-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February",
+        "May",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=640&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Catlin's Giant') is a stunning plant species with uniquely eye-catching green, purple, and bronze foliage. Growing up to 40 cm in height with a spread of over 60 cm, it\u2019s perfect for a ground cover effect. It\u2019s also often used in rock gardens, woodlands and as an edging plant. Its spectacular pinkish lavender flowers appear from early to late spring. Best of all, it\u2019s known to be quite tolerant of dry soils and difficult conditions where other plants may struggle. The great adaptable qualities make Bugleweed an amazing plant to have in any garden!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/640_ajuga_reptans_catlins_giant/og/17052157095_7cbeecd445_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/640_ajuga_reptans_catlins_giant/regular/17052157095_7cbeecd445_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/640_ajuga_reptans_catlins_giant/medium/17052157095_7cbeecd445_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/640_ajuga_reptans_catlins_giant/small/17052157095_7cbeecd445_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/640_ajuga_reptans_catlins_giant/thumbnail/17052157095_7cbeecd445_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

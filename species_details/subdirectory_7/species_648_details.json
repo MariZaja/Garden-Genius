@@ -1,0 +1,93 @@
+{
+    "id": 648,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga 'Sparkler'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "0.25 to 0.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.25,
+        "max_value": 0.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=648&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=648&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=648&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga 'Sparkler') is an amazing plant species that will provide spectacular groundcover in any garden setting. Its deep green, lobed leaves form a dense mat of foliage filled with dramatic yellow and deep lavender-blue flower spikes. This low-growing and fast-growing plant will provide cooling shade for other plants in the garden. In addition to its attractive blooms and foliage, bugleweed is also quite tolerant of various conditions such as drought, wet soils, and some shade. Because of its ability to spread quickly and cover a large area, bugleweed makes a great choice for both rock gardens and other landscape spaces. It is also deer-resistant and can easily handle a wide range of soil pH levels. With its quick growth, bugleweed can be a great way to fill a difficult part of the garden.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 618,
+    "common_name": "century plant",
+    "scientific_name": [
+        "Agave victoriae-reginae"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "0.75 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Offsets",
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=618&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=618&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=618&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The century plant, or Agave victoriae-reginae, is truly an amazing species. Native to Mexico, this hardy, drought-tolerant succulent can live for decades, giving it its namesake status. It produces vibrantly colored yellow-green flower spikes that can reach up to 18 feet in height, providing a stunning addition to any garden. The deep green foliage creates a unique, architectural look that can be enjoyed all year round. With a little TLC and protection from frost, the century plant can be a beautiful and lasting addition to your outdoor space.",
+    "default_image": {
+        "license": 9,
+        "license_name": "Public Domain Dedication (CC0)",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/618_agave_victoriae-reginae/og/38985921534_f46d227966_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/618_agave_victoriae-reginae/regular/38985921534_f46d227966_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/618_agave_victoriae-reginae/medium/38985921534_f46d227966_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/618_agave_victoriae-reginae/small/38985921534_f46d227966_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/618_agave_victoriae-reginae/thumbnail/38985921534_f46d227966_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

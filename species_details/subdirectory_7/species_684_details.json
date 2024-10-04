@@ -1,0 +1,108 @@
+{
+    "id": 684,
+    "common_name": "garlic",
+    "scientific_name": [
+        "Allium sativum 'Spanish Roja'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Spain"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Bulbils",
+        "Scaling"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=684&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=684&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "April",
+        "June"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=684&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pinkish-white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "pink",
+        "white"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Garlic (Allium sativum 'Spanish Roja') is an amazing herb with a multitude of uses. Not only does it have a distinct, savory aroma and flavor, it also has powerful health benefits. It's packed with minerals, vitamins, and antioxidants, making it great for combating illnesses, reducing inflammation and fortifying the immune system. It can also be used as an antiseptic, helping to avoid colds and other bacterial and viral infections. The distinctive flavour of Spanish Roja garlic is unmatched, making it an ideal choice for sauces, salads, and virtually any dish. Its versatility and immense health benefits make garlic, a must-have for any kitchen.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/684_allium_sativum_spanish_roja/og/garlic_tuber_frisch_spice_food_mediterranean_healthy_smell-528638.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/684_allium_sativum_spanish_roja/regular/garlic_tuber_frisch_spice_food_mediterranean_healthy_smell-528638.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/684_allium_sativum_spanish_roja/medium/garlic_tuber_frisch_spice_food_mediterranean_healthy_smell-528638.jpg",
+        "small_url": "https://perenual.com/storage/species_image/684_allium_sativum_spanish_roja/small/garlic_tuber_frisch_spice_food_mediterranean_healthy_smell-528638.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/684_allium_sativum_spanish_roja/thumbnail/garlic_tuber_frisch_spice_food_mediterranean_healthy_smell-528638.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

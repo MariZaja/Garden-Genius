@@ -1,0 +1,104 @@
+{
+    "id": 695,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium 'Sugar Melt'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Netherlands"
+    ],
+    "type": "Bulb",
+    "dimension": "0.50 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=695&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=695&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=695&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ornamental onion (Allium 'Sugar Melt') is a gorgeous flower that is sure to add a unique beauty to any garden. Its delicate purple and white petals with deep green foliage provide a wonderful contrast of colors. Plus, with its giant bloom size and long bloom period, it will turn heads everywhere. Not only is it visually attractive, but it's also very low maintenance and disease resistant. The pungent aroma of its onion-like flowers also serves to provide a pleasant fragrance to the airspace. Ornamental onion (Allium 'Sugar Melt') will definitely fulfill all the desires of any flower lover!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/695_allium_sugar_melt/og/Zygaena_trifolii_-_Mt_Ventoux_6.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/695_allium_sugar_melt/regular/Zygaena_trifolii_-_Mt_Ventoux_6.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/695_allium_sugar_melt/medium/Zygaena_trifolii_-_Mt_Ventoux_6.jpg",
+        "small_url": "https://perenual.com/storage/species_image/695_allium_sugar_melt/small/Zygaena_trifolii_-_Mt_Ventoux_6.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/695_allium_sugar_melt/thumbnail/Zygaena_trifolii_-_Mt_Ventoux_6.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

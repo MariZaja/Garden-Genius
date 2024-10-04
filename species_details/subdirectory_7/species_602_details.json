@@ -1,0 +1,103 @@
+{
+    "id": 602,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache 'Summer Love'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=602&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=602&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=602&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Reddish-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant Hyssop (Agastache 'Summer Love') is an amazing plant species and a must-have for the garden. This eye-catching, sweet-smelling plant produces clusters of beautiful bright pink and purple flowers from mid-summer to early autumn. Once established, this low maintenance perennial requires little water and is resistant to most pests and diseases. It's also incredibly attractive to pollinators such as bees, butterflies, and hummingbirds; making it ideal for any wildlife-attracting garden. Blooms left on the plant will continue to create a stunning show, even after they've been picked. All in all, Giant Hyssop is an excellent choice for those looking for an easy-care, long-blooming garden addition.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/602_agastache_summer_love/og/40915673283_014ab7eac4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/602_agastache_summer_love/regular/40915673283_014ab7eac4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/602_agastache_summer_love/medium/40915673283_014ab7eac4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/602_agastache_summer_love/small/40915673283_014ab7eac4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/602_agastache_summer_love/thumbnail/40915673283_014ab7eac4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

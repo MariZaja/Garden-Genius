@@ -1,0 +1,103 @@
+{
+    "id": 660,
+    "common_name": "tung-oil tree",
+    "scientific_name": [
+        "Aleurites fordii"
+    ],
+    "other_name": [],
+    "family": "Euphorbiaceae",
+    "origin": [
+        "Asia"
+    ],
+    "type": "Tree",
+    "dimension": "15.00 to 25.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 15,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=660&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=660&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=660&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Reddish-white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The tung-oil tree's (Aleurites fordii) durable woody structure, vibrant colors, and amazing health benefits make it a truly amazing plant species. Its wood is used in furniture building and construction, providing a beautiful and long-lasting material. Its green and blue foliage change to crimson red in spring and summer. Its fragrant blooms produce an aromatic oil called tung oil, which is used for medicinal and cosmetic purposes ranging from skin care to joint relief. Tung-oil tree is also a valuable honey plant, providing essential nutrients to colonies of bees. Truly, this species is a powerhouse of uses and reasons to admire it.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/660_aleurites_fordii/og/2560px-Vernicia_fordii8.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/660_aleurites_fordii/regular/2560px-Vernicia_fordii8.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/660_aleurites_fordii/medium/2560px-Vernicia_fordii8.jpg",
+        "small_url": "https://perenual.com/storage/species_image/660_aleurites_fordii/small/2560px-Vernicia_fordii8.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/660_aleurites_fordii/thumbnail/2560px-Vernicia_fordii8.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

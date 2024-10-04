@@ -1,0 +1,116 @@
+{
+    "id": 608,
+    "common_name": "century plant",
+    "scientific_name": [
+        "Agave 'Blue Glow'"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Offsets",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=608&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=608&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "thorn",
+            "color": [
+                "maroon"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=608&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Rarely flowers (greenish-yellow)",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Agave 'Blue Glow' (Century Plant) is an amazing example of the hardy and attractive succulents these plants are known for. Its beautiful blue-green foliage and subtle yellow edging make it an eye-catching addition to any garden. It is relatively easy to care for and prefers warmer temperatures, so it is a great choice for those in milder climates. It is also drought tolerant, so once it is established it won't require much water. This makes it a good option for those looking for a low-maintenance plant. Perfect for adding a bold splash of color or simply a tranquil backdrop for other plants, this plant has it all!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/608_agave_blue_glow/og/50936460346_a8e544d18f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/608_agave_blue_glow/regular/50936460346_a8e544d18f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/608_agave_blue_glow/medium/50936460346_a8e544d18f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/608_agave_blue_glow/small/50936460346_a8e544d18f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/608_agave_blue_glow/thumbnail/50936460346_a8e544d18f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,123 @@
+{
+    "id": 687,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium schubertii"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Eastern Mediterranean",
+        "Central Asia"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=687&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=687&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pink-purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-pink",
+                "pink-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "September",
+        "October",
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=687&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Rose-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The ornamental onion is an amazing and unexpected addition to any garden. These vibrant purple flower clusters feature hundreds of individual blossoms that contrast gorgeously against their deep green foliage. They can also create an interesting, textural element with long, thin stems that reach up to two feet tall. This versatile plant is relatively easy to care for, blooms from late spring to early summer and makes a beautiful border in any garden. Plus, ornamental onions are deer-resistant, so they won't be eaten by any uninvited guests!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/687_allium_schubertii/og/8818678410_bd98f28d7d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/687_allium_schubertii/regular/8818678410_bd98f28d7d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/687_allium_schubertii/medium/8818678410_bd98f28d7d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/687_allium_schubertii/small/8818678410_bd98f28d7d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/687_allium_schubertii/thumbnail/8818678410_bd98f28d7d_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

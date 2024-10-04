@@ -1,0 +1,104 @@
+{
+    "id": 659,
+    "common_name": "silky lady's mantle",
+    "scientific_name": [
+        "Alchemilla sericata 'Gold Strike'"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "United Kingdom"
+    ],
+    "type": "Herb",
+    "dimension": "0.75 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=659&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=659&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=659&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Silky Lady's Mantle is a magnificent plant species! With its compact, mounding habit and vivid yellow-gold foliage, it adds incredible texture and color to any garden. In the summer, tiny, white, star-like blooms grace the foliage. What makes this plant unique is its soft, silky texture and its ability to withstand drought; once established, it doesn't need much water for upkeep. Its striking color is perfect for edging pathways and borders, especially when coupled with other bright foliage plants. This hardy beauty will bring a unique look to any garden and leave all visitors in awe.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/659_alchemilla_sericata_gold_strike/og/Alchemilla_peristerica_kz02.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/659_alchemilla_sericata_gold_strike/regular/Alchemilla_peristerica_kz02.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/659_alchemilla_sericata_gold_strike/medium/Alchemilla_peristerica_kz02.jpg",
+        "small_url": "https://perenual.com/storage/species_image/659_alchemilla_sericata_gold_strike/small/Alchemilla_peristerica_kz02.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/659_alchemilla_sericata_gold_strike/thumbnail/Alchemilla_peristerica_kz02.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

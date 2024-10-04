@@ -1,0 +1,112 @@
+{
+    "id": 674,
+    "common_name": "Hooker's onion",
+    "scientific_name": [
+        "Allium hookeri var. muliense"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Southern and central China"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=674&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=674&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "August",
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=674&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hooker's onion (Allium hookeri var. muliense) is an amazing plant species found in the cold alpine regions of New Zealand. It is a medium-sized species of wild onion that thrives in harsh conditions. This plant is renowned for its colorful display of star-shaped flowers ranging from deep purples to bright whites. Its long, broad leaves are waxy, allowing them to retain all the moisture they can get while the bulbs they develop are succulent and full of flavor, making them a great addition to any dish. No matter how extreme the weather, Hooker's onion is hardy and persisted, adding a beautiful element to the alpine ecosystem.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/674_allium_hookeri_var_muliense/og/Allium_hookeri_var._muliense.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/674_allium_hookeri_var_muliense/regular/Allium_hookeri_var._muliense.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/674_allium_hookeri_var_muliense/medium/Allium_hookeri_var._muliense.jpg",
+        "small_url": "https://perenual.com/storage/species_image/674_allium_hookeri_var_muliense/small/Allium_hookeri_var._muliense.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/674_allium_hookeri_var_muliense/thumbnail/Allium_hookeri_var._muliense.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

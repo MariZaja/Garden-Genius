@@ -1,0 +1,102 @@
+{
+    "id": 615,
+    "common_name": "century plant",
+    "scientific_name": [
+        "Agave schidigera 'Shira-ito-no-ohi'"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds"
+    ],
+    "propagation": [
+        "Offsets",
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=615&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=615&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "6"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=615&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The century plant (Agave schidigera 'Shira-ito-no-ohi') is an amazing, slow-growing succulent that can reach up to 5 feet tall. With its blue-green leaves, it stands out and adds texture to any environment. Its low maintenance needs make it an easy-to-care-for plant. On top of that, it is also highly droughtresistant and can survive long periods of drought once established. Quite dramatic and unique, this plant also blooms large yellow clusters of flowers that bloom only once in its lifetime - something that it does when it is about 25 years old. Thecentury plant is definitely an amazing species to add to your garden!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/615_agave_schidigera_shira-ito-no-ohi/og/Starr_071221-0080_Bromus_rubens.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/615_agave_schidigera_shira-ito-no-ohi/regular/Starr_071221-0080_Bromus_rubens.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/615_agave_schidigera_shira-ito-no-ohi/medium/Starr_071221-0080_Bromus_rubens.jpg",
+        "small_url": "https://perenual.com/storage/species_image/615_agave_schidigera_shira-ito-no-ohi/small/Starr_071221-0080_Bromus_rubens.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/615_agave_schidigera_shira-ito-no-ohi/thumbnail/Starr_071221-0080_Bromus_rubens.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

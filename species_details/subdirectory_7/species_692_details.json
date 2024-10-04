@@ -1,0 +1,122 @@
+{
+    "id": 692,
+    "common_name": "ornamental onion",
+    "scientific_name": [
+        "Allium 'Serendipity'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.75,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Bulbils",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=692&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=692&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "blooms",
+            "color": [
+                "purple-pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "March",
+        "April",
+        "March",
+        "April",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=692&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ornamental onion (Allium 'Serendipity') is an amazing, show-stopping perennial! It produces large, bright, yellow-green flower umbels, on tall, sturdy stems, adding a unique colour spot to any garden. Easy to grow and low maintenance, these flowers tolerate almost any soil type and will thrive in most parts of the UK. Deer resistant, it's perfect to create a long-lasting, delicate border in your garden. With a long flowering period and hardiness to frost and heat, it is a great addition to any landscape. Its beauty, combined with its low-maintenance, makes Ornamental Onion a great choice for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/692_allium_serendipity/og/52265227333_7085ef5c9f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/692_allium_serendipity/regular/52265227333_7085ef5c9f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/692_allium_serendipity/medium/52265227333_7085ef5c9f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/692_allium_serendipity/small/52265227333_7085ef5c9f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/692_allium_serendipity/thumbnail/52265227333_7085ef5c9f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

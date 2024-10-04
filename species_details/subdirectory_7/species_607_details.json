@@ -1,0 +1,121 @@
+{
+    "id": 607,
+    "common_name": "century plant",
+    "scientific_name": [
+        "Agave attenuata"
+    ],
+    "other_name": [],
+    "family": "Asparagaceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Cactus",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Offsets",
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=607&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=607&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "night",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "green-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=607&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow green to white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The century plant (Agave attenuata) is truly amazing. Native to Mexico, it is a member of the agave family, and grows in rosettes of beautiful pointed leaves that curl inward. Despite its name, it typically only lives around six to ten years before flowering- a magnificent sight of a tall columnar stem above the rosette of leaves. The leaves are grey-green in colour, and have curiously twisted tips that form a starburst pattern. Once flowering is complete and the stems begin to die, the century plant is replaced by \"pups\" or new young plants offshoots in the place of the parent. It is an incredibly hardy plant and can thrive in a variety of habitats from arid deserts to coastal mountains, and is sure to be a real eye-catching addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/607_agave_attenuata/og/51962911337_8de0a51422_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/607_agave_attenuata/regular/51962911337_8de0a51422_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/607_agave_attenuata/medium/51962911337_8de0a51422_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/607_agave_attenuata/small/51962911337_8de0a51422_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/607_agave_attenuata/thumbnail/51962911337_8de0a51422_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

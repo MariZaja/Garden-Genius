@@ -1,0 +1,135 @@
+{
+    "id": 668,
+    "common_name": "nodding onion",
+    "scientific_name": [
+        "Allium cernuum"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "Canada",
+        "Mexico"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=668&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=668&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "purple-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple-white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=668&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Sandy Loamy Clay Humus Rocky"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Nodding Onion (Allium cernuum) is one of Mother Nature's true wonders! This beautiful flower features nodding, star-shaped blooms in shades of lavender and pink, creating a gorgeous display in any garden. It's easy to grow, and can tolerate a variety of soil types and growing conditions. The Nodding Onion is also surprisingly hardy, able to withstand extreme temperatures and survive periods of dryness. Its long bloom time and beautiful blooms make it a great choice for flower beds and borders, as well as for the garden vases of modern day bouquets. A stunning little plant, the Nodding Onion is an amazing choice for any flower enthusiast!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/668_allium_cernuum/og/52520397273_a3366abb1a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/668_allium_cernuum/regular/52520397273_a3366abb1a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/668_allium_cernuum/medium/52520397273_a3366abb1a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/668_allium_cernuum/small/52520397273_a3366abb1a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/668_allium_cernuum/thumbnail/52520397273_a3366abb1a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

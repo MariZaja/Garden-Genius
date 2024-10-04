@@ -1,0 +1,133 @@
+{
+    "id": 652,
+    "common_name": "rain tree",
+    "scientific_name": [
+        "Albizia saman"
+    ],
+    "other_name": [],
+    "family": "Fabaceae",
+    "origin": [
+        "Central America",
+        "Brazil"
+    ],
+    "type": "Tree",
+    "dimension": "50.00 to 80.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 50,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=652&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=652&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white",
+                "pink"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "pods",
+            "color": [
+                "green-brown",
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=652&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": true,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The rain tree is an amazing species of tree owing to its remarkable ability to survive in otherwise unfavorable conditions. With a deep and extensive root system, the rain tree is extremely drought-resistant and can survive, even flourish, in arid regions. This is all while boasting large and beautiful umbrella-shaped crowns with arching branches adorned with delicate, feathery leaflets. Furthermore, the rain tree can even create its own rainfall due to an impressive anaerobic respiration cycle, making it a valuable asset during dry seasons. It stands out from other trees with its adaptability, beauty and unique ability to combat even the harshest climates.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/652_albizia_saman/og/48301317661_620fd032a0_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/652_albizia_saman/regular/48301317661_620fd032a0_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/652_albizia_saman/medium/48301317661_620fd032a0_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/652_albizia_saman/small/48301317661_620fd032a0_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/652_albizia_saman/thumbnail/48301317661_620fd032a0_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

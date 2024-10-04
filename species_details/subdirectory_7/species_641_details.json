@@ -1,0 +1,123 @@
+{
+    "id": 641,
+    "common_name": "bugleweed",
+    "scientific_name": [
+        "Ajuga reptans 'Dixie Chip'"
+    ],
+    "other_name": [
+        "carpet bugleweed",
+        "Bugleweed"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "southwestern Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Bees"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=641&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=641&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=641&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Easy",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "purple",
+        "tan",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugleweed (Ajuga reptans 'Dixie Chip') is an amazing evergreen plant that adds beauty and texture to any garden. Its deep blue velvet-like foliage makes it stand out in the garden, ranging in various shades of blue and purple. Its attractive, heart-shaped leaves are accented by bright pink and blue flowers that brighten up any space. Easily caring, bugleweed is a hardy groundcover that tolerates dry and shady locations. Its short, mounded habit also grows quickly making it a great choice for covering large areas, erosion control, borders, and pathways. This drought and disease tolerant perennial is low maintenance and beautiful -- the perfect choice for an amazing garden!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/641_ajuga_reptans_dixie_chip/og/Ajuga_reptans_27Chocolate_Chip27_kz1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/641_ajuga_reptans_dixie_chip/regular/Ajuga_reptans_27Chocolate_Chip27_kz1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/641_ajuga_reptans_dixie_chip/medium/Ajuga_reptans_27Chocolate_Chip27_kz1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/641_ajuga_reptans_dixie_chip/small/Ajuga_reptans_27Chocolate_Chip27_kz1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/641_ajuga_reptans_dixie_chip/thumbnail/Ajuga_reptans_27Chocolate_Chip27_kz1.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

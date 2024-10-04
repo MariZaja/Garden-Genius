@@ -1,0 +1,109 @@
+{
+    "id": 604,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache 'Tutti-frutti'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "Mexico",
+        "Guatemala",
+        "Honduras",
+        "El Salvador",
+        "Nicaragua",
+        "Costa Rica"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Birds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=604&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=604&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=604&key=sk-O8jc66f3090c2948a6986",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Raspberry",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant Hyssop (Agastache 'Tutti-frutti') is an amazing plant species that is well known for its showy white and pink flowers and sweet, fruity aroma. It is an extremely attractive plant with its deep green foliage, shiny and toothed leaves and highly aromatic, showy blooms. It is also a great choice for butterfly gardens, as its fragrant flowers entice various types of butterflies. Its drought tolerant and fairly easy to care for and adds a dramatic element to any landscape. Perfect for rock gardens, perennial beds, and containers, this hummingbird magnet brightens the surroundings with its color and beauty.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/604_agastache_tutti-frutti/og/Agastache_barberi_Tutti_Frutti_4zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/604_agastache_tutti-frutti/regular/Agastache_barberi_Tutti_Frutti_4zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/604_agastache_tutti-frutti/medium/Agastache_barberi_Tutti_Frutti_4zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/604_agastache_tutti-frutti/small/Agastache_barberi_Tutti_Frutti_4zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/604_agastache_tutti-frutti/thumbnail/Agastache_barberi_Tutti_Frutti_4zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

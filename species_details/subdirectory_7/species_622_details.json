@@ -1,0 +1,118 @@
+{
+    "id": 622,
+    "common_name": "floss flower",
+    "scientific_name": [
+        "Ageratum houstonianum 'Blue Horizon'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Mexico"
+    ],
+    "type": "Flower",
+    "dimension": "0.50 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Stem Propagation",
+        "Division",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=622&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=622&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=622&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Crown rot",
+        " Mold",
+        " Root rot",
+        " Rust",
+        "  Deer resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Medium blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Floss flower (Ageratum houstonianum 'Blue Horizon') is an amazing plant that adds a burst of blue and purple hues to any outdoor space. Its short and fluffy branches are covered with soft, downy petals, giving this flower a unique look. The petals on this flower also remain in full bloom for an extended time, making it an eye-catching addition to any garden or balcony. Floss flower is also a great choice for butterfly gardens, as its cloud-like petals are a perfect landing spot for butterflies in search of nectar. Lastly, floss flower is an easy care plant and is low maintenance, making it perfect for novice and experienced gardeners alike.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/622_ageratum_houstonianum_blue_horizon/og/Ageratum_houstonianum_cv.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/622_ageratum_houstonianum_blue_horizon/regular/Ageratum_houstonianum_cv.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/622_ageratum_houstonianum_blue_horizon/medium/Ageratum_houstonianum_cv.jpg",
+        "small_url": "https://perenual.com/storage/species_image/622_ageratum_houstonianum_blue_horizon/small/Ageratum_houstonianum_cv.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/622_ageratum_houstonianum_blue_horizon/thumbnail/Ageratum_houstonianum_cv.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

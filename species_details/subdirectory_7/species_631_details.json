@@ -1,0 +1,135 @@
+{
+    "id": 631,
+    "common_name": "tree of Heaven",
+    "scientific_name": [
+        "Ailanthus altissima"
+    ],
+    "other_name": [
+        "Chinese Sumac",
+        "Stinking Sumac",
+        "Stinking Sumac"
+    ],
+    "family": "Simaroubaceae",
+    "origin": [
+        "Northern China"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 80.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=631&size=og&key=sk-O8jc66f3090c2948a6986",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=631&size=og&key=sk-O8jc66f3090c2948a6986'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "14"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "light-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=631&key=sk-O8jc66f3090c2948a6986",
+    "soil": [
+        "Acidic",
+        " Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Galls",
+        " Rust",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Greenish",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Tree of Heaven (Ailanthus altissima) has a long history of being amazing. Not only is it hardy, tolerant of a variety of climates, and quick-growing, it is also attractive \u2013 with oval, pinnate leaves up to 21 inches long consisting of up to 40 leaflets. The subtle beauty of the tree is further amplified by its light-colored bark and yellow-green flowers. The Tree of Heaven produces a hardy, resilient rootstock, and it is not uncommon for treated or damaged specimens to rapidly regenerate from the roots. Its ability to thrive in any soil, or even disturbed sites, gives it the name 'Tree of Heaven' \u2013 an apt label for this majestic and impressive species.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/631_ailanthus_altissima/og/48991100806_d53cf134e8_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/631_ailanthus_altissima/regular/48991100806_d53cf134e8_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/631_ailanthus_altissima/medium/48991100806_d53cf134e8_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/631_ailanthus_altissima/small/48991100806_d53cf134e8_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/631_ailanthus_altissima/thumbnail/48991100806_d53cf134e8_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
