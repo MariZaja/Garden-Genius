@@ -1,0 +1,126 @@
+{
+    "id": 175,
+    "common_name": "Autumn Brilliance Serviceberry",
+    "scientific_name": [
+        "Amelanchier x grandiflora 'Autumn Brilliance'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "North America",
+        "Canada",
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=175&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=175&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=175&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Autumn Brilliance Serviceberry (Amelanchier x grandiflora 'Autumn Brilliance') is an amazing ornamental tree that has a lot to offer. This native North American species is known for its beautiful white flowers in spring, striking green foliage in summer and brilliant, vibrant red foliage in autumn. It also produces tasty, edible, purple-black fruits in late summer which can be harvested for jams and pies. Its adaptability makes it suitable for a wide range of soils and climates, and it is particularly tolerant of urban pollution. In addition, the Autumn Brilliance Serviceberry is an excellent choice for a small landscape as it tends to reach a mature height of 15\u201320 feet. This natural beauty has something special to offer every season and is sure to be a stunning addition to any yard.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/175_amelanchier_x_grandiflora_autumn_brilliance/og/10657964154_16369dcdcf_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/175_amelanchier_x_grandiflora_autumn_brilliance/regular/10657964154_16369dcdcf_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/175_amelanchier_x_grandiflora_autumn_brilliance/medium/10657964154_16369dcdcf_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/175_amelanchier_x_grandiflora_autumn_brilliance/small/10657964154_16369dcdcf_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/175_amelanchier_x_grandiflora_autumn_brilliance/thumbnail/10657964154_16369dcdcf_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

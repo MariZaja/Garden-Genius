@@ -1,0 +1,132 @@
+{
+    "id": 180,
+    "common_name": "Monkey Puzzle Tree",
+    "scientific_name": [
+        "Araucaria araucana"
+    ],
+    "other_name": [
+        "Chilean Pine"
+    ],
+    "family": "Araucariaceae",
+    "origin": [
+        "Chile",
+        "Argentina"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Hardwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=180&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=180&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=180&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "High",
+    "pest_susceptibility": [
+        "Root rot",
+        " Scale insects",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Monkey Puzzle Tree, also known as Araucaria araucana, has an impressive and unique look sure to impress. It's extraordinarily tall, cone-shaped crown, combined with its tough, spiky evergreen leaves create an austere and mysterious look. It's a symbol of ancient forests, having survived many ice ages and growing to heights of over 175 feet. This tree has one of the longest lifespans of any species, living to an impressive 2000 years. It's a hardy species, adapted to survive many climates, making it a great choice for landscaping. The Monkey Puzzle Tree is truly an amazing specimen sure to draw admiration and attention.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/180_araucaria_araucana/og/36535778593_bc16b86591_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/180_araucaria_araucana/regular/36535778593_bc16b86591_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/180_araucaria_araucana/medium/36535778593_bc16b86591_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/180_araucaria_araucana/small/36535778593_bc16b86591_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/180_araucaria_araucana/thumbnail/36535778593_bc16b86591_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

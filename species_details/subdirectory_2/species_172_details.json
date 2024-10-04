@@ -1,0 +1,145 @@
+{
+    "id": 172,
+    "common_name": "Mimosa",
+    "scientific_name": [
+        "Albizia julibrissin"
+    ],
+    "other_name": [
+        "Silktree"
+    ],
+    "family": "Fabaceae",
+    "origin": [
+        "Iran",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=172&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=172&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "pods",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=172&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Mimosa is a captivating and stunning plant species thriving in sunny and hot climates. Its delicate fern-like foliage is a spectacular sight to behold, with bipinnate leaves arranged in a feather-like shape. From late spring to early summer, the Mimosa puts on an awe-inspiring display of beautiful pink and white fluffy flowers. Its sweet, vanillalike fragrance is also deeply appreciated. Furthermore, the Mimosa is easy to care for and rewards with a generous selection of butterfly-attracting blooms. All these features together make the Mimosa an amazing and remarkable plant species.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/172_albizia_julibrissin/og/51755776916_8af064be1e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/172_albizia_julibrissin/regular/51755776916_8af064be1e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/172_albizia_julibrissin/medium/51755776916_8af064be1e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/172_albizia_julibrissin/small/51755776916_8af064be1e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/172_albizia_julibrissin/thumbnail/51755776916_8af064be1e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

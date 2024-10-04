@@ -1,0 +1,111 @@
+{
+    "id": 130,
+    "common_name": "Tobiosho Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Tobiosho'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=130&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=130&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=130&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Tobiosho Japanese Maple (Acer palmatum 'Tobiosho') is an amazing species of maple tree that stands out thanks to its beautiful foliage. Throughout the year, its foliage ranges from a vibrant emerald green in summer, to a stunning orange-red in autumn. On top of this, it also has an impressive cascading habit, making it a great choice for any garden. Its unique foliage doesn't just look beautiful, but also provides an expansive canopy for gardens and a perfect wind break for smaller areas. This makes it a great addition to any garden, especially if you\u2019re looking for a tree with lush, vibrant foliage and a cascading habit.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/130_acer_palmatum_tobiosho/og/Acer_palmatum_27Elegans27_JPG1L.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/130_acer_palmatum_tobiosho/regular/Acer_palmatum_27Elegans27_JPG1L.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/130_acer_palmatum_tobiosho/medium/Acer_palmatum_27Elegans27_JPG1L.jpg",
+        "small_url": "https://perenual.com/storage/species_image/130_acer_palmatum_tobiosho/small/Acer_palmatum_27Elegans27_JPG1L.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/130_acer_palmatum_tobiosho/thumbnail/Acer_palmatum_27Elegans27_JPG1L.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

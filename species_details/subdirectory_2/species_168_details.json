@@ -1,0 +1,119 @@
+{
+    "id": 168,
+    "common_name": "White Tigress Maple",
+    "scientific_name": [
+        "Acer tegmentosum 'White Tigress'"
+    ],
+    "other_name": [
+        "Manchurian Striped Maple"
+    ],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=168&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=168&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=168&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The White Tigress Maple is an amazing species of tree that is sure to put a smile on anyone's face. It is adorned with boldly contrasting foliage consisting of white and green leaves that often turn orange-red in the summer. White Tigress Maple is a low-maintenance Maple tree, which makes it ideal for any landscape. In addition, it is a fast grower and grows up to 30 feet in height with a 25-foot spread, making it a great source of shade. Its white flowers are very attractive and it provides a beautiful overall display. With its stunning foliage and low-maintenance requirements, the White Tigress Maple is a winner in any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/168_acer_tegmentosum_white_tigress/og/800px-Acer_tegmentosum_-_Morris_Arboretum_-_DSC00441.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/168_acer_tegmentosum_white_tigress/regular/800px-Acer_tegmentosum_-_Morris_Arboretum_-_DSC00441.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/168_acer_tegmentosum_white_tigress/medium/800px-Acer_tegmentosum_-_Morris_Arboretum_-_DSC00441.jpg",
+        "small_url": "https://perenual.com/storage/species_image/168_acer_tegmentosum_white_tigress/small/800px-Acer_tegmentosum_-_Morris_Arboretum_-_DSC00441.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/168_acer_tegmentosum_white_tigress/thumbnail/800px-Acer_tegmentosum_-_Morris_Arboretum_-_DSC00441.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

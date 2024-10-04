@@ -1,0 +1,132 @@
+{
+    "id": 161,
+    "common_name": "Autumn Moon Full Moon Maple",
+    "scientific_name": [
+        "Acer shirasawanum 'Autumn Moon'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=161&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=161&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "cm",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-pink",
+                "yellow-green-pink",
+                "green-pink-yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-colored",
+                "green",
+                "red-green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=161&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Autumn Moon Full Moon Maple is an amazing species of maple tree, with light-green leaves that become yellow and orange in autumn. It has a round, dome-shaped canopy and its branches form an elegant, spreading shape. The stunning foliage makes it a sight to behold in autumn, with its brightly-colored leaves creating a vivid canvas. In addition, this hardy tree will grow in most climates and it's easy to care for. It can also be used a specimen tree or planted near a pond or stream to add a splash of color to the landscape. The Autumn Moon Full Moon Maple truly is a unique, beautiful tree.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/161_acer_shirasawanum_autumn_moon/og/4846304086_2ff780588a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/161_acer_shirasawanum_autumn_moon/regular/4846304086_2ff780588a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/161_acer_shirasawanum_autumn_moon/medium/4846304086_2ff780588a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/161_acer_shirasawanum_autumn_moon/small/4846304086_2ff780588a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/161_acer_shirasawanum_autumn_moon/thumbnail/4846304086_2ff780588a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

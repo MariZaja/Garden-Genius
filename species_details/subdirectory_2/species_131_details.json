@@ -1,0 +1,104 @@
+{
+    "id": 131,
+    "common_name": "Trompenburg Japanese Maple*",
+    "scientific_name": [
+        "Acer palmatum 'Trompenburg'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=131&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=131&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=131&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Acer palmatum 'Trompenburg' is a truly astounding Japanese Maple that offers much to both new and experienced gardeners alike. This variety is a stand-out among its relatives, offering a unique weeping-like structure that epitomizes the Japanese sophistication of a mature garden. Its deep green, sharply pointed leaves turn a magnificent range of shades in the fall, ranging from bright oranges to deep greens and reds. Though it can be grown in a variety of soil types and light conditions, adding a little more attention will truly reward you with a spectacle of foliage unmatched by other trees in your garden.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/131_acer_palmatum_trompenburg/og/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/131_acer_palmatum_trompenburg/regular/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/131_acer_palmatum_trompenburg/medium/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg",
+        "small_url": "https://perenual.com/storage/species_image/131_acer_palmatum_trompenburg/small/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/131_acer_palmatum_trompenburg/thumbnail/japanese-maple-leaves-new-tree-ornamental-plant-red.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

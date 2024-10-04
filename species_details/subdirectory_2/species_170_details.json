@@ -1,0 +1,125 @@
+{
+    "id": 170,
+    "common_name": "Armstrong Maple",
+    "scientific_name": [
+        "Acer x freemanii 'Armstrong'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=170&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=170&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown-gray"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=170&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Armstrong Maple (Acer x freemanii 'Armstrong') is an extremely hardy and resilient tree, able to thrive and adapt in most soil conditions. It produces unique green foliage with yellow-orange tips throughout summer before turning a stunning orange-red hue in the fall. The Armstrong Maple is an excellent choice for homeowners looking to add beauty to their property as it grows quickly, reaching heights of up to 30 feet and with a wide, rounded canopy. To top it off, this type of maple is also resistant to most diseases, making it an ideal choice for those wanting a long-lasting and healthy tree in their yard.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/170_acer_x_freemanii_armstrong/og/10482927313_0306d993c3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/170_acer_x_freemanii_armstrong/regular/10482927313_0306d993c3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/170_acer_x_freemanii_armstrong/medium/10482927313_0306d993c3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/170_acer_x_freemanii_armstrong/small/10482927313_0306d993c3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/170_acer_x_freemanii_armstrong/thumbnail/10482927313_0306d993c3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,134 @@
+{
+    "id": 181,
+    "common_name": "Marina Strawberry Tree",
+    "scientific_name": [
+        "Arbutus 'Marina'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Portugal",
+        "Spain",
+        "Morocco",
+        "Algeria",
+        "Tunisia",
+        "Libya"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=181&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=181&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "red-pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August",
+        "March",
+        "April",
+        "May",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=181&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Marina Strawberry Tree is an amazing evergreen shrub that produces beautiful white-pink flowers in spring and small apple-like fruits in summer. This small tree is an excellent addition to every garden and can even be used as a patio plant. It is a hardy tree that requires little care and maintenance and possesses a unique, compact shape. Its rich green foliage and bark with beautiful peeling texture make this shrub stand out. It is a great attraction to various birds and garden pollinators. Furthermore, it is salt tolerant, drought tolerant and cold tolerant, making it an ideal plant for most landscapes.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/181_arbutus_marina/og/50783640608_7dfdc41b15_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/181_arbutus_marina/regular/50783640608_7dfdc41b15_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/181_arbutus_marina/medium/50783640608_7dfdc41b15_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/181_arbutus_marina/small/50783640608_7dfdc41b15_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/181_arbutus_marina/thumbnail/50783640608_7dfdc41b15_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

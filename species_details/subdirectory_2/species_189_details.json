@@ -1,0 +1,137 @@
+{
+    "id": 189,
+    "common_name": "Paper Birch",
+    "scientific_name": [
+        "Betula papyrifera"
+    ],
+    "other_name": [
+        "White Birch",
+        "Canoe Birch"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "2"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=189&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=189&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=189&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Beetles",
+        "weevils",
+        " Leaf miner insect",
+        " Stem borer insects",
+        "  Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellowish brown (male) and green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Paper Birch (Betula papyrifera) is an amazing species of tree due to its unique white bark and graceful shape. It grows quickly, reaching 70 feet or higher, with a densely-packed crown of drooping branches. The trunk of a paper birch is light grey, and its bark peels off in long strips that add to its beauty. It is also incredibly durable, withstanding storms and temperatures down to -60 degrees Fahrenheit. The bark is often used in art, while the twigs and leaves make excellent tinder for campfires. Its autumn colors also make it a popular choice for landscaping. It's clear why Paper Birch is an amazing species.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/189_betula_papyrifera/og/29933086455_99ed2521e9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/189_betula_papyrifera/regular/29933086455_99ed2521e9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/189_betula_papyrifera/medium/29933086455_99ed2521e9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/189_betula_papyrifera/small/29933086455_99ed2521e9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/189_betula_papyrifera/thumbnail/29933086455_99ed2521e9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,118 @@
+{
+    "id": 187,
+    "common_name": "River Birch (clump)",
+    "scientific_name": [
+        "Betula nigra '(clump)'"
+    ],
+    "other_name": [
+        "Red Birch"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Eastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=187&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=187&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=187&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Bog",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Dieback",
+        " Fungal leaf spot",
+        " Leaf miner insect",
+        " Rust",
+        " Virus"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Brown (male) green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The River Birch (clump) (Betula nigra '(clump)') is an amazing plant species due to its unique benefits. This striking, deciduous tree has lovely, silvery-white bark, adding a unique and attractive addition to any landscape throughout the year. Unlike single trunks, the clumped form multiplies, allowing the tree to grow a denser canopy. The River Birch prefers to live in moist and swampy areas, making it an ideal choice for drainage or wet areas. Best of all, it is among the most resistant tree species to insect infestations and diseases, which makes it a great choice for arborists and homeowners alike. Not only that, but it also shows great tolerance to urban sites.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/187_betula_nigra_clump/og/23420494494_ce4115fc2c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/187_betula_nigra_clump/regular/23420494494_ce4115fc2c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/187_betula_nigra_clump/medium/23420494494_ce4115fc2c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/187_betula_nigra_clump/small/23420494494_ce4115fc2c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/187_betula_nigra_clump/thumbnail/23420494494_ce4115fc2c_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

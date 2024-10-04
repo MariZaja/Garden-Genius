@@ -1,0 +1,113 @@
+{
+    "id": 171,
+    "common_name": "Autumn Blaze Maple",
+    "scientific_name": [
+        "Acer x freemanii 'Jeffersred'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=171&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=171&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=171&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Autumn Blaze Maple (Acer x freemanii 'Jeffersred') is the perfect addition to any garden. A member of the Aceraceae family, this deciduous tree is bred for its unique colouring; with green foliage in spring and summer, and vivid red leaves during autumn and winter. It is incredibly hardy and can even tolerate cold winter climates and hot, dry summers. The Autumn Blaze Maple is also impressively fast-growing, reaching a mature height of 30-50 feet in just 10-15 years. Ideal for providing natural shade, it is an excellent choice for any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/og/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/regular/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/medium/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/small/Acer_x_freemanii_Autumn_Blaze_5zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/171_acer_x_freemanii_jeffersred/thumbnail/Acer_x_freemanii_Autumn_Blaze_5zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

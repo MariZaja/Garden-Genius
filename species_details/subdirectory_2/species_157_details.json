@@ -1,0 +1,133 @@
+{
+    "id": 157,
+    "common_name": "Commemoration Sugar Maple",
+    "scientific_name": [
+        "Acer saccharum 'Commemoration'"
+    ],
+    "other_name": [
+        "Hard Maple",
+        "Rock Maple",
+        "Hard Maple",
+        "Bird's Eye Maple",
+        "Curly Maple",
+        "Sweet Maple",
+        "Northern Sugar Maple",
+        "Head Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=157&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=157&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=157&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sand",
+        " Loam",
+        " Humus Enriched"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow|Green/Brown",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Commemoration Sugar Maple (Acer saccharum 'Commemoration') is a very special species of maple tree. With its beautiful, glossy green leaves and spectacular bright yellow, orange and red autumn foliage, it is sure to add captivating beauty to any landscape. Additionally, the artistic shape of its canopy enhances its unique, picturesque appeal. This maple species is also known for its hardiness and can tolerate tough conditions such as drought, intense sunlight, and extreme cold. On top of that, its resilient nature makes it low maintenance. All in all, Commemoration Sugar Maple and its amazing features make it an ideal choice for any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/157_acer_saccharum_commemoration/og/21860822053_bda135cb61_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/157_acer_saccharum_commemoration/regular/21860822053_bda135cb61_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/157_acer_saccharum_commemoration/medium/21860822053_bda135cb61_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/157_acer_saccharum_commemoration/small/21860822053_bda135cb61_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/157_acer_saccharum_commemoration/thumbnail/21860822053_bda135cb61_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

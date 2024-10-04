@@ -1,0 +1,156 @@
+{
+    "id": 144,
+    "common_name": "Moosewood",
+    "scientific_name": [
+        "Acer pensylvanicum"
+    ],
+    "other_name": [
+        "Striped Maple",
+        "Snakebark Maple",
+        "Moose Maple",
+        "Whistlewood",
+        "Goosefoot Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Northeastern United States",
+        "eastern Canada"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Squirrels",
+        " Birds",
+        " Bees"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=144&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=144&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "15"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "yellow-green",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=144&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Moosewood (Acer pensylvanicum) is an amazing species of tree, thanks to its stunning fall foliage ranging in color from deep red to golden yellow. Its ornamental bark is also something to behold as it has deep, unique ridges. The tree also has a pleasing shape, often forming a dense, somewhat narrow pyramid. Adding to its beauty, it has a pleasing aroma that radiates from its orange flowers in springtime. Quiet resilient, it can withstand a range of temperature variation and adapts to various soils, making it great for gardens. All these qualities makes Moosewood the perfect addition to any outdoor space.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/144_acer_pensylvanicum/og/50159672678_a016bd18b9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/144_acer_pensylvanicum/regular/50159672678_a016bd18b9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/144_acer_pensylvanicum/medium/50159672678_a016bd18b9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/144_acer_pensylvanicum/small/50159672678_a016bd18b9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/144_acer_pensylvanicum/thumbnail/50159672678_a016bd18b9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

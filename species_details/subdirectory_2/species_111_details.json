@@ -1,0 +1,149 @@
+{
+    "id": 111,
+    "common_name": "Ryusen Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Ryusen'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=111&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=111&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "light-green",
+                "green",
+                "yellow-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "green-yellow",
+                "red-green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "golden"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "February",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=111&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ryusen Japanese Maple (Acer palmatum 'Ryusen') is an amazing tree that is perfect for adding beauty and interest to any garden. Its green and yellow coloration, together with its layered and lacy structure, create truly remarkable works of art-like scenery. This magnificent tree can tolerate both full and partial sun and does not need excessive watering or pruning to thrive. Its small size and fascinating foliage make this an ideal choice for small yards or patio containers. Ryusen Japanese Maple showcases year-round interest with its colorful foliage, delicate shape, and interesting texture. With its ancient charm, it is the perfect addition to a garden and sure to bring a lifetime of joy to the home.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/111_acer_palmatum_ryusen/og/26170793293_62330077e4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/111_acer_palmatum_ryusen/regular/26170793293_62330077e4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/111_acer_palmatum_ryusen/medium/26170793293_62330077e4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/111_acer_palmatum_ryusen/small/26170793293_62330077e4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/111_acer_palmatum_ryusen/thumbnail/26170793293_62330077e4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

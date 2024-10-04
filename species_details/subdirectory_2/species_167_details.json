@@ -1,0 +1,116 @@
+{
+    "id": 167,
+    "common_name": "Joe Witt Snakebark Maple",
+    "scientific_name": [
+        "Acer tegmentosum 'Joe Witt'"
+    ],
+    "other_name": [
+        "Manchurian Striped Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Garden origin (Manchuria",
+        "Korea)"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=167&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=167&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "filtered shade",
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=167&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Not showy, Green-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Joe Witt Snakebark Maple (Acer tegmentosum 'Joe Witt') is an unforgettable sight with its bark of dramatic green and black patches that snake over richly colored, orange-red branches. This remarkable maple is an ideal specimen tree, growing up to 30 feet with a delicate oval shape. In the fall, its leaves transform from soft green to a spectacular yellow, complete with red tinges. Hardy and adaptable, this tough tree is a reliable addition to any landscape. Plus, it's tolerant of heat and humidity, so even warmer climates can appreciate it's majestic beauty. The Joe Witt Snakebark Maple is a truly amazing species.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/167_acer_tegmentosum_joe_witt/og/450px-Acer_tegmentosum_2zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/167_acer_tegmentosum_joe_witt/regular/450px-Acer_tegmentosum_2zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/167_acer_tegmentosum_joe_witt/medium/450px-Acer_tegmentosum_2zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/167_acer_tegmentosum_joe_witt/small/450px-Acer_tegmentosum_2zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/167_acer_tegmentosum_joe_witt/thumbnail/450px-Acer_tegmentosum_2zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

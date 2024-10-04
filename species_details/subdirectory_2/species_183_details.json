@@ -1,0 +1,155 @@
+{
+    "id": 183,
+    "common_name": "Strawberry Tree",
+    "scientific_name": [
+        "Arbutus unedo"
+    ],
+    "other_name": [
+        "Apple of Cain; Cane Apple"
+    ],
+    "family": "Ericaceae",
+    "origin": [
+        "Southern Europe",
+        "western Asia",
+        "northern Africa"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Hardwood Cuttings",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=183&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=183&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "pink-red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "yellow-red"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-beige"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red-pink"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade",
+        "sheltered"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=183&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Root rot",
+        " Scale insects",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Winter",
+    "flower_color": "Pinkish white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "orange",
+        "pink"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Strawberry Tree (Arbutus unedo) is an amazing species that offers year-round beauty. It is a fruiting evergreen with attractive foliage and delicate whitish-pink blooms that develop into bright, red-orange fruits throughout the season. In addition to its showy beauty, this plant is incredibly hardy and can survive in a wide range of soil types and light conditions. With its easy maintenance and interesting lifestyle, the Strawberry Tree is a must for any gardener looking for a low-care, eye-catching addition to their landscape.",
+    "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/183_arbutus_unedo/og/50433219232_449b440340_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,108 @@
+{
+    "id": 104,
+    "common_name": "Red Filigree Lace Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Red Filigree Lace'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  6 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 6,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=104&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=104&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "February",
+        "June",
+        "July",
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=104&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Red Filigree Lace Japanese Maple is an amazing garden tree that stands out for its remarkable beauty. It produces palmate, dissected leaves of copper red in the spring and summer, changing to vibrant scarlet red in the autumn and winter. This classy tree adds a unique texture to the whole garden, with its stunning seasonal foliage and cascading, lime-green branches that form a dainty, lacy look. It is easy to maintain and perfect for small gardens or in pots where its striking beauty can be appreciated. It is a joy to admire and its presence enhances the garden with style.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/104_acer_palmatum_red_filigree_lace/og/Crimson_Queen_Japanese_Maple_plants_growing_in_NJ_in_April.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/104_acer_palmatum_red_filigree_lace/regular/Crimson_Queen_Japanese_Maple_plants_growing_in_NJ_in_April.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/104_acer_palmatum_red_filigree_lace/medium/Crimson_Queen_Japanese_Maple_plants_growing_in_NJ_in_April.jpg",
+        "small_url": "https://perenual.com/storage/species_image/104_acer_palmatum_red_filigree_lace/small/Crimson_Queen_Japanese_Maple_plants_growing_in_NJ_in_April.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/104_acer_palmatum_red_filigree_lace/thumbnail/Crimson_Queen_Japanese_Maple_plants_growing_in_NJ_in_April.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,135 @@
+{
+    "id": 151,
+    "common_name": "Nizetii Sycamore Maple",
+    "scientific_name": [
+        "Acer pseudoplatanus 'Nizetii'"
+    ],
+    "other_name": [
+        "Planetree Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary",
+        "Poland",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "Bulgaria",
+        "Romania",
+        "Moldova",
+        "Ukraine",
+        "Belarus"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=151&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=151&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=151&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Nizetii Sycamore Maple (Acer pseudoplatanus 'Nizetii') is an amazing tree with its strong, vibrant leaves providing a striking effect in any garden. In the spring its luscious, deep green foliage emerges, creating a dome-shaped crown. The foliage of the tree turns bright yellow in fall, followed by vivid orange and scarlet shades in the winter months. This tree is extremely versatile; Its deep, strong roots make it ideal for locations prone to erosion while its dense foliage blocks sunlight to produce a cool, shaded area below. Nizetii Sycamore Maple is also a great alternative for allergy sufferers as it produces very few pollen grains. With its beautiful foliage and ease of maintenance, Nizetii Sycamore Maple is a fantastic choice for any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/151_acer_pseudoplatanus_nizetii/og/800px-Acer_pseudoplatanus_Nizetii_2017-06-25_3000.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/151_acer_pseudoplatanus_nizetii/regular/800px-Acer_pseudoplatanus_Nizetii_2017-06-25_3000.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/151_acer_pseudoplatanus_nizetii/medium/800px-Acer_pseudoplatanus_Nizetii_2017-06-25_3000.jpg",
+        "small_url": "https://perenual.com/storage/species_image/151_acer_pseudoplatanus_nizetii/small/800px-Acer_pseudoplatanus_Nizetii_2017-06-25_3000.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/151_acer_pseudoplatanus_nizetii/thumbnail/800px-Acer_pseudoplatanus_Nizetii_2017-06-25_3000.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

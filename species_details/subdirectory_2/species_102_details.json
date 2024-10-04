@@ -1,0 +1,115 @@
+{
+    "id": 102,
+    "common_name": "Red Dragon Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Red Dragon'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=102&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=102&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "red-orange-yellow"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=102&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Dragon Japanese Maple (Acer palmatum 'Red Dragon') is an amazing and fascinating small tree. With red foliage in the summer, and vibrant orange and yellow in the fall, this tree will add a splash of color to any garden. When the sun hits it, the light reflects off of the red foliage producing a variety of beautiful tones and colors. The bark of this tree is also a sight to behold, as it is exfoliating and layered, giving it an almost fire-like texture. Its compact habit also makes it suitable for small gardens, adding depth and texture to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/102_acer_palmatum_red_dragon/og/4847966614_089c83b489_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/102_acer_palmatum_red_dragon/regular/4847966614_089c83b489_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/102_acer_palmatum_red_dragon/medium/4847966614_089c83b489_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/102_acer_palmatum_red_dragon/small/4847966614_089c83b489_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/102_acer_palmatum_red_dragon/thumbnail/4847966614_089c83b489_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

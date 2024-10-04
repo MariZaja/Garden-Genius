@@ -1,0 +1,121 @@
+{
+    "id": 156,
+    "common_name": "Red Sunset\u00ae Red Maple",
+    "scientific_name": [
+        "Acer rubrum 'Franksred'"
+    ],
+    "other_name": [
+        "Swamp Maple",
+        "Scarlet Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Eastern and central North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Squirrels",
+        " Birds",
+        " Bees",
+        " Other Showy Insects"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=156&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=156&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "Sunset",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=156&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Heteroptera - true bugs",
+        " Mites",
+        " Stem borer insects",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red, sometimes yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "maroon"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Red Sunset\u00ae Red Maple is an amazing tree for any landscape. Its foliage turns brilliant shades of red, orange and yellow in the fall and its lush green leaves add a captivating splash of colour to the landscape all season long. This fast-growing deciduous tree can reach heights of up to 50 feet with a spread of 35 feet, and it thrives in USDA Hardiness Zones 3\u22129. It also tolerates air pollution and wet, clay soils, and its drought and wind tolerance make it a perfect choice for many different conditions and locations. Red Sunset\u00ae Red Maple is an excellent option for urban yards, parks and gardens.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/og/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/regular/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/medium/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+        "small_url": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/small/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/156_acer_rubrum_franksred/thumbnail/tree_leaves_maple_autumn_fall_red_woods_forest-1017374.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

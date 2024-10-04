@@ -1,0 +1,123 @@
+{
+    "id": 149,
+    "common_name": "Princeton Gold Maple",
+    "scientific_name": [
+        "Acer platanoides 'Princeton Gold'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=149&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=149&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=149&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Maroon yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Princeton Gold Maple (Acer platanoides 'Princeton Gold') is one of the most stunning trees around. This majestic tree is characterised by its golden foliage, which turns to a deep orange-red in autumn. Not only is this tree's deep hues eye catching, but it also has impressive drought and cold tolerance. It\u2019s ideal for those looking for beauty and reliability \u2014 Princeton Gold Maple is the perfect choice for any landscape. Its moderate growth rate means that it won\u2019t take up too much room and will become a stunning feature in next to no time.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/149_acer_platanoides_princeton_gold/og/Acer_27Golden_Globe27_02.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/149_acer_platanoides_princeton_gold/regular/Acer_27Golden_Globe27_02.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/149_acer_platanoides_princeton_gold/medium/Acer_27Golden_Globe27_02.jpg",
+        "small_url": "https://perenual.com/storage/species_image/149_acer_platanoides_princeton_gold/small/Acer_27Golden_Globe27_02.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/149_acer_platanoides_princeton_gold/thumbnail/Acer_27Golden_Globe27_02.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

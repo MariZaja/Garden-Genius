@@ -1,0 +1,144 @@
+{
+    "id": 186,
+    "common_name": "River Birch",
+    "scientific_name": [
+        "Betula nigra"
+    ],
+    "other_name": [
+        "Red Birch"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Eastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=186&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=186&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=186&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Bog",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Dieback",
+        " Fungal leaf spot",
+        " Leaf miner insect",
+        " Rust",
+        " Virus"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Brown (male) green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "black"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "River Birch (Betula nigra) is an amazing tree species and one of nature's wonders. It can endure most harsh weather conditions, surviving in temperate and subtropical areas. Not only is the River Birch a hardy species, but it is also a beautiful sight. With widespread branches of an ebony hue, it towers with elegance and grace. It produces two to three-inch catkins in the spring which bloom with tiny yellow flowers. As fall turns to winter, the leaves transform from their typical green to a brilliant bronze. River Birch is the perfect species for any garden or landscape, providing shade and long-term enjoyment.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/186_betula_nigra/og/38242143172_2670c4b8e2_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/186_betula_nigra/regular/38242143172_2670c4b8e2_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/186_betula_nigra/medium/38242143172_2670c4b8e2_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/186_betula_nigra/small/38242143172_2670c4b8e2_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/186_betula_nigra/thumbnail/38242143172_2670c4b8e2_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

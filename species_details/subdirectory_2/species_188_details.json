@@ -1,0 +1,125 @@
+{
+    "id": 188,
+    "common_name": "Summer Cascade Weeping River Birch",
+    "scientific_name": [
+        "Betula nigra 'Summer Cascade'"
+    ],
+    "other_name": [
+        "Red Birch"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Eastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=188&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=188&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": {
+        "unit": "gallon",
+        "value": "1"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=188&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Bog",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Dieback",
+        " Fungal leaf spot",
+        " Leaf miner insect",
+        " Rust",
+        " Virus"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Brown (male) green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Summer Cascade Weeping River Birch (Betula nigra 'Summer Cascade') is an amazing plant species. It has an eye-catching cascading form and its beauty enhances in the summer when its delicate foliage takes on a bronze hue. Its leaves also have saw-toothed edges and perform best in moist, well-draining soils in full sun to light shade. Summer Cascade is also heat and drought tolerant, making it a great choice for the garden. Its graceful form naturally creates an amazing backdrop and adds a sense of serenity to any landscape. It's an ideal choice for small spaces or containers. With its outstanding beauty, low maintenance and adaptability, the Summer Cascade is sure to be a showstopper in any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/188_betula_nigra_summer_cascade/og/Betula_nigra_Summer_Cascade_0zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/188_betula_nigra_summer_cascade/regular/Betula_nigra_Summer_Cascade_0zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/188_betula_nigra_summer_cascade/medium/Betula_nigra_Summer_Cascade_0zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/188_betula_nigra_summer_cascade/small/Betula_nigra_Summer_Cascade_0zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/188_betula_nigra_summer_cascade/thumbnail/Betula_nigra_Summer_Cascade_0zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

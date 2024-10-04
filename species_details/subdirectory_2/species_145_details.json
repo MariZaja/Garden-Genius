@@ -1,0 +1,140 @@
+{
+    "id": 145,
+    "common_name": "Crimson King Norway Maple",
+    "scientific_name": [
+        "Acer platanoides 'Crimson King'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=145&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=145&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaf",
+            "color": [
+                "maroon"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow-pink-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "February",
+        "March"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=145&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Maroon yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "maroon",
+        "magenta",
+        "burgundy",
+        "ruby"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "purple",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Crimson King Norway Maple is an amazing tree species that provides striking visual interest with its bold maroon foliage. Hardy and easy to maintain, the tree is the perfect addition to any garden due to its fast growth rate, interesting bark and its impressive height which can grow up to 40 feet tall. Its favoured by many gardeners as it offers great colour even during the winter months as its leaves will turn deep purple as the temperature drops. It's also non-invasive, so it won't spread or overtake nearby plants or trees. All in all, the Crimson King Norway Maple is an ideal choice for gardeners who want to make a statement in their garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/145_acer_platanoides_crimson_king/og/35279593622_dbffc5f94b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/145_acer_platanoides_crimson_king/regular/35279593622_dbffc5f94b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/145_acer_platanoides_crimson_king/medium/35279593622_dbffc5f94b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/145_acer_platanoides_crimson_king/small/35279593622_dbffc5f94b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/145_acer_platanoides_crimson_king/thumbnail/35279593622_dbffc5f94b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

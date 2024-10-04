@@ -1,0 +1,135 @@
+{
+    "id": 192,
+    "common_name": "Whitebark Himalayan Birch",
+    "scientific_name": [
+        "Betula utilis 'var. jacquemontii'"
+    ],
+    "other_name": [
+        "White Bark Birch"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Himalayas"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Root Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=192&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=192&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunks",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=192&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Light brown catkins",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Whitebark Himalayan Birch (Betula utilis 'var. jacquemontii') is an amazing species due to its tough constitution and beautiful foliage. This species grows into a large tree with a thick trunk and up-to-30 meter-long branches, making it an ultimate addition to any landscape. It displays a stunning white bark that provides a great contrast with its green leaves and its ability to withstand high altitudes and cold climate allows it to thrive in mountains- its native habitat. Not only is this species beautiful, it is also highly beneficial as it provides excellent pollinator and wildlife habitat as well as erosion-protection.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/192_betula_utilis_var_jacquemontii/og/9020914937_f8664866cf_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/192_betula_utilis_var_jacquemontii/regular/9020914937_f8664866cf_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/192_betula_utilis_var_jacquemontii/medium/9020914937_f8664866cf_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/192_betula_utilis_var_jacquemontii/small/9020914937_f8664866cf_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/192_betula_utilis_var_jacquemontii/thumbnail/9020914937_f8664866cf_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

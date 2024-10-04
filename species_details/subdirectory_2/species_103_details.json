@@ -1,0 +1,105 @@
+{
+    "id": 103,
+    "common_name": "Red Feathers Japanese Maple*",
+    "scientific_name": [
+        "Acer palmatum 'Red Feathers'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  6 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 6,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=103&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=103&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=103&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Feathers Japanese Maple (Acer palmatum 'Red Feathers') is a beautiful and unique maple tree that is perfect for any garden. It has small, trilobate, green leaves with crimson red margins that transforms to a majestic deep burgundy during the summer and fall. Its impressive red and purple hues contrast elegantly against its bright green center. This hardy and low maintenance tree demands no more than a yearly pruning and water during dry periods, making it an easy staple in any backyard. Red Feathers Japanese Maple is definitely a stunning addition to any landscape.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/103_acer_palmatum_red_feathers/og/pexels-photo-8065044.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/103_acer_palmatum_red_feathers/regular/pexels-photo-8065044.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/103_acer_palmatum_red_feathers/medium/pexels-photo-8065044.jpg",
+        "small_url": "https://perenual.com/storage/species_image/103_acer_palmatum_red_feathers/small/pexels-photo-8065044.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/103_acer_palmatum_red_feathers/thumbnail/pexels-photo-8065044.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

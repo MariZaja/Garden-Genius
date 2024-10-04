@@ -1,0 +1,156 @@
+{
+    "id": 199,
+    "common_name": "Golden Catalpa",
+    "scientific_name": [
+        "Catalpa bignonioides 'Aurea'"
+    ],
+    "other_name": [
+        "Southern Catalpa"
+    ],
+    "family": "Bignoniaceae",
+    "origin": [
+        "Southeastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=199&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=199&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branch",
+            "color": [
+                "green-gray"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "light-green",
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "white-yellow-purple"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "purple-green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "vein",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=199&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White with purple and yellow markings",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "orange",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Golden Catalpa (Catalpa bignonioides 'Aurea') is a great plant species for those who want an eye-catching addition to their garden. Famous for its vibrant yellow foliage, this tree is sure to make a statement. In addition to its striking foliage, the Golden Catalpa produces white blooms which turn into Seedpods that gradually turn from green to brown and can be used to decorate outdoor spaces. Its low-maintenance nature and drought tolerance make it an ideal choice for many landscapes. The Golden Catalpa's incredible appearance and easy-care make it an amazing choice for gardeners looking for a stunningly beautiful and hardy plant.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/og/3772332964_5892151c41_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/regular/3772332964_5892151c41_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/medium/3772332964_5892151c41_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/small/3772332964_5892151c41_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/199_catalpa_bignonioides_aurea/thumbnail/3772332964_5892151c41_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

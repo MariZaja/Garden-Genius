@@ -1,0 +1,126 @@
+{
+    "id": 193,
+    "common_name": "California Incense Cedar",
+    "scientific_name": [
+        "Calocedrus decurrens"
+    ],
+    "other_name": [
+        "Incensecedar"
+    ],
+    "family": "Cupressaceae",
+    "origin": [
+        "Western United States",
+        "Mexico"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=193&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=193&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "grey-brown",
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=193&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Rust",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "California Incense Cedar (Calocedrus decurrens) is an amazing tree species that is native to western North America. It has an attractive \"flare-shaped\" silhouette with enticing orange-brown bark, and its cascades of feathery branches are dotted with vivid green needles that give off a sweet cedar scent. Its moderate growth rate and close-knit branches make it an excellent privacy screen or windbreak, while its longevity and resistance to disturbance make it an excellent choice for many landscapes. Wildlife benefit from its dense foliage, as it provides excellent habitat for birds and other animals. Furthermore, it is very fire-resistant and can tolerate drought, making it a great choice for areas susceptible to wildfires. California Incense Cedar is an amazing species for any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/193_calocedrus_decurrens/og/49153226872_1bf8feac75_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/193_calocedrus_decurrens/regular/49153226872_1bf8feac75_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/193_calocedrus_decurrens/medium/49153226872_1bf8feac75_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/193_calocedrus_decurrens/small/49153226872_1bf8feac75_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/193_calocedrus_decurrens/thumbnail/49153226872_1bf8feac75_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

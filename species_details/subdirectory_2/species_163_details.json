@@ -1,0 +1,120 @@
+{
+    "id": 163,
+    "common_name": "Red Dawn Full Moon Maple",
+    "scientific_name": [
+        "Acer shirasawanum 'Red Dawn'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=163&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=163&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "Dawn",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "red-pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=163&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Dawn Full Moon Maple is an amazing tree species due to its vibrant orange colour. Its foliage provides a spectacular show in autumn, as its leaves turn from a purple-red in summer to a brilliant red-orange during fall. It is a deciduous tree, meaning its leaves will drop during cold winter months. Its habit is also fantastic - it grows with a broad upright form that is both structurally sound and visually appealing. The Red Dawn Full Moon Maple is ideally suited to planting in well-drained soil, and requires regular watering and nutrients to remain healthy. This species is an invaluable garden addition, providing vibrant colour and beauty throughout the year.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/163_acer_shirasawanum_red_dawn/og/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/163_acer_shirasawanum_red_dawn/regular/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/163_acer_shirasawanum_red_dawn/medium/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+        "small_url": "https://perenual.com/storage/species_image/163_acer_shirasawanum_red_dawn/small/800px-Acer_Palmatum_27Red_Pygmy27.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/163_acer_shirasawanum_red_dawn/thumbnail/800px-Acer_Palmatum_27Red_Pygmy27.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

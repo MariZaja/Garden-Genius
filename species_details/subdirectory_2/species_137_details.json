@@ -1,0 +1,133 @@
+{
+    "id": 137,
+    "common_name": "Floating Cloud Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Ukigumo'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=137&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=137&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-white-yellow",
+                "rust-green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "vein",
+            "color": [
+                "yellow-green"
+            ]
+        },
+        {
+            "part": "twig",
+            "color": [
+                "yellow-red-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=137&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Floating Cloud Japanese Maple, or Acer palmatum 'Ukigumo', is an amazing sight to behold. With delicate, finely-fingered leaves and a lacey, cascading form that reaches up to fifteen feet, this tree provides a beautiful addition to any landscape. Its bright green leaves are outlined in vibrant oranges and reds throughout the seasons, making it a stunning focal point. Additionally, it is extremely hardy, growing in both full sun and partial shade, and is low maintenance and low water needing. With its striking beauty and low maintenance nature, Floating Cloud Japanese Maple is a wonderful choice for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/137_acer_palmatum_ukigumo/og/4845850971_a6f376a12a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/137_acer_palmatum_ukigumo/regular/4845850971_a6f376a12a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/137_acer_palmatum_ukigumo/medium/4845850971_a6f376a12a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/137_acer_palmatum_ukigumo/small/4845850971_a6f376a12a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/137_acer_palmatum_ukigumo/thumbnail/4845850971_a6f376a12a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

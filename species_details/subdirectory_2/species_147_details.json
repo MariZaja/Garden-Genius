@@ -1,0 +1,144 @@
+{
+    "id": 147,
+    "common_name": "Harlequin Norway Maple",
+    "scientific_name": [
+        "Acer platanoides 'Drummondii'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Stooling",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=147&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=147&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-white"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=147&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Maroon yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Harlequin Norway Maple is an amazing and unique species of maple. Boasting bright green-yellow foliage and creamy white blooms, it\u2019s a stunning addition to any garden. Its lush foliage provides plenty of shade, but also ensure that the hours of sunlight it does get will be enjoyed to the fullest. It grows best in full sun and is easy to care for; you\u2019ll only need to prune it occasionally and make sure its soil is kept moist. It also produces small fruits that attract birds, so it\u2019s sure to add a cheerful pop of color and wildlife to any outdoor space.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/147_acer_platanoides_drummondii/og/10840118873_cc5e8da787_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/147_acer_platanoides_drummondii/regular/10840118873_cc5e8da787_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/147_acer_platanoides_drummondii/medium/10840118873_cc5e8da787_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/147_acer_platanoides_drummondii/small/10840118873_cc5e8da787_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/147_acer_platanoides_drummondii/thumbnail/10840118873_cc5e8da787_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

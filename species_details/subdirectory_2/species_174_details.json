@@ -1,0 +1,141 @@
+{
+    "id": 174,
+    "common_name": "Summer Chocolate Mimosa",
+    "scientific_name": [
+        "Albizia julibrissin 'Summer Chocolate'"
+    ],
+    "other_name": [
+        "Silktree"
+    ],
+    "family": "Fabaceae",
+    "origin": [
+        "Iran",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=174&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=174&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "brown-pink"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-pink-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=174&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "purple",
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Summer Chocolate Mimosa (Albizia julibrissin 'Summer Chocolate') is an amazing plant species that will truly take your breath away. Its unique foliage will transform your garden with its deep burgundy-purple leaves. It is also very heat tolerant and drought tolerant, making it perfect for areas with long, hot summers. Additionally, its fragrant, fluffy pink blooms really add to its beauty. It loves full sunshine, and its blooms will last all summer long. All of these wonderful features make the Summer Chocolate Mimosa a must-have addition to any garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/174_albizia_julibrissin_summer_chocolate/og/4846456933_a3fd8efe99_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/174_albizia_julibrissin_summer_chocolate/regular/4846456933_a3fd8efe99_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/174_albizia_julibrissin_summer_chocolate/medium/4846456933_a3fd8efe99_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/174_albizia_julibrissin_summer_chocolate/small/4846456933_a3fd8efe99_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/174_albizia_julibrissin_summer_chocolate/thumbnail/4846456933_a3fd8efe99_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

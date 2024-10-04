@@ -1,0 +1,113 @@
+{
+    "id": 191,
+    "common_name": "Whitespire Birch",
+    "scientific_name": [
+        "Betula populifolia 'Whitespire'"
+    ],
+    "other_name": [
+        "Betula platyphylla"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=191&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=191&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=191&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sand"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow brown (male), Green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Whitespire Birch (Betula populifolia 'Whitespire') is a stunning deciduous tree with a truly stunning white bark. It is native to eastern North America and is a great choice for landscaping due to its size and graceful structure. In addition to its attractive exterior, Whitespire Birch is also known for its tolerance to drought and it is relatively pest and disease-resistant. The leaves of this tree are also admired for its blue-green color and its serrated shape that becomes yellow in the fall. For those looking to liven up a space, Whitespire Birch is a great option that offers both ecological benefits and beauty.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/191_betula_populifolia_whitespire/og/Betula_populifolia_leaves.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/191_betula_populifolia_whitespire/regular/Betula_populifolia_leaves.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/191_betula_populifolia_whitespire/medium/Betula_populifolia_leaves.jpg",
+        "small_url": "https://perenual.com/storage/species_image/191_betula_populifolia_whitespire/small/Betula_populifolia_leaves.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/191_betula_populifolia_whitespire/thumbnail/Betula_populifolia_leaves.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

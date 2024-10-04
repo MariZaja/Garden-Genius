@@ -1,0 +1,128 @@
+{
+    "id": 107,
+    "common_name": "Rhode Island Red Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Rhode Island Red'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  12 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 12,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=107&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=107&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "burgundy-orange"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=107&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Rhode Island Red Japanese Maple is an amazing deciduous tree that boasts bright, lush red foliage throughout the summer, which turns to golden yellow in the fall. The small tree grows slowly, reaching only 15 feet in height and can easily be contained with pruning. It\u2019s compact size and full round shape makes it an ideal choice for smaller garden spaces. It also features slim green stems with delicate, 5-lobed leaves. The Acer palmatum 'Rhode Island Red' is easy to maintain and provides a beautiful, brilliant focal point in any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/107_acer_palmatum_rhode_island_red/og/16805737339_d92eafd674_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/107_acer_palmatum_rhode_island_red/regular/16805737339_d92eafd674_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/107_acer_palmatum_rhode_island_red/medium/16805737339_d92eafd674_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/107_acer_palmatum_rhode_island_red/small/16805737339_d92eafd674_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/107_acer_palmatum_rhode_island_red/thumbnail/16805737339_d92eafd674_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

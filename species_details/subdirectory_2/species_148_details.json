@@ -1,0 +1,115 @@
+{
+    "id": 148,
+    "common_name": "Emerald Queen Norway Maple",
+    "scientific_name": [
+        "Acer platanoides 'Emerald Queen'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=148&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=148&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=148&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Aphids",
+        "adelgids",
+        " Canker",
+        "sap rot",
+        " Caterpillar",
+        "cutworm",
+        " Mildew",
+        " Wilt",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Maroon yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Emerald Queen Norway Maple is an amazing tree species. With its vivid green, waxy leaves that emerge in early spring and its stately, oval-shaped canopy, it's truly a sight to behold. It\u2019s an extremely popular ornamental tree species and its broadleaf resistant to drought and pollution. Its dark green foliage and yellowish-green fall color make the Emerald Queen Norway Maple an ideal choice for parks, large gardens, business landscapes, and avenue plantings. This hardy species grows in moist, well-drained soils, as long as it has full sun. It's a fast-growing maple that can reach a height of 40' and is winter-hardy in its zone. All in all, it's a stunning and resilient tree that brings beauty and longevity to any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/148_acer_platanoides_emerald_queen/og/Acer_saccharum_28Sugar_maple29_282692405476329.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/148_acer_platanoides_emerald_queen/regular/Acer_saccharum_28Sugar_maple29_282692405476329.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/148_acer_platanoides_emerald_queen/medium/Acer_saccharum_28Sugar_maple29_282692405476329.jpg",
+        "small_url": "https://perenual.com/storage/species_image/148_acer_platanoides_emerald_queen/small/Acer_saccharum_28Sugar_maple29_282692405476329.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/148_acer_platanoides_emerald_queen/thumbnail/Acer_saccharum_28Sugar_maple29_282692405476329.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
