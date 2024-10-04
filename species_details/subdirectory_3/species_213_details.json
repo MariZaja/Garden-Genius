@@ -1,0 +1,153 @@
+{
+    "id": 213,
+    "common_name": "Eastern Redbud",
+    "scientific_name": [
+        "Cercis canadensis"
+    ],
+    "other_name": [
+        "Redbud",
+        "Judas Tree",
+        "Love Tree",
+        "Eastern Redbud",
+        "Judas Tree"
+    ],
+    "family": "Fabaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=213&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=213&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-brown",
+                "gray-white",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink-purple",
+                "purple-pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=213&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Canker",
+        "sap rot",
+        " Scale insects",
+        " Wilt"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "purple",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Eastern Redbuds are magnificent trees that offer a stunning array of colors and styles during their bloom period in late March to mid-April. They are incredibly hardy and can be found throughout most of the United States, from the Hudson River to California. \n\nThe compound leaves are a unique show of their own, with bud-shaped, yellow-green clusters providing a waxy texture and subtle aroma. As the leaves transition to a deep purple and then into red, they truly come alive and provide a splendid show of the changing of the seasons. \n\nThe bark of Eastern redbuds has a sinuous pattern of deep rusty-brown marks and scaly ridges that add an extra layer of beauty and character to this species. With its fascinating whimsy of beauty and timeless charm, Eastern Redbud is an amazing plant species sure to impress any spectator.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/213_cercis_canadensis/og/52077203823_d377f9fa30_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/213_cercis_canadensis/regular/52077203823_d377f9fa30_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/213_cercis_canadensis/medium/52077203823_d377f9fa30_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/213_cercis_canadensis/small/52077203823_d377f9fa30_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/213_cercis_canadensis/thumbnail/52077203823_d377f9fa30_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,122 @@
+{
+    "id": 215,
+    "common_name": "White Redbud",
+    "scientific_name": [
+        "Cercis canadensis 'Alba'"
+    ],
+    "other_name": [
+        "Redbud",
+        "Judas Tree",
+        "Love Tree",
+        "Eastern Redbud",
+        "Judas Tree"
+    ],
+    "family": "Fabaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=215&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=215&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=215&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+        "Canker",
+        "sap rot",
+        " Scale insects",
+        " Wilt"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "purple",
+        "maroon",
+        "white"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "White Redbud (Cercis canadensis 'Alba') is truly amazing because it is a unique cultivar of the traditional redbud tree. It has showy white flowers that appear before its foliage in late spring and attract hummingbirds and bees. In addition, its smooth bark and heart-shaped leaves add a delicate look to any landscape. It is also an extremely adaptable species, thriving in a wide range of climates and soils. It is an excellent choice for street and garden plantings, as it is easy to maintain and needs minimal pruning. White Redbud is the perfect addition to any outdoor space, thanks to its breath-taking beauty and hardiness.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/215_cercis_canadensis_alba/og/photo-67301.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/215_cercis_canadensis_alba/regular/photo-67301.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/215_cercis_canadensis_alba/medium/photo-67301.jpg",
+        "small_url": "https://perenual.com/storage/species_image/215_cercis_canadensis_alba/small/photo-67301.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/215_cercis_canadensis_alba/thumbnail/photo-67301.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

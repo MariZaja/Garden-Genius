@@ -1,0 +1,142 @@
+{
+    "id": 231,
+    "common_name": "White Fringetree",
+    "scientific_name": [
+        "Chionanthus virginicus"
+    ],
+    "other_name": [
+        "Old Man's Beard",
+        "Fringe Tree"
+    ],
+    "family": "Oleaceae",
+    "origin": [
+        "Eastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=231&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=231&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "5"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown-green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=231&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The White Fringetree is an amazing species of plant because of its gorgeous look and versatility. It is a small to medium sized deciduous shrub or tree that features delicate white flowers in early summer that give off a sweet fragrance. The leaves are fragrant when crushed, and turn a brilliant yellow in the fall. It is drought tolerant, and attracts birds, butterflies and other pollinators to its flowers. It can also be used as a specimen tree, as a hedge plant, or as part of a mixed border. The White Fringetree is a most delightful and attractive species, bringing a wealth of beauty and wildlife to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/231_chionanthus_virginicus/og/35032739335_86d889142c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/231_chionanthus_virginicus/regular/35032739335_86d889142c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/231_chionanthus_virginicus/medium/35032739335_86d889142c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/231_chionanthus_virginicus/small/35032739335_86d889142c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/231_chionanthus_virginicus/thumbnail/35032739335_86d889142c_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

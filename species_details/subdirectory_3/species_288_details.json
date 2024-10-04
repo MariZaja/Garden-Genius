@@ -1,0 +1,177 @@
+{
+    "id": 288,
+    "common_name": "Common Fig",
+    "scientific_name": [
+        "Ficus carica"
+    ],
+    "other_name": [
+        "garden fig"
+    ],
+    "family": "Moraceae",
+    "origin": [
+        "Western Asia",
+        "southeastern Europe"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=288&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=288&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "fruit",
+            "color": [
+                "green-purple"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "dark-green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "lime-green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "lime-green",
+                "light-green"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "gray-green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "vein",
+            "color": [
+                "light-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=288&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "purple"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Common Fig (Ficus carica) is a delightful addition to any home or garden. A hardy species, it will thrive in most climates and offers a continuous supply of delicious fruits throughout the year. The deep green foliage provides a beautiful backdrop for the glossy fruits, which can be picked from the tree when ripe and eaten either raw or cooked. Not only does the Common Fig produce a delicious fruit, but its hardy nature and ability to adapt to different climates makes it an amazing choice for many different growing environments.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/288_ficus_carica/og/52377169610_b7a247a378_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/288_ficus_carica/regular/52377169610_b7a247a378_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/288_ficus_carica/medium/52377169610_b7a247a378_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/288_ficus_carica/small/52377169610_b7a247a378_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/288_ficus_carica/thumbnail/52377169610_b7a247a378_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

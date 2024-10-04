@@ -1,0 +1,132 @@
+{
+    "id": 212,
+    "common_name": "Red Fox Katsura Tree",
+    "scientific_name": [
+        "Cercidiphyllum japonicum 'Rotfuchs'"
+    ],
+    "other_name": [
+        "Japanese katsura tree"
+    ],
+    "family": "Cercidiphyllaceae",
+    "origin": [
+        "China",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=212&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=212&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "12"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=212&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Green to reddish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Fox Katsura Tree is an amazing species of tree that is renowned for its decorative foliage. Its leaves emerge in the spring with a bright orange hue, before transforming to a deep red-bronze color in the autumn. Its glossy leaves are also highly textured and ovate shaped, giving it a unique look. It is a low-maintenance tree and requires little pruning. It is often used as a focal point in garden landscapes as its vibrant foliage will bring any garden to life. The Red Fox Katsura Tree is an excellent choice for those looking to inject color into their outdoor spaces.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/212_cercidiphyllum_japonicum_rotfuchs/og/27820882255_7e1702e940_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/212_cercidiphyllum_japonicum_rotfuchs/regular/27820882255_7e1702e940_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/212_cercidiphyllum_japonicum_rotfuchs/medium/27820882255_7e1702e940_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/212_cercidiphyllum_japonicum_rotfuchs/small/27820882255_7e1702e940_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/212_cercidiphyllum_japonicum_rotfuchs/thumbnail/27820882255_7e1702e940_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

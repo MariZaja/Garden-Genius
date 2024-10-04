@@ -1,0 +1,133 @@
+{
+    "id": 275,
+    "common_name": "Mountain Pepper",
+    "scientific_name": [
+        "Drimys lanceolata"
+    ],
+    "other_name": [
+        "Cornish Pepper Leaf",
+        "Tasmannia lanceolata"
+    ],
+    "family": "Winteraceae",
+    "origin": [
+        "Australia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=275&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=275&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "burgundy"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=275&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow to creamy white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "purple"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Mountain Pepper is a truly amazing plant species. Native to the wet forests of Tasmania, it has become popular in many areas around the world as an ornamental and edible perennial. The dark green and glossy evergreen foliage warms up its environment. Its leaves can be used as a culinary seasoning similar to peppercorn and its stunningly perfumed white flowers appear in mid-summer. In addition, the foliage and bark of Drimys lanceolata is used in traditional medicines due to its effectiveness as an astringent and antiseptic. This hardy plant species is also drought tolerant, making it a great choice for southern gardens. It\u2019s no wonder why Mountain Pepper is such a desirable and appreciated species!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/275_drimys_lanceolata/og/7521641388_439c6a4249_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/275_drimys_lanceolata/regular/7521641388_439c6a4249_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/275_drimys_lanceolata/medium/7521641388_439c6a4249_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/275_drimys_lanceolata/small/7521641388_439c6a4249_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/275_drimys_lanceolata/thumbnail/7521641388_439c6a4249_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

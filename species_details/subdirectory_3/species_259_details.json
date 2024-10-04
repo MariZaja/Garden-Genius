@@ -1,0 +1,100 @@
+{
+    "id": 259,
+    "common_name": "Starlight Chinese Dogwood",
+    "scientific_name": [
+        "Cornus kousa 'Starlight'"
+    ],
+    "other_name": [
+        "Kousa Dogwood"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea",
+        "China",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=259&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=259&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=259&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White to pinkish (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "pink"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Starlight Chinese Dogwood (Cornus kousa 'Starlight') is a truly stunning and unique plant species. It is a medium-sized tree reaching up to 10 feet in height, with showy blooms of star shaped flowers in shades of white and yellow in early summer, creating a bright and stunning display. It features a tiered branching pattern and lush, dark green foliage with a pinkish tint, adding depth to its beauty. Best of all, it is easy to care for and is quite resilient in various soil types and climates. It is an excellent choice for any garden or outdoor space as it provides year-round interest and beauty.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,111 @@
+{
+    "id": 257,
+    "common_name": "Samaritan Chinese Dogwood",
+    "scientific_name": [
+        "Cornus kousa 'Samaritan'"
+    ],
+    "other_name": [
+        "Kousa Dogwood"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea",
+        "China",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=257&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=257&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "May",
+        "June"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=257&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White to pinkish (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "pink",
+        "tan"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Samaritan Chinese Dogwood is an amazing tree for its delicate beauty and hardy nature. Its showy white blooms appear in spring, producing a soft, yet colorful display. The vibrant green leaves turn to hues of yellow, orange, and pink in the fall, making for a unique and exciting landscape. Its dense growth habit and medium spreading form makes it an ideal choice for gardens or larger areas. Its bright red fruits make an attractive addition to the landscape, often attracting birds as well as people. The Samaritan Chinese Dogwood is an improved variety of the native species, and is sure to wow with its beauty and resilience.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

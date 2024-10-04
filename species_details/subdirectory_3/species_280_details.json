@@ -1,0 +1,115 @@
+{
+    "id": 280,
+    "common_name": "Dawyck Gold Beech",
+    "scientific_name": [
+        "Fagus sylvatica 'Dawyck Gold'"
+    ],
+    "other_name": [
+        "Golden Fastigiate Beech",
+        "European Beech"
+    ],
+    "family": "Fagaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  45 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 45,
+        "max_value": 45,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=280&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=280&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=280&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Rodents",
+        "  Pest resistant",
+        " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Not showy, Green-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Dawyck Gold Beech (Fagus sylvatica 'Dawyck Gold') is an amazing tree that offers year-round beauty and interest. In spring and summer, this beech tree shows off its bright yellow-green foliage, with new shoots turning golden in mid-summer. In winter, the leaves turn to a pleasant golden brown for a fantastic winter feature. This tree is also surprisingly tough, making it suitable for most climates and offering a good level of resistance to coastal and city pollution. Equally impressive, its beautiful shape and canopies make a great addition to any landscape. Dawyck Gold Beech is an amazing tree to add an eye-catching ornamental feature to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/280_fagus_sylvatica_dawyck_gold/og/28664584202_1248ff5994_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/280_fagus_sylvatica_dawyck_gold/regular/28664584202_1248ff5994_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/280_fagus_sylvatica_dawyck_gold/medium/28664584202_1248ff5994_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/280_fagus_sylvatica_dawyck_gold/small/28664584202_1248ff5994_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/280_fagus_sylvatica_dawyck_gold/thumbnail/28664584202_1248ff5994_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,139 @@
+{
+    "id": 296,
+    "common_name": "Ginkgo",
+    "scientific_name": [
+        "Ginkgo biloba"
+    ],
+    "other_name": [
+        "Maidenhair Tree",
+        "ginkgo"
+    ],
+    "family": "Ginkgoaceae",
+    "origin": [
+        "Southern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=296&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=296&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=296&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Nematodes",
+        " Root rot",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "orange",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ginkgo is an amazing plant species with countless benefits. This deciduous tree can reach up to 35 meters tall and live for over 1,000 years. It has fan-shaped leaves that turn a brilliant yellow in the autumn. Because of this, it is often referred to as a living fossil. There are many health benefits associated with its leaves, including improved cognitive function and reduced risk of dementia. Ginkgo is also a source of antioxidants, which can help to reduce the effects of free radicals and protect against diseases. This unique species can even improve blood circulation and provide relief from symptoms of asthma and allergies. Ginkgo is truly an amazing plant!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/296_ginkgo_biloba/og/45919245951_080f8dcbb6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/296_ginkgo_biloba/regular/45919245951_080f8dcbb6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/296_ginkgo_biloba/medium/45919245951_080f8dcbb6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/296_ginkgo_biloba/small/45919245951_080f8dcbb6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/296_ginkgo_biloba/thumbnail/45919245951_080f8dcbb6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

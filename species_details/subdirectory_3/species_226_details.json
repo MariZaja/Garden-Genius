@@ -1,0 +1,128 @@
+{
+    "id": 226,
+    "common_name": "Cripps Gold Falsecypress",
+    "scientific_name": [
+        "Chamaecyparis obtusa 'Crippsii'"
+    ],
+    "other_name": [],
+    "family": "Cupressaceae",
+    "origin": [
+        "Japan",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=226&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=226&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=226&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Cripps Gold Falsecypress (Chamaecyparis obtusa 'Crippsii') is an amazing evergreen shrub, prized for its unique golden yellow color. Its ornamental foliage, shaped like tiny flat needles, changes color with the seasons, ranging from soft gold in summer to vibrant yellow in winter. Hardy, easy to grow and drought tolerant, it grows in a column, making it a great choice for narrow areas in any garden. It can reach 3-4 meters in height and width, and it is capable of tolerating a variety of soil and growing conditions. With its cheerful appearance and ability to brighten up any landscape, Cripps Gold Falsecypress is an excellent choice!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/226_chamaecyparis_obtusa_crippsii/og/21833566952_8169553574_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/226_chamaecyparis_obtusa_crippsii/regular/21833566952_8169553574_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/226_chamaecyparis_obtusa_crippsii/medium/21833566952_8169553574_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/226_chamaecyparis_obtusa_crippsii/small/21833566952_8169553574_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/226_chamaecyparis_obtusa_crippsii/thumbnail/21833566952_8169553574_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

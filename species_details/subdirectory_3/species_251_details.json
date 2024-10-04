@@ -1,0 +1,139 @@
+{
+    "id": 251,
+    "common_name": "Chinese Dogwood",
+    "scientific_name": [
+        "Cornus kousa"
+    ],
+    "other_name": [
+        "Kousa Dogwood"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea",
+        "China",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=251&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=251&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown-green",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "white-green",
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow-pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=251&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White to pinkish (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "pink"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Chinese Dogwood (Cornus kousa) is a highly sought after ornamental tree that is loved by gardeners around the world for its beauty and elegance. With its showy white flowers, its white and pink variegated leaves and its large showy fruit, it makes an amazing statement in any garden. It's remarkable four season interest is further enhanced by stunning fall foliage in rich oranges and reds. It's also extremely hardy making it a great choice for any landscape. Its unique beauty and longevity make it one of the most desirable cultivars among gardeners everywhere.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/251_cornus_kousa/og/36611026736_02b5067c84_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/251_cornus_kousa/regular/36611026736_02b5067c84_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/251_cornus_kousa/medium/36611026736_02b5067c84_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/251_cornus_kousa/small/36611026736_02b5067c84_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/251_cornus_kousa/thumbnail/36611026736_02b5067c84_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

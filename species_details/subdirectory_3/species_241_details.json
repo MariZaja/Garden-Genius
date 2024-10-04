@@ -1,0 +1,146 @@
+{
+    "id": 241,
+    "common_name": "Venus Flowering Dogwood",
+    "scientific_name": [
+        "Cornus 'Venus'"
+    ],
+    "other_name": [
+        "Hybrid Dogwood"
+    ],
+    "family": null,
+    "origin": [
+        "Japan",
+        "China",
+        "Korea"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=241&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=241&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "creamy-white"
+            ]
+        },
+        {
+            "part": "center",
+            "color": [
+                "lime-green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "lush-green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "lime-green"
+            ]
+        },
+        {
+            "part": "midribs",
+            "color": [
+                "lime-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=241&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Venus Flowering Dogwood (Cornus 'Venus') is a magnificent plant species that is sure to bring a stunning presence to any garden. This incredible tree can reach up to 12 meters and has a gracefully spreading canopy. It is famous for its winter-blooming flowers in shades of white and pink. Not only is this species aesthetically pleasing, but it is also highly ornamental and provides excellent shelter to wildlife. Its colorful foliage gives way to bright red berries in autumn. Not only is this species easy to manage, but it is also low maintenance and can tolerate many soil types. This amazing plant species is definitely worth considering if you want to bring an elegant presence to your garden.",
+    "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/241_cornus_venus/og/51206617814_99263a098f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

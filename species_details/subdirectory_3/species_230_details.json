@@ -1,0 +1,140 @@
+{
+    "id": 230,
+    "common_name": "Chinese Fringetree",
+    "scientific_name": [
+        "Chionanthus retusus"
+    ],
+    "other_name": [
+        "Fringe Tree"
+    ],
+    "family": "Oleaceae",
+    "origin": [
+        "Asia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=230&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=230&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown-gray",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown-gray",
+                "brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pale-yellow-white",
+                "white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "light-green",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=230&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Chinese fringetree (Chionanthus retusus) is a stunning ornamental tree that adds beauty to any garden or landscape. It features glossy, dark green foliage that turns shades of yellow and orange in the fall. Its pretty, fragrant white blooms in the late spring attract many pollinators, and its delicate gray-brown fruit attractive birds and wildlife. It makes an attractive shade tree, largely pest-free and tolerates pollution. An overall hardy tree, it can be grown in a wide range of climates with minimal maintenance required. The Chinese fringetree is an amazing addition to any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/230_chionanthus_retusus/og/41017945655_b2552295b1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/230_chionanthus_retusus/regular/41017945655_b2552295b1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/230_chionanthus_retusus/medium/41017945655_b2552295b1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/230_chionanthus_retusus/small/41017945655_b2552295b1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/230_chionanthus_retusus/thumbnail/41017945655_b2552295b1_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

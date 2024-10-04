@@ -1,0 +1,108 @@
+{
+    "id": 203,
+    "common_name": "Bush's Electra Deodar Cedar",
+    "scientific_name": [
+        "Cedrus deodara 'Bush's Electra'"
+    ],
+    "other_name": [
+        "Himalayan Cedar"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Himalayas"
+    ],
+    "type": "tree",
+    "dimension": "Height:  80 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 80,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=203&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=203&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=203&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        " Canker",
+        "sap rot",
+        " Diptera - true flies",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bush's Electra Deodar Cedar (Cedrus deodara 'Bush's Electra') is an amazing plant species for many reasons. Native to the Himalayas, this stunning evergreen produces light blue to silver foliage that is among the most fragrant of any of the Cedrus varieties. It is slow-growing, but can reach up to 30 feet tall. It is also tolerant to drought and prefers sandy or loamy soils. The foliage of this species is delicate, yet produces a pleasant fragrance when crushed. When covered in snow, Bush's Electra Deodar Cedar is a sight to behold. Thanks to its unique shape and showy blue-green foliage, it makes a great accent tree in a garden or park. With its fragrance and ornamental appeal, it is easy to see why this is an amazing species of cedar.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/203_cedrus_deodara_bushs_electra/og/Cedrus_deodara_11zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/203_cedrus_deodara_bushs_electra/regular/Cedrus_deodara_11zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/203_cedrus_deodara_bushs_electra/medium/Cedrus_deodara_11zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/203_cedrus_deodara_bushs_electra/small/Cedrus_deodara_11zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/203_cedrus_deodara_bushs_electra/thumbnail/Cedrus_deodara_11zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

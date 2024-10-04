@@ -1,0 +1,135 @@
+{
+    "id": 224,
+    "common_name": "Golden Hinoki Falsecypress",
+    "scientific_name": [
+        "Chamaecyparis obtusa 'Aurea'"
+    ],
+    "other_name": [],
+    "family": "Cupressaceae",
+    "origin": [
+        "Japan",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=224&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=224&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=224&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Hinoki Falsecypress is a truly amazing plant species and is a beautiful addition to any garden. Its lush golden foliage is eye catching and looks stunning in any setting. The evergreen foliage adds year round interest, and its elegant shape and texture looks great as a backdrop or focal point. It\u2019s also extremely low maintenance and drought tolerant, so there\u2019s less to worry about. A great bonus is the lovely lemon and citrus scented foliage, ideal for any patio or balcony. The Golden Hinoki Falsecypress is a versatile and stunning plant, perfect for any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/224_chamaecyparis_obtusa_aurea/og/15186635347_ef236599e6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/224_chamaecyparis_obtusa_aurea/regular/15186635347_ef236599e6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/224_chamaecyparis_obtusa_aurea/medium/15186635347_ef236599e6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/224_chamaecyparis_obtusa_aurea/small/15186635347_ef236599e6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/224_chamaecyparis_obtusa_aurea/thumbnail/15186635347_ef236599e6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,144 @@
+{
+    "id": 210,
+    "common_name": "Katsura Tree",
+    "scientific_name": [
+        "Cercidiphyllum japonicum"
+    ],
+    "other_name": [
+        "Japanese katsura tree"
+    ],
+    "family": "Cercidiphyllaceae",
+    "origin": [
+        "China",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=210&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=210&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown",
+                "green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=210&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Green to reddish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Katsura Tree is an amazing species of tree that grows in both Japan and China. Its large leafy canopy makes it a desirable choice for gardeners, while its leaves turn beautiful shades of yellow, orange, and red in the fall. Its bark has a distinct cinnamon scent when burnt, and its winter form has an interesting, irregular shape. It's also revered for its unique heart-shaped leaves and pink, fragrant flowers. Plus, Katsura Trees are highly tolerant of air pollution and look great year-round. If that wasn't enough, it's even drought-tolerant and disease-resistant. A Katsura Tree is an ideal addition to any garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/210_cercidiphyllum_japonicum/og/50082930431_17615cde29_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/210_cercidiphyllum_japonicum/regular/50082930431_17615cde29_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/210_cercidiphyllum_japonicum/medium/50082930431_17615cde29_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/210_cercidiphyllum_japonicum/small/50082930431_17615cde29_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/210_cercidiphyllum_japonicum/thumbnail/50082930431_17615cde29_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

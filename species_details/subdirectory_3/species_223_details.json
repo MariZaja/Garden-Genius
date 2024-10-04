@@ -1,0 +1,129 @@
+{
+    "id": 223,
+    "common_name": "Weeping Nootka Cypress",
+    "scientific_name": [
+        "Chamaecyparis nootkatensis 'Pendula'"
+    ],
+    "other_name": [
+        "Alaska Cedar",
+        "Nootka Falsecypress",
+        "Xanthocyparis"
+    ],
+    "family": null,
+    "origin": [
+        "Canada",
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=223&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=223&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "green",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=223&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Loamy"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Weeping Nootka Cypress (Chamaecyparis nootkatensis 'Pendula') is an amazing plant species, perfect for adding a cascading focal point to any landscape. Its unusually full and cascading branches are bright green during the growing season and become evergreen during winter. This upright shrub or small tree has an irregular branching habit, giving it a truly unique and beautiful look. Plus, with its tolerance to a wide range of climates, soils, lighting, and moisture levels, it's an incredibly hardy species that needs minimal upkeep. Grow a Weeping Nootka Cypress for a stunning statement in any garden!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/223_chamaecyparis_nootkatensis_pendula/og/52620084612_4da3250360_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/223_chamaecyparis_nootkatensis_pendula/regular/52620084612_4da3250360_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/223_chamaecyparis_nootkatensis_pendula/medium/52620084612_4da3250360_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/223_chamaecyparis_nootkatensis_pendula/small/52620084612_4da3250360_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/223_chamaecyparis_nootkatensis_pendula/thumbnail/52620084612_4da3250360_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

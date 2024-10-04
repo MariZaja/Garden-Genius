@@ -1,0 +1,106 @@
+{
+    "id": 206,
+    "common_name": "Kashmir Deodar Cedar",
+    "scientific_name": [
+        "Cedrus deodara 'Kashmir'"
+    ],
+    "other_name": [
+        "Himalayan Cedar"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Himalayas"
+    ],
+    "type": "tree",
+    "dimension": "Height:  80 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 80,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=206&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=206&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "January"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=206&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        " Canker",
+        "sap rot",
+        " Diptera - true flies",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Kashmir Deodar Cedar is an evergreen conifer tree with a grand, stately presence. It has striking blue-green foliage that can be used for formal or informal hedging and is an asset to any garden due to its majestic beauty. Its needles hold onto their color all year round, creating a lush and vibrant look. Grown in a wide range of climates and soil types, it is a very versatile tree that can withstand many conditions and requires minimal care. It is also an excellent choice for windbreaks, thanks to its incredible wind resistance. With its ability to reach heights of up to 200 feet, it is an amazing addition to any garden, big or small.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/206_cedrus_deodara_kashmir/og/Cedrus_deodar_Kashmir_1zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/206_cedrus_deodara_kashmir/regular/Cedrus_deodar_Kashmir_1zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/206_cedrus_deodara_kashmir/medium/Cedrus_deodar_Kashmir_1zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/206_cedrus_deodara_kashmir/small/Cedrus_deodar_Kashmir_1zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/206_cedrus_deodara_kashmir/thumbnail/Cedrus_deodar_Kashmir_1zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

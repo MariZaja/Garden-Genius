@@ -1,0 +1,109 @@
+{
+    "id": 258,
+    "common_name": "Satomi Chinese Dogwood",
+    "scientific_name": [
+        "Cornus kousa 'Satomi'"
+    ],
+    "other_name": [
+        "Kousa Dogwood"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea",
+        "China",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=258&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=258&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=258&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White to pinkish (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Satomi Chinese Dogwood (Cornus kousa 'Satomi'), a deciduous shrub, is an amazing landscape addition due to its year-round appeal. In spring its white flowers are stunning and are followed by yellow-green fruit in summer and stunning red-orange leaves in autumn. In winter its unique gray bark sets it apart from other trees. Additionally, this shrub is tolerant to various weather conditions and is disease and pest-resistant. Add this shrub to your garden and you won't be disappointed with its exceptional visual presence.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/258_cornus_kousa_satomi/og/15624067409_f5ed702740_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/258_cornus_kousa_satomi/regular/15624067409_f5ed702740_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/258_cornus_kousa_satomi/medium/15624067409_f5ed702740_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/258_cornus_kousa_satomi/small/15624067409_f5ed702740_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/258_cornus_kousa_satomi/thumbnail/15624067409_f5ed702740_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

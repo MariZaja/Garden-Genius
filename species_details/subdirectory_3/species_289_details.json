@@ -1,0 +1,150 @@
+{
+    "id": 289,
+    "common_name": "Kadota Fig",
+    "scientific_name": [
+        "Ficus carica 'Kadota'"
+    ],
+    "other_name": [
+        "garden fig"
+    ],
+    "family": "Moraceae",
+    "origin": [
+        "Western Asia",
+        "southeastern Europe"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=289&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=289&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "yellow-green",
+                "light-green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "green",
+                "light-green"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=289&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Kadota Fig (Ficus carica 'Kadota') is an amazing plant that provides sweet and buttery tasting fruit that are highly sought after. This plant is hardy and fast-growing, and will grow in full sun or partial shade, making it a great choice for gardens of all sizes. Kadota Fig fruits have thin skins and many edible seeds. They are great for fresh eating, baking, and canning. They are also a great choice for jams and preserves. Plus, with their attractive foliage and a drought tolerant nature, they add beauty to any landscape. Kadota Figs are truly a versatile plant that can provide exceptional fruit as well as beauty to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/289_ficus_carica_kadota/og/48265972037_27e005c4ab_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/289_ficus_carica_kadota/regular/48265972037_27e005c4ab_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/289_ficus_carica_kadota/medium/48265972037_27e005c4ab_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/289_ficus_carica_kadota/small/48265972037_27e005c4ab_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/289_ficus_carica_kadota/thumbnail/48265972037_27e005c4ab_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

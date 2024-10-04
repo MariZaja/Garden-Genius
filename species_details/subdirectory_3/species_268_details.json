@@ -1,0 +1,119 @@
+{
+    "id": 268,
+    "common_name": "Leyland Cypress",
+    "scientific_name": [
+        "Cupressocyparis x leylandii"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United Kingdom"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=268&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=268&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "brown-green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=268&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Leyland Cypress is an amazing species known for its fast growth and dense evergreen foliage. Its dark green foliage is made up of narrow, scale-like leaves that contrast beautifully against the bright, yellow-green new shoots. It is extremely versatile and can naturally take a variety of shapes, from columns and upright pyramids to more ornamental, fan-trained forms. It is relatively low maintenance and adaptable; tolerant of most soils, full sun, and reflects well against strong winds. Overall, the Leyland Cypress is an attractive and dependable evergreen that adds a pleasant landscape feature to any area.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/268_cupressocyparis_x_leylandii/og/9630542798_71401c187b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/268_cupressocyparis_x_leylandii/regular/9630542798_71401c187b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/268_cupressocyparis_x_leylandii/medium/9630542798_71401c187b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/268_cupressocyparis_x_leylandii/small/9630542798_71401c187b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/268_cupressocyparis_x_leylandii/thumbnail/9630542798_71401c187b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

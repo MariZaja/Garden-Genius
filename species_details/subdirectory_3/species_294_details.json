@@ -1,0 +1,117 @@
+{
+    "id": 294,
+    "common_name": "Leprechaun Green Ash",
+    "scientific_name": [
+        "Fraxinus pennsylvanica 'Leprechaun'"
+    ],
+    "other_name": [
+        "Red Ash"
+    ],
+    "family": "Oleaceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=294&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=294&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=294&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Fungal leaf spot",
+        " Rust",
+        " Stem borer insects",
+        "  Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Leprechaun Green Ash (Fraxinus pennsylvanica 'Leprechaun') is a unique and hit hard-to-find deciduous tree. It grows dense, fern-like foliage of bright emerald-green that looks amazing year-round. During the fall, its foliage turns to shades of yellow and brown, adding warmth and interest. It's also very resistant to both heat and cold. It can tolerate temperatures up to -30\u00b0F, making it ideal for an outdoor garden or landscaping project. Its strong branches and deep roots give it a reliable structure, while its pyramidal shape provides a unique aesthetic value. With its versatile design, Leprechaun Green Ash is perfect for adding a touch of charm and color to any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/294_fraxinus_pennsylvanica_leprechaun/og/5107486573_c4161ac946_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/294_fraxinus_pennsylvanica_leprechaun/regular/5107486573_c4161ac946_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/294_fraxinus_pennsylvanica_leprechaun/medium/5107486573_c4161ac946_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/294_fraxinus_pennsylvanica_leprechaun/small/5107486573_c4161ac946_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/294_fraxinus_pennsylvanica_leprechaun/thumbnail/5107486573_c4161ac946_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

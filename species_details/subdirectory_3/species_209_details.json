@@ -1,0 +1,116 @@
+{
+    "id": 209,
+    "common_name": "Weeping Cedar of Lebanon",
+    "scientific_name": [
+        "Cedrus libani 'Pendula'"
+    ],
+    "other_name": [],
+    "family": "Pinaceae",
+    "origin": [
+        "Southwestern Asia",
+        "Syria"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=209&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=209&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=209&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        "  Pest resistant",
+        " Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Non-flowering",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Weeping Cedar of Lebanon is an amazing plant species, full of character and grace. It's structure is slim, elegant in shape and content, swaying gently in the wind. Growing up to 30 feet, the branches of the Weeping Cedar of Lebanon twist and turn in dramatic curves, making for an eye-catching specimen. The thin foliage of its delicate needles is a light glaucous green, adding a pleasant canvas to any outdoor area. It's sure to draw everyone's attention and provide you with a unique and stunning piece of nature to admire.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/209_cedrus_libani_pendula/og/Cedrus_libani_ssp._atlantica_27Glauca_Pendula27_01_by_Line1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/209_cedrus_libani_pendula/regular/Cedrus_libani_ssp._atlantica_27Glauca_Pendula27_01_by_Line1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/209_cedrus_libani_pendula/medium/Cedrus_libani_ssp._atlantica_27Glauca_Pendula27_01_by_Line1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/209_cedrus_libani_pendula/small/Cedrus_libani_ssp._atlantica_27Glauca_Pendula27_01_by_Line1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/209_cedrus_libani_pendula/thumbnail/Cedrus_libani_ssp._atlantica_27Glauca_Pendula27_01_by_Line1.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

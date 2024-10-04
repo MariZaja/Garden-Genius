@@ -1,0 +1,110 @@
+{
+    "id": 286,
+    "common_name": "Weeping Purple Beech",
+    "scientific_name": [
+        "Fagus sylvatica 'Purpurea Pendula'"
+    ],
+    "other_name": [
+        "Golden Fastigiate Beech",
+        "European Beech"
+    ],
+    "family": "Fagaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "tree",
+    "dimension": "Height:  45 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 45,
+        "max_value": 45,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=286&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=286&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "2"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=286&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Rodents",
+        "  Pest resistant",
+        " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Not showy, Green-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Weeping Purple Beech (Fagus sylvatica 'Purpurea Pendula') is an amazing plant species due to its stunning purple foliage. All year round, its pendulous branches are wearing a deep purple to purple-black robe that brings a majestic feel and texture to any garden. This foliage complements a range of different plants and provides a great backdrop for more colorful plants. This plant is also tough and reliable with minimal maintenance and no serious pest or disease issues. It is a great option for adding dramatic foliage and structure to any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/286_fagus_sylvatica_purpurea_pendula/og/51270296275_da835d770d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/286_fagus_sylvatica_purpurea_pendula/regular/51270296275_da835d770d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/286_fagus_sylvatica_purpurea_pendula/medium/51270296275_da835d770d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/286_fagus_sylvatica_purpurea_pendula/small/51270296275_da835d770d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/286_fagus_sylvatica_purpurea_pendula/thumbnail/51270296275_da835d770d_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

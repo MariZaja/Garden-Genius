@@ -1,0 +1,127 @@
+{
+    "id": 207,
+    "common_name": "Cedar of Lebanon",
+    "scientific_name": [
+        "Cedrus libani"
+    ],
+    "other_name": [],
+    "family": "Pinaceae",
+    "origin": [
+        "Southwestern Asia",
+        "Syria"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=207&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=207&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=207&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        "  Pest resistant",
+        " Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Cedar of Lebanon is an amazing coniferous species. Its dense foliage, known for its rich blue-greens hues and stately appearance add beauty and privacy to landscapes. These trees also have a natural resistance to disease and pests and can live up to a thousand years. The Cedar of Lebanon has also been used in art and literature throughout history to symbolise power and strength, and are mentioned in the bible. A truly remarkable species, the Cedar of Lebanon will bring life to any garden or landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/207_cedrus_libani/og/52260831679_c28aa4f28b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/207_cedrus_libani/regular/52260831679_c28aa4f28b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/207_cedrus_libani/medium/52260831679_c28aa4f28b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/207_cedrus_libani/small/52260831679_c28aa4f28b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/207_cedrus_libani/thumbnail/52260831679_c28aa4f28b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

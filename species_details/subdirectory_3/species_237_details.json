@@ -1,0 +1,144 @@
+{
+    "id": 237,
+    "common_name": "Eddie's White Wonder Flowering Dogwood",
+    "scientific_name": [
+        "Cornus 'Eddie's White Wonder'"
+    ],
+    "other_name": [],
+    "family": "Cornaceae",
+    "origin": [
+        "Garden origin (C. nuttallii x C. florida)"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=237&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=237&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "green-white",
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "gray-green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Filtered shade",
+        " Full sun",
+        " Part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=237&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Showy, White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Eddie's White Wonder Flowering Dogwood is an incredible specimen of beauty. With its breathtaking white blooms, this fast growing tree can reach a height of 15-20 feet. It's ideal for smaller yards, patios, or gardens where its lush foliage and delicate branches can bring serenity to an outdoor space. As a bonus, its glossy green leaves turn to shades of yellow, red, and purple in the fall. This hardy dogwood prefers partial to full sun, and is winter and disease resistant. With its elegant structure and vibrant beauty, Eddie's White Wonder Flowering Dogwood is an amazing addition to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/237_cornus_eddies_white_wonder/og/3497141397_f4eb9efc32_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/237_cornus_eddies_white_wonder/regular/3497141397_f4eb9efc32_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/237_cornus_eddies_white_wonder/medium/3497141397_f4eb9efc32_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/237_cornus_eddies_white_wonder/small/3497141397_f4eb9efc32_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/237_cornus_eddies_white_wonder/thumbnail/3497141397_f4eb9efc32_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

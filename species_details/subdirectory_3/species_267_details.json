@@ -1,0 +1,126 @@
+{
+    "id": 267,
+    "common_name": "Yoshino Japanese Cedar",
+    "scientific_name": [
+        "Cryptomeria japonica 'Yoshino'"
+    ],
+    "other_name": [],
+    "family": "Cupressaceae",
+    "origin": [
+        "Japan",
+        "southern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=267&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=267&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        " Part sun/part shade",
+        " Sheltered"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=267&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Rabbit resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Winter",
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Yoshino Japanese Cedar (Cryptomeria japonica 'Yoshino') is a remarkable tree species prized for its incredible beauty and hardiness. The soft, feathery foliage is deep green in color which provides a unique texture to any landscape. Yoshino Japanese Cedar tolerates a variety of soil types, prefers full or partial sun, and grows quickly into an attractive, pyramidal tree. Its extraordinary growth habit is both pleasing to the eye and practical; it is perfect for windbreaks or as a shade tree. In addition, it is resistant to pests, disease, and cold temperatures. The Yoshino Japanese Cedar is an awesome addition to any garden and provides year-round beauty and interest.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/267_cryptomeria_japonica_yoshino/og/49367942972_e1ec0a2c2a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/267_cryptomeria_japonica_yoshino/regular/49367942972_e1ec0a2c2a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/267_cryptomeria_japonica_yoshino/medium/49367942972_e1ec0a2c2a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/267_cryptomeria_japonica_yoshino/small/49367942972_e1ec0a2c2a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/267_cryptomeria_japonica_yoshino/thumbnail/49367942972_e1ec0a2c2a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

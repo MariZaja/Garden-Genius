@@ -1,0 +1,133 @@
+{
+    "id": 225,
+    "common_name": "Compact Hinoki Falsecypress",
+    "scientific_name": [
+        "Chamaecyparis obtusa 'Compacta'"
+    ],
+    "other_name": [],
+    "family": "Cupressaceae",
+    "origin": [
+        "Japan",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=225&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=225&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "afternoon",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=225&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Compact Hinoki Falsecypress is a beautiful and robust evergreen shrub. Its glossy foliage is a soft green, making it an eye-catching addition to any landscape. It's compact structure and mounding form makes it an ideal choice for making low-maintenance hedges or to just provide a unique focal point in containers. It's a hardy shrub, tolerant of both shade and sun, and requiring little water or fertilizer. Its year-round color and texture create a beautiful backdrop for spring and summer blooming plants. It\u2019s also virtually pest and disease-free and easily maintained with occasional pruning. Compact Hinoki Falsecypress is a must-have in any garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/225_chamaecyparis_obtusa_compacta/og/49107312326_49bb996d6f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/225_chamaecyparis_obtusa_compacta/regular/49107312326_49bb996d6f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/225_chamaecyparis_obtusa_compacta/medium/49107312326_49bb996d6f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/225_chamaecyparis_obtusa_compacta/small/49107312326_49bb996d6f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/225_chamaecyparis_obtusa_compacta/thumbnail/49107312326_49bb996d6f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,157 @@
+{
+    "id": 276,
+    "common_name": "Russian Olive",
+    "scientific_name": [
+        "Elaeagnus angustifolia"
+    ],
+    "other_name": [
+        "Oleaster"
+    ],
+    "family": "Elaeagnaceae",
+    "origin": [
+        "Asia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=276&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=276&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown-red",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown-red",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-white",
+                "gray-green",
+                "green-silver",
+                "silver-gray"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=276&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Silver-white (outside) and yellow (inside)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "olive"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Russian Olive (Elaeagnus angustifolia) is an amazing plant. It is not only beautiful with its silvery leaves and fragrant flowers, but also incredibly useful, offering many benefits to individuals, the environment, and wildlife. It provides nectar and pollen for pollinators and its dense foliage acts as a windbreak and can reduce soil erosion. It is also remarkably tolerant of extreme conditions, such as salt, drought, and poor soil. This hardy plant is perfect for creating natural hedgerows and provides further habitat for birds and beneficial insects. Its fruits are edible and can be used for culinary purposes, making it a perfect addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/276_elaeagnus_angustifolia/og/52137686162_6f2b4ee880_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/276_elaeagnus_angustifolia/regular/52137686162_6f2b4ee880_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/276_elaeagnus_angustifolia/medium/52137686162_6f2b4ee880_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/276_elaeagnus_angustifolia/small/52137686162_6f2b4ee880_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/276_elaeagnus_angustifolia/thumbnail/52137686162_6f2b4ee880_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

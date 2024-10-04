@@ -1,0 +1,108 @@
+{
+    "id": 202,
+    "common_name": "Golden Deodar Cedar",
+    "scientific_name": [
+        "Cedrus deodara 'Aurea'"
+    ],
+    "other_name": [
+        "Himalayan Cedar"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Himalayas"
+    ],
+    "type": "tree",
+    "dimension": "Height:  80 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 80,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=202&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=202&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=202&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        " Canker",
+        "sap rot",
+        " Diptera - true flies",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Golden Deodar Cedar (Cedrus deodara 'Aurea') is an amazing plant species that adds unique beauty and character to any garden. Its bright golden needles and red-orange bark provide a stunning contrast to any landscape design. It grows quickly with a pyramidal shape, making it a great fit for any size garden or yard. Furthermore, its foliage responds well to shearing, so it can be pruned and shaped to fit any desired style. It is an especially hardy species and well suited for areas of low precipitation and cold temperatures. The Golden Deodar Cedar offers a regal elegance to any garden that makes it truly special.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/202_cedrus_deodara_aurea/og/Cedrus_deodara_Aurea_1zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/202_cedrus_deodara_aurea/regular/Cedrus_deodara_Aurea_1zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/202_cedrus_deodara_aurea/medium/Cedrus_deodara_Aurea_1zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/202_cedrus_deodara_aurea/small/Cedrus_deodara_Aurea_1zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/202_cedrus_deodara_aurea/thumbnail/Cedrus_deodara_Aurea_1zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

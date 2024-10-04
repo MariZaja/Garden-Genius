@@ -1,0 +1,139 @@
+{
+    "id": 220,
+    "common_name": "Lawson Falsecypress",
+    "scientific_name": [
+        "Chamaecyparis lawsoniana"
+    ],
+    "other_name": [
+        "Oregon Cedar",
+        "Port Orford Cedar"
+    ],
+    "family": "Cupressaceae",
+    "origin": [
+        "Western North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=220&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=220&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "August",
+        "February",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=220&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        " Caterpillar",
+        "cutworm",
+        " Mites",
+        " Root rot",
+        " Scale insects",
+        "  Pest resistant",
+        " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Lawson Falsecypress (Chamaecyparis lawsoniana) is an amazing coniferous evergreen tree that brings beauty and color to any landscape. With its lush dark green foliage and long pyramidal shape, this beautiful tree will make a statement wherever it is planted. Native to Japan, it is tolerant of coastal conditions and adapts quite easily to many soil types. It's slow growth rate ensures it will stay low maintenance and small, making it an ideal choice for smaller gardens. On top of beautiful foliage, it also produces small, round cones that give off a sweet aroma similar to that of cinnamon. With its versatility and eye-catching beauty, Lawson Falsecypress is a must-have for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/220_chamaecyparis_lawsoniana/og/34686442254_df486708c1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/220_chamaecyparis_lawsoniana/regular/34686442254_df486708c1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/220_chamaecyparis_lawsoniana/medium/34686442254_df486708c1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/220_chamaecyparis_lawsoniana/small/34686442254_df486708c1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/220_chamaecyparis_lawsoniana/thumbnail/34686442254_df486708c1_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

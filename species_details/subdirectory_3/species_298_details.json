@@ -1,0 +1,116 @@
+{
+    "id": 298,
+    "common_name": "Magyar Ginkgo",
+    "scientific_name": [
+        "Ginkgo biloba 'Magyar'"
+    ],
+    "other_name": [
+        "Maidenhair Tree",
+        "ginkgo"
+    ],
+    "family": "Ginkgoaceae",
+    "origin": [
+        "Southern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=298&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=298&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=298&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Nematodes",
+        " Root rot",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Magyar Ginkgo (Ginkgo biloba 'Magyar') is an amazing specimen. This species is a rapid-growing, vase-shaped, pyramidal-shaped tree with a distinct weeping form. It offers a showy, fan-like display of golden, honey-scented fan-shaped leaves in fall, which transforms to a dazzling yellow. It produces fruit for wildlife, but not for human consumption, with its small, yellow, tough-shelled fruits, which contain a gooey substance similar to peanut butter. Magyar Ginkgo is also fairly fast growing and can reach up to 40 feet in height with a spread of 16 feet. Furthermore, this species is quite resistant to pests and diseases, making it an excellent choice for a variety of situations. All in all, Magyar Ginkgo is an incredible species that's sure to bring joy and amazement to any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/og/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/regular/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/medium/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+        "small_url": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/small/Feuilles_de_Ginkgo_biloba_en_automne.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/298_ginkgo_biloba_magyar/thumbnail/Feuilles_de_Ginkgo_biloba_en_automne.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

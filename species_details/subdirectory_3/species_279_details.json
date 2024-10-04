@@ -1,0 +1,153 @@
+{
+    "id": 279,
+    "common_name": "Spindle Tree",
+    "scientific_name": [
+        "Euonymus europaeus"
+    ],
+    "other_name": [
+        "European Euonymus",
+        "European euonymus"
+    ],
+    "family": "Celastraceae",
+    "origin": [
+        "Europe",
+        "western Asia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=279&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=279&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown-green",
+                "light-green",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "green-pink",
+                "green-yellow",
+                "green-red"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "pink",
+                "red",
+                "yellow"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Filtered shade",
+        " Full sun",
+        " Part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=279&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Scale insects",
+        "  Pest resistant",
+        " Disease resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Yellowish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Spindle Tree (Euonymus europaeus) is a stunning species of plant that is unique in its beauty. Its stunning yellow, green and pink flowers contrast with its sharp and glossy-red berries. This deciduous shrub grows vigorously, reaching height of up to 6 meters and spreads 5 to 7 meters wide. Furthermore, its optimum growth period is from March to April. Planting this species in any garden or the ballpark can bring beauty and elegance. Besides, its exfoliating bark provides interesting color and its autumn foliage provides beautiful colors carry through fall and winter months. The Spindle Tree not only beautifies any outdoor but also is a revered symbol of love and loyalty as its red berries represent life-long attachment and commitment.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/279_euonymus_europaeus/og/51874550173_6464be3133_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/279_euonymus_europaeus/regular/51874550173_6464be3133_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/279_euonymus_europaeus/medium/51874550173_6464be3133_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/279_euonymus_europaeus/small/51874550173_6464be3133_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/279_euonymus_europaeus/thumbnail/51874550173_6464be3133_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

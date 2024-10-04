@@ -1,0 +1,139 @@
+{
+    "id": 263,
+    "common_name": "Golden Cornelian Cherry Dogwood",
+    "scientific_name": [
+        "Cornus mas 'Aurea'"
+    ],
+    "other_name": [
+        "Cornelian cherry"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Western Asia",
+        "Europe"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=263&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=263&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "green-brown"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=263&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Nematodes",
+        " Root rot",
+        " Scale insects",
+        " Stem borer insects",
+        " Thrips",
+        "  Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Golden Cornelian Cherry Dogwood (Cornus mas 'Aurea') is an amazing ornamental shrub with year-round interest. Its bright yellow-green flowers in spring and its clusters of bright red berries in fall, turn it into a real eye-catcher. Its gorgeous yellow foliage in the summer and its bright red fall foliage bring even more attention when the leaves start to change color. This shrub is easy to grow and requires little pruning. It makes an ideal background for your garden or other landscaping. With its beautiful blooms, marvelous foliage and its low-maintenance nature, this shrub is an excellent choice for adding beauty and interest to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/og/29887979954_a6f7864a41_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/regular/29887979954_a6f7864a41_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/medium/29887979954_a6f7864a41_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/small/29887979954_a6f7864a41_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/263_cornus_mas_aurea/thumbnail/29887979954_a6f7864a41_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

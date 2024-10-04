@@ -1,0 +1,100 @@
+{
+    "id": 204,
+    "common_name": "Electra Blue Deodar Cedar",
+    "scientific_name": [
+        "Cedrus deodara 'Electra Blue'"
+    ],
+    "other_name": [
+        "Himalayan Cedar"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Himalayas"
+    ],
+    "type": "tree",
+    "dimension": "Height:  80 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 80,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=204&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=204&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=204&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Blight",
+        "needle cast",
+        " Canker",
+        "sap rot",
+        " Diptera - true flies",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Electra Blue Deodar Cedar (Cedrus deodara 'Electra Blue') is an absolutely amazing conifer. It features striking blue-green needles, up to 2.5\" long, that present a multidimensional color display when the sun strikes it. It has a pyramidal structure and grows up to 2 feet each year, reaching a height and spread of 20-30 feet tall and 15-20 feet wide. Its branches display distinct blue-green colors, contrasting against its silvery-blue undertones. Its foliage is soft to the touch and emits a wonderful fragrant aroma. It is a great choice for a specimen tree, foundation plantings, and evergreen screens. All in all, the Electra Blue Deodar Cedar is truly an amazing sight!",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

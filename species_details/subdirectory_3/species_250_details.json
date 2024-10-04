@@ -1,0 +1,144 @@
+{
+    "id": 250,
+    "common_name": "Red Flowering Dogwood",
+    "scientific_name": [
+        "Cornus florida 'var. rubra'"
+    ],
+    "other_name": [],
+    "family": "Cornaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=250&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=250&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        " Part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=250&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Canker",
+        "sap rot",
+        " Diptera - true flies",
+        " Fungal leaf spot",
+        " Mildew",
+        " Nematodes",
+        " Root rot",
+        " Scale insects",
+        " Stem borer insects",
+        " Thrips",
+        "  Deer resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Flowering Dogwood (Cornus florida 'var. rubra') is a truly amazing plant species. With vivid, deep red blossoms from late spring to early summer, the Red Flowering Dogwood adds beautiful color to any landscape. Its broad, spreading branches are equally stunning, with auburn-toned bark providing year-round interest. This plant is also drought tolerant, making it a great choice for both shade and sun in warmer climates. The vibrant flowers not only attract birds and other pollinators, but they also make lovely cut flowers as well. Truly, the Red Flowering Dogwood is a standout species.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/250_cornus_florida_var_rubra/og/10108500273_70c8821e33_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/250_cornus_florida_var_rubra/regular/10108500273_70c8821e33_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/250_cornus_florida_var_rubra/medium/10108500273_70c8821e33_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/250_cornus_florida_var_rubra/small/10108500273_70c8821e33_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/250_cornus_florida_var_rubra/thumbnail/10108500273_70c8821e33_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,113 @@
+{
+    "id": 253,
+    "common_name": "China Girl Chinese Dogwood",
+    "scientific_name": [
+        "Cornus kousa 'China Girl'"
+    ],
+    "other_name": [
+        "Kousa Dogwood"
+    ],
+    "family": "Cornaceae",
+    "origin": [
+        "Japan",
+        "Korea",
+        "China",
+        "Taiwan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=253&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=253&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=253&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White to pinkish (bracts)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "pink"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "China Girl Chinese Dogwood is an amazing plant species for its spectacular display. Its gorgeous green foliage and clusters of white flowers in late spring combine with its bright pink fruits in the autumn to create an eye-catching display. Not only is the plant aesthetically pleasing, but it is also highly tolerant of a variety of environmental conditions. This species is also highly resistant to disease and insects, making it an ideal choice for gardeners who need a hardy and reliable plant. The height and spread can also be easily controlled with careful pruning, making it easier to fit it into any desired space. All in all, China Girl Chinese Dogwood is a great choice for those looking for a beautiful display with low-maintenance care.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/253_cornus_kousa_china_girl/og/3024px-Cornus_kousa_27China_Girl27_fruit.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/253_cornus_kousa_china_girl/regular/3024px-Cornus_kousa_27China_Girl27_fruit.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/253_cornus_kousa_china_girl/medium/3024px-Cornus_kousa_27China_Girl27_fruit.jpg",
+        "small_url": "https://perenual.com/storage/species_image/253_cornus_kousa_china_girl/small/3024px-Cornus_kousa_27China_Girl27_fruit.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/253_cornus_kousa_china_girl/thumbnail/3024px-Cornus_kousa_27China_Girl27_fruit.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,125 @@
+{
+    "id": 297,
+    "common_name": "Autumn Gold Ginkgo",
+    "scientific_name": [
+        "Ginkgo biloba 'Autumn Gold'"
+    ],
+    "other_name": [
+        "Maidenhair Tree",
+        "ginkgo"
+    ],
+    "family": "Ginkgoaceae",
+    "origin": [
+        "Southern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=297&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=297&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=297&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Nematodes",
+        " Root rot",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Autumn",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Autumn Gold Ginkgo is an amazing plant species. It features a unique yellow-gold foliage throughout the summer that turns to a yellowish-orange in the fall. It also produces edible nuts. This species is not frost-hardy and requires a well drained soil and a sheltered position. It\u2019s drought-tolerant, making it ideal for low maintenance gardens. Its two-lobed leaves are ornate and fan-shaped, giving it a unique texture and appeal that adds to any garden. Its low growing habit makes it a great choice for small gardens and grows best in full sun or partial shade. The Autumn Gold Ginkgo is an eye-catching beauty that will bring a delightful accent to your garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/297_ginkgo_biloba_autumn_gold/og/2560px-Ginkgo_biloba_27Autumn_Gold27_habitus_in_herfst.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/297_ginkgo_biloba_autumn_gold/regular/2560px-Ginkgo_biloba_27Autumn_Gold27_habitus_in_herfst.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/297_ginkgo_biloba_autumn_gold/medium/2560px-Ginkgo_biloba_27Autumn_Gold27_habitus_in_herfst.jpg",
+        "small_url": "https://perenual.com/storage/species_image/297_ginkgo_biloba_autumn_gold/small/2560px-Ginkgo_biloba_27Autumn_Gold27_habitus_in_herfst.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/297_ginkgo_biloba_autumn_gold/thumbnail/2560px-Ginkgo_biloba_27Autumn_Gold27_habitus_in_herfst.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
