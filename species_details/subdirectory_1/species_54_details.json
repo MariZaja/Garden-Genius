@@ -1,0 +1,105 @@
+{
+    "id": 54,
+    "common_name": "Glowing Embers Japanese Maple*",
+    "scientific_name": [
+        "Acer palmatum 'Glowing Embers'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=54&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=54&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=54&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Glowing Embers Japanese Maple is an impressive small tree that makes an incredible statement in any landscape. Its vibrant red, yellow, and purple leaves create an eye-catching display, no matter the season. In the spring, lush foliage appears in a beautiful array of colors. During the summer months, the maple's maroon leaves turn bright red and yellow, giving it a unique glowing effect. Fall brings darker shades of red, yellow and purple, making it stand out in any garden. It's a great choice for small spaces, adding an artistic and vibrant touch to your outdoor area.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/og/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/regular/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/medium/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+        "small_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/small/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/thumbnail/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

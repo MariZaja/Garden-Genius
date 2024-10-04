@@ -1,0 +1,104 @@
+{
+    "id": 60,
+    "common_name": "Higasa Yama Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Higasa Yama'"
+    ],
+    "other_name": [
+        "Higasayama"
+    ],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=60&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=60&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=60&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Higasa Yama Japanese Maple is a wonderful choice for any garden due to its hardiness and beauty. This small, but strong, tree has a wide range of colors that cover its leaves and stems, ranging from light green, to yellow, and even deep burgundy red. It can tolerate both sunny and shady areas and is easy to care for. This unique tree is sure to turn any garden into a sight to behold, given its breathtakingly vibrant colors and foliage shapes. It's a great choice for any enthusiastic gardener, or someone looking to add a touch of beauty to their garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/og/51522802351_37623328e0_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/regular/51522802351_37623328e0_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/medium/51522802351_37623328e0_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/small/51522802351_37623328e0_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/thumbnail/51522802351_37623328e0_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

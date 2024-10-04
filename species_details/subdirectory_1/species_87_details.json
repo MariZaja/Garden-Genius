@@ -1,0 +1,129 @@
+{
+    "id": 87,
+    "common_name": "Orangeola Cutleaf Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Orangeola'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  8 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 8,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=87&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=87&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-pink-red",
+                "green-pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red-grey",
+                "brown"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "light-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=87&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Orangeola Cutleaf Japanese Maple is an amazing small tree with an incredible array of features. Not only does it have an orangey-red bark, but its foliage also \u2018scallops\u2019 and has an orange-tinted margin, which makes it an eye-catching addition to any garden. It provides a wonderful medley of colors in spring and summer, with leaves that change throughout the season, adding to the allure of this unique tree. It\u2019s also ideal for small yards, as it grows quite slowly, reaching only 8 to 10 feet high and wide. Perfect for any gardener looking to bring some extra color and drama to their garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/og/4714671587_8ecba52560_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/regular/4714671587_8ecba52560_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/medium/4714671587_8ecba52560_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/small/4714671587_8ecba52560_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/thumbnail/4714671587_8ecba52560_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

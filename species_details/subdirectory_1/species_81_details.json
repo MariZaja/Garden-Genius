@@ -1,0 +1,124 @@
+{
+    "id": 81,
+    "common_name": "Moonfire Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Moonfire'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=81&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=81&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "red-brown-yellow"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "red-purple",
+                "green-orange"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=81&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Moonfire Japanese Maple (Acer palmatum 'Moonfire') is an amazing plant species. It has vibrant red leaves rivaling a burning fire. The color changes to yellow and green through the season, giving it a spectacular color scheme. Its delicate leaves turn crimson in the fall, creating a stunning display. It can reach a height between 10 and 15 feet, with a spread of 8 to 12 feet when mature, making it an ideal landscape feature for small to medium gardens. Its disease resistance and drought tolerance are an added bonus. This unique tree can be planted in sun or partial shade, and make a great addition to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/og/4846299174_5cb4e644ae_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/regular/4846299174_5cb4e644ae_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/medium/4846299174_5cb4e644ae_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/small/4846299174_5cb4e644ae_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/thumbnail/4846299174_5cb4e644ae_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

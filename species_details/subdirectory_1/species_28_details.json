@@ -1,0 +1,109 @@
+{
+    "id": 28,
+    "common_name": "Aka Shigitatsu Sawa Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Aka Shigitatsu Sawa'"
+    ],
+    "other_name": [
+        "Samurai"
+    ],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  8 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 8,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=28&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=28&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "feet",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=28&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Aka Shigitatsu Sawa Japanese Maple is an amazing tree sure to stand out in any garden. Its spectacular foliage consists of deeply lobed, bright green leaves that turn a brilliant orange-red in the fall. The tree itself has a compact growth habit, with an upright and symmetrical silhouette. It can withstand extreme temperatures, making it ideal for colder climate gardens. Additionally, it requires minimal pruning and is pest and disease resistant. The Aka Shigitatsu Sawa Japanese Maple truly is a stunning addition to any garden and is sure to be the centerpiece of any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/og/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/regular/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/medium/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/small/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/thumbnail/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

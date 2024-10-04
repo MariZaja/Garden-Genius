@@ -1,0 +1,101 @@
+{
+    "id": 99,
+    "common_name": "Pink Lace Japanese Maple*",
+    "scientific_name": [
+        "Acer palmatum 'Pink Lace'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=99&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=99&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=99&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Pink Lace Japanese Maple is a stunning small tree that packs a big visual punch. Its delicate and intricate lace-like foliage emerges tender pink in the spring and turns to a deep and lovely burgundy-red in the summer and falls months. In the winter months its cheerful pink branches are a great source of winter interest. It's a wonderful focal point for any garden and makes a great addition for a small urban space. Plus, its low maintenance needs mean it can thrive in any soil type or a range of temperatures and light exposures!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/99_acer_palmatum_pink_lace/og/Acer_palmatum_27Inaba_Shidare27_in_autumn_sunshine_-_2021-10-17_-_Andy_Mabbett_-_02.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/99_acer_palmatum_pink_lace/regular/Acer_palmatum_27Inaba_Shidare27_in_autumn_sunshine_-_2021-10-17_-_Andy_Mabbett_-_02.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/99_acer_palmatum_pink_lace/medium/Acer_palmatum_27Inaba_Shidare27_in_autumn_sunshine_-_2021-10-17_-_Andy_Mabbett_-_02.jpg",
+        "small_url": "https://perenual.com/storage/species_image/99_acer_palmatum_pink_lace/small/Acer_palmatum_27Inaba_Shidare27_in_autumn_sunshine_-_2021-10-17_-_Andy_Mabbett_-_02.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/99_acer_palmatum_pink_lace/thumbnail/Acer_palmatum_27Inaba_Shidare27_in_autumn_sunshine_-_2021-10-17_-_Andy_Mabbett_-_02.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

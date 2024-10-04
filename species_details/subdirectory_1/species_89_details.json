@@ -1,0 +1,107 @@
+{
+    "id": 89,
+    "common_name": "Oridono Nishiki Japanese Maple*",
+    "scientific_name": [
+        "Acer palmatum 'Oridono Nishiki'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=89&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=89&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=89&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Oridono Nishiki Japanese Maple is a striking ornamental tree that is renowned for its beauty and grace. Its graceful cascading foliage displays an array of delicate shades, from light green to pinkish orange. The leaves are shimmering, filigree-like, displaying an array of colours in different light. Its globe-like canopy provides an excellent contrast with the surrounding landscape. Unsurpassed in its beauty and versatility, this Japanese Maple looks enchanting in both flowery and formal gardens. Grow as a single focal-point specimen, or as a larger multi-trunked tree - whichever suits your outdoor space best!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/og/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/regular/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/medium/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/small/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/thumbnail/Acer_palmatum_Oridono_nishiki_0zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

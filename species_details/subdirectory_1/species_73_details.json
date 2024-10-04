@@ -1,0 +1,107 @@
+{
+    "id": 73,
+    "common_name": "Kiri Nishiki Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Kiri Nishiki'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  8 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 8,
+        "max_value": 8,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=73&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=73&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "5-7",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=73&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Kiri Nishiki Japanese Maple (Acer palmatum 'Kiri Nishiki') is a magnificent small tree with dramatic foliage. Its incredible variegated leaves have pink and cream silver edges, a splash of green, and a strong red hue in the center that turns bright yellow or orange in the fall. This lovely and incredibly hardy species also has an upright and mounding form that makes it the perfect accent tree for any garden. It's also low maintenance and drought tolerant, which makes it a great choice for any low-care landscape. With its striking foliage and beautiful shape, the Kiri Nishiki Japanese Maple is a truly wonderful addition to any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/73_acer_palmatum_kiri_nishiki/og/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/73_acer_palmatum_kiri_nishiki/regular/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/73_acer_palmatum_kiri_nishiki/medium/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/73_acer_palmatum_kiri_nishiki/small/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/73_acer_palmatum_kiri_nishiki/thumbnail/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

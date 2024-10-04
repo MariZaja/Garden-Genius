@@ -1,0 +1,126 @@
+{
+    "id": 46,
+    "common_name": "Burgundy Lace Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Burgundy Lace'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=46&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=46&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "yellow",
+                "yellow-green-pink",
+                "dark-green-orange-red"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "white-brown",
+                "silver-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "yellow-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=46&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "purple",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Burgundy Lace Japanese Maple is a stunning and awe-inspiring sight. Growing to be between 6 and 10 feet tall, it has an upright and rounded form with lush foliage that is vivid green in the summer and transitions to a gorgeous deep maroon in the fall. Its delicate, lacy lobes make it an attractive ornamental tree year round and its vibrant foliage is sure to turn heads in any garden. Its intricate beauty and unique color set it apart from other maple species and adds an air of sophistication to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/og/50082938346_1040fdd690_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/regular/50082938346_1040fdd690_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/medium/50082938346_1040fdd690_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/small/50082938346_1040fdd690_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/thumbnail/50082938346_1040fdd690_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
