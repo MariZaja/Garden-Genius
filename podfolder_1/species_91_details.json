@@ -1,0 +1,132 @@
+{
+    "id": 91,
+    "common_name": "Osakazuki Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Osakazuki'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=91&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=91&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "12"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "light-green"
+            ]
+        },
+        {
+            "part": "seeds",
+            "color": [
+                "pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=91&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Osakazuki Japanese Maple is an amazing plant species to have in any garden. Its bright red foliage really stands out against the various green tones of the garden, and its vibrant colour persists through all four seasons. Furthermore, its mounding form makes for an interesting focal point, easily capable of commandeering the spot light. Its low maintenance care requirements, sparse branching pattern and delicate texture make it an attractive ornamental addition. Its more robust root system makes it ideal for zones 5-8. Overall, the Osakazuki Japanese Maple is an amazing addition to any landscape, providing year-round colour and texture to transform the garden into an awe-inspiring spectacle.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/91_acer_palmatum_osakazuki/og/55257376_8dea2df86d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/91_acer_palmatum_osakazuki/regular/55257376_8dea2df86d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/91_acer_palmatum_osakazuki/medium/55257376_8dea2df86d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/91_acer_palmatum_osakazuki/small/55257376_8dea2df86d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/91_acer_palmatum_osakazuki/thumbnail/55257376_8dea2df86d_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

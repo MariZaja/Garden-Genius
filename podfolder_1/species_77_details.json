@@ -1,0 +1,138 @@
+{
+    "id": 77,
+    "common_name": "Linearilobum Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Linearilobum'"
+    ],
+    "other_name": [
+        "Bamboo-Leaf Japanese Maple"
+    ],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=77&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=77&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "red-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=77&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Linearilobum Japanese Maple (Acer palmatum 'Linearilobum') is a beautiful and unique tree. Its stunning foliage combines bright, vibrant hues of yellow, orange and red that it displays throughout the different seasons. Its gracefully arranged and finely divided leaves are long and narrow, resembling conifer needles. The Linearilobum has a great deal of variety in its form and size, making it both an ideal choice for a focal point in any garden, or for small spaces. It is also a relatively low maintenance tree and can thrive in moderately acidic or moist conditions. Its reputation as a low maintenance tree, combined with its vibrant hues and graceful foliage makes it one of the most amazing and stunning trees to behold.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/og/3466572143_4470363413_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/regular/3466572143_4470363413_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/medium/3466572143_4470363413_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/small/3466572143_4470363413_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/thumbnail/3466572143_4470363413_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

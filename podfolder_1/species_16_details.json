@@ -1,0 +1,138 @@
+{
+    "id": 16,
+    "common_name": "Paperbark Maple",
+    "scientific_name": [
+        "Acer griseum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Central and eastern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Hardwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=16&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=16&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "light-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "August",
+        "March",
+        "April",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=16&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Galls",
+        " Heart rot",
+        " Mites",
+        " Root rot",
+        "  Pest resistant",
+        " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Paperbark Maple (Acer griseum) is a truly amazing tree. With its unique cinnamon-color bark that peels in thin layers and its delicate foliage, it is a sight to behold in any garden. In spring, the tree features delicate pink and white flowers. The foliage turns a copper-bronze color in the fall, making it a great ornamental tree year-round. Paperbark Maple is also low-maintenance and easy to grow, making it an ideal choice for a sheltered spot in your garden. It is also a great option for a screen near a patio or pool. The Paperbark Maple is a beautiful and versatile must-have for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/16_acer_griseum/og/5158906371_ed08a86876_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/16_acer_griseum/regular/5158906371_ed08a86876_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/16_acer_griseum/medium/5158906371_ed08a86876_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/16_acer_griseum/small/5158906371_ed08a86876_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/16_acer_griseum/thumbnail/5158906371_ed08a86876_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

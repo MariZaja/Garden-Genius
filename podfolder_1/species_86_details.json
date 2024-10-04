@@ -1,0 +1,108 @@
+{
+    "id": 86,
+    "common_name": "Orange Dream Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Orange Dream'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  12 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 12,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=86&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=86&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "5-7",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=86&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Orange Dream Japanese Maple is an amazing and hardy deciduous shrub. Its extremely striking and vibrant orange-red foliage makes it stand out in any landscape. Its intriguing summer foliage turns to brilliant and fiery hues of orange-red during fall, adds valuable seasonal interest to a garden. It can be used as a focal point, mixed in with other smaller shrubs, or used in foundation plantings. The unique, upright and vase-shaped form provides an air of grace. It deals well with direct sun, partial shade, and various soil types. Its moderate growth rate, low to minimal maintenance, and brilliant color make it a great choice for landscapers, landscaping, and gardeners alike.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/og/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/regular/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/medium/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "small_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/small/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/thumbnail/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

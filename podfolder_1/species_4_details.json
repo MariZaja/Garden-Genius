@@ -1,0 +1,129 @@
+{
+    "id": 4,
+    "common_name": "Candicans White Fir",
+    "scientific_name": [
+        "Abies concolor 'Candicans'"
+    ],
+    "other_name": [
+        "Silver Fir",
+        "Concolor Fir",
+        "Colorado Fir"
+    ],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=4&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=4&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "June",
+        "July",
+        "February",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=4&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Candicans White Fir is one of the most amazing species of fir tree. Its vibrant, powdery-white needles make it a real show-stopper in the winter and spring. The light color is also resistant to bronzing or discoloration, so the brilliant hue is maintained for many years. It also has a unique branch structure with a strong central leader and shorter lateral branches creating an eye-catching silhouette. This species is hardy and tolerant to a variety of soil types, making it a great choice for difficult areas. Its fast growth rate creates an impressive display quickly, making it an excellent choice to add curb appeal to your landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/og/49283844888_332c9e46f2_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/regular/49283844888_332c9e46f2_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/medium/49283844888_332c9e46f2_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/small/49283844888_332c9e46f2_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/thumbnail/49283844888_332c9e46f2_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

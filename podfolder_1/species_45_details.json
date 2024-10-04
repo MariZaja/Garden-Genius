@@ -1,0 +1,126 @@
+{
+    "id": 45,
+    "common_name": "Brandt's Dwarf Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Brandt's Dwarf'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  6 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 6,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Root Cutting"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=45&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=45&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "dark-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=45&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Brandt's Dwarf Japanese Maple is truly a unique and amazing species. Reaching a maximum size of only two feet in height and three feet in width, this miniature maple tree features lacey, finely-cut leaves in a deep burgundy color. In the spring, Brandt's Dwarf Japanese Maple bears small, star-shaped reddish-pink flowers, which are followed in autumn by cloud-like clusters of tiny red fruits. Fascinating and resilient, this plant is drought-tolerant and slow-growing, perfect for gardens and containers. Its vibrant foliage and low maintenance make it a great addition to any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/og/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/regular/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/medium/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+        "small_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/small/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/thumbnail/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,140 @@
+{
+    "id": 9,
+    "common_name": "Noble Fir",
+    "scientific_name": [
+        "Abies procera"
+    ],
+    "other_name": [
+        "Red Fir",
+        "White Fir"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "United States",
+        "Canada",
+        "Mexico",
+        "Central America",
+        "South America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  90 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 90,
+        "max_value": 90,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Squirrels",
+        " Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown",
+                "light-brown",
+                "white-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=9&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Loamy Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Noble Fir (Abies procera) is an amazing species in many ways. It is a tall and stately tree with a beautiful, conical shape; its symmetrical branches are heavily laden with needles that range from a deep, glossy green to a deep blue-green. It has a thick, scaly bark and splendid foliage that make it an ideal choice for any garden. Its wide, dense growth provides shelter to wildlife, while its strong branches provide it with excellent resistance to windstorms. The Noble Fir is a long-lasting species with impressive longevity, making it a great addition to any landscape. With its majestic form, lush color, and great strength, the Noble Fir is a remarkable species that will enhance any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/9_abies_procera/og/49107504112_6bd7effb8b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/9_abies_procera/regular/49107504112_6bd7effb8b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/9_abies_procera/medium/49107504112_6bd7effb8b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/9_abies_procera/small/49107504112_6bd7effb8b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/9_abies_procera/thumbnail/49107504112_6bd7effb8b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

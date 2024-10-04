@@ -1,0 +1,114 @@
+{
+    "id": 72,
+    "common_name": "Katsura Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Katsura'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=72&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=72&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "orange-red",
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=72&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Katsura Japanese Maple is an amazing deciduous tree that offers a rainbow of vibrant colors during each season. In late spring, its delicate five-lobed leaves emerge a soft orange-red hue that matures to a deep green by mid-summer. During fall, its leaves turn a brilliant mix of orange and yellow, and its sprawling branches often take on unique shapes that are amazing to behold. It\u2019s also a low-maintenance variety, making it ideal for welcoming new gardeners with no prior experience. Looks aside, it\u2019s also a tough variety, able to withstand temperatures into the mid 20s. It\u2019s no wonder this tree has been a favorite among gardeners for centuries.",
+    "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/72_acer_palmatum_katsura/og/33974454551_0965ae099b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

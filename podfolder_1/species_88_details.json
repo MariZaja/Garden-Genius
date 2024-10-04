@@ -1,0 +1,104 @@
+{
+    "id": 88,
+    "common_name": "Oregon Sunset Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Oregon Sunset'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  4 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 4,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=88&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=88&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "Sunset",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=88&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Oregon Sunset Japanese Maple (Acer palmatum 'Oregon Sunset') is an amazing tree because of its unique physical characteristics. Its foliage is a blend of bright yellow and orange, with hints of cranberry and pink throughout, resulting in an eye-catching display of color all season. Its small size and low height of just 10-15 feet makes it perfect for small gardens or containers. Oregon Sunset also has low maintenance requirements. With regular pruning and fertilizing, it puts on a show of striking foliage and spectacular shape. Whether you grow it in your garden or as a bonsai, this tree is sure to bring life and beauty to your outdoor space.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/og/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/regular/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/medium/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "small_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/small/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/thumbnail/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

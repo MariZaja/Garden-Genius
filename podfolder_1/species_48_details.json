@@ -1,0 +1,113 @@
+{
+    "id": 48,
+    "common_name": "Chantilly Lace Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Chantilly Lace'"
+    ],
+    "other_name": [
+        "Threadleaf Japanese Maple"
+    ],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 10,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=48&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=48&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=48&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Chantilly Lace Japanese Maple is a spectacular masterpiece of nature's beauty. Boasting heavily divided, deep green foliage with vivid yellow and white edges, it is a gorgeous specimen that can bring a touch of elegance to any garden. Not only is it beautiful, growing up to 25 feet tall and wide, it is also extremely low-maintenance. Perfect for all soil types and climates, it is also highly resistant to pests and diseases. The Chantilly Lace Japanese Maple is truly an amazing combination of form and function and is sure to turn heads in any garden setting.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/48_acer_palmatum_chantilly_lace/og/4714671587_8ecba52560_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/48_acer_palmatum_chantilly_lace/regular/4714671587_8ecba52560_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/48_acer_palmatum_chantilly_lace/medium/4714671587_8ecba52560_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/48_acer_palmatum_chantilly_lace/small/4714671587_8ecba52560_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/48_acer_palmatum_chantilly_lace/thumbnail/4714671587_8ecba52560_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

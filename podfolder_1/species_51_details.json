@@ -1,0 +1,104 @@
+{
+    "id": 51,
+    "common_name": "Coonara Pygmy Japanese Maple",
+    "scientific_name": [
+        "Acer palmatum 'Coonara Pygmy'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  6 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 6,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=51&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=51&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=51&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Coonara Pygmy Japanese Maple is an amazing plant species perfect for any garden. It is a dwarf variety of the Japanese Maple, reaching only 1 to 2 feet tall, making it ideal as a patio or a landscape groundcover. Its small, bright green leaves with prominent veins provide a stark contrast against the deep-hued purple and red shades it displays during the autumn months. With its excellent adaptability, this charming part-shade tree thrives in well-drained soil and can be grown in any climate, from regions with hot and humid summers to those with cold winters. Its slow growth rate means it is easy to maintain, requiring little pruning or trimming. For gardeners looking for an eye-catching focal point in their garden, Coonara Pygmy Japanese Maple is the perfect choice.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/og/japan-maple-maple-leaf-red-leaf-nature.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/regular/japan-maple-maple-leaf-red-leaf-nature.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/medium/japan-maple-maple-leaf-red-leaf-nature.jpg",
+        "small_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/small/japan-maple-maple-leaf-red-leaf-nature.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/thumbnail/japan-maple-maple-leaf-red-leaf-nature.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
