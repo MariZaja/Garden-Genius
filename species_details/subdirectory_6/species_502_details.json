@@ -1,0 +1,108 @@
+{
+    "id": 502,
+    "common_name": "hot water plant",
+    "scientific_name": [
+        "Achimenes (group)"
+    ],
+    "other_name": [],
+    "family": "Gesneriaceae",
+    "origin": [
+        "Mexico",
+        "Guatemala",
+        "Honduras",
+        "Costa Rica",
+        "Panama",
+        "Colombia",
+        "Venezuela",
+        "Ecuador",
+        "Peru"
+    ],
+    "type": "Herbs",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=502&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale pink to bluish purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "yellow",
+        "purple",
+        "orange",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Hot Water Plant is an awesome choice of species for any avid gardener. It is a perennial plant, with unique and exotic blooms in a variety of shapes and colors, that can be grown indoors or outdoors. These plants are incredibly adaptive, thriving in all sorts of climates, from warm rainforest environments to cool temperate locations. In order to grow them, simply fill any container with water, place the root-ball into it, and enjoy the beautiful flowers that emerge for months. Hot Water Plants are also great for propagating and are incredibly low-maintenance, surviving both drought and short-term flooding easily. A truly amazing species that anyone can grow.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

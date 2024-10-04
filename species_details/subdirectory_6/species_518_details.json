@@ -1,0 +1,112 @@
+{
+    "id": 518,
+    "common_name": "grassy-leaved sweet flag",
+    "scientific_name": [
+        "Acorus gramineus 'Ogon'"
+    ],
+    "other_name": [],
+    "family": "Acoraceae",
+    "origin": [
+        "Japan",
+        "China",
+        "Korea",
+        "Taiwan"
+    ],
+    "type": "Grass",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=518&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=518&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-beige"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=518&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Grassy-leaved sweet flag (Acorus gramineus 'Ogon') is an amazing plant with a multitude of uses. It has bright yellow-green, sword-shaped foliage that is suitable for a variety of settings, be it the garden, or outdoor containers. It has a pleasant grassy scent, and can act as a natural mosquito repellent. Plant in full sun or part shade and watch it grow. It is a great ground cover and can also thrive as an attractive pond edge plant. Hardy and low maintenance, this is a versatile and beneficial plant, perfect for any garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/518_acorus_gramineus_ogon/og/19541613170_d0dbdeee66_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/518_acorus_gramineus_ogon/regular/19541613170_d0dbdeee66_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/518_acorus_gramineus_ogon/medium/19541613170_d0dbdeee66_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/518_acorus_gramineus_ogon/small/19541613170_d0dbdeee66_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/518_acorus_gramineus_ogon/thumbnail/19541613170_d0dbdeee66_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

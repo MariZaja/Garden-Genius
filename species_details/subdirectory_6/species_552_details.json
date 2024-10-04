@@ -1,0 +1,134 @@
+{
+    "id": 552,
+    "common_name": "lipstick plant",
+    "scientific_name": [
+        "Aeschynanthus radicans"
+    ],
+    "other_name": [],
+    "family": "Gesneriaceae",
+    "origin": [
+        "Malaysia"
+    ],
+    "type": "Vine",
+    "dimension": "0.00 to 0.25 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0,
+        "max_value": 0.25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Division",
+        "Leaf Cutting"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=552&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=552&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=552&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The lipstick plant (Aeschynanthus radicans) is an amazing species that stands out with its unique color, texture and shape. Its waxy leaves have attractive colors, making it pleasing to look at, while its clusters of bright red and orange flowers look like tubes of lipstick! This plant is very easy to care for, being a low-maintenance, tropical evergreen climber. It does best in bright, indirect sunlight and in moist, well-drained soil. Additionally, it is known for its long flowering period, adding a splash of color to your indoor or outdoor spaces. With its beautiful colors, distinctive leaves, and ease of care, the lipstick plant is a fantastic addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/og/29949422675_2671589cdf_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/regular/29949422675_2671589cdf_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/medium/29949422675_2671589cdf_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/small/29949422675_2671589cdf_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/thumbnail/29949422675_2671589cdf_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

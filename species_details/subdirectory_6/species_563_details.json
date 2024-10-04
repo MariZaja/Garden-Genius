@@ -1,0 +1,124 @@
+{
+    "id": 563,
+    "common_name": "Indian horse chustnut",
+    "scientific_name": [
+        "Aesculus indica 'Sydney Pearce'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "India"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 60.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=563&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=563&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "pink"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "September",
+        "October"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=563&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Pinkish-white tinged with yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Indian horse chestnut (Aesculus indica 'Sydney Pearce') is an amazing plant species. It has an impressive, columnar form and is capable of growing upwards of 40 feet high, making it an excellent choice for a privacy screen or windbreak. Its deep green foliage is evergreen and its white and yellow blooms will attract all sorts of beneficial insects, birds and other wildlife. Once mature, its dramatic stature and strong branching display a stunning show of blooms in the spring. It can also tolerate moderate drought and is relatively pest and disease-resistant. In sum, this amazing tree is an outstanding choice for many landscapes.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/563_aesculus_indica_sydney_pearce/og/3049990207_0b235f0202_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/563_aesculus_indica_sydney_pearce/regular/3049990207_0b235f0202_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/563_aesculus_indica_sydney_pearce/medium/3049990207_0b235f0202_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/563_aesculus_indica_sydney_pearce/small/3049990207_0b235f0202_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/563_aesculus_indica_sydney_pearce/thumbnail/3049990207_0b235f0202_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

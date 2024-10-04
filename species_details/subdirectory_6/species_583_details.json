@@ -1,0 +1,124 @@
+{
+    "id": 583,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache 'Blue Boa'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=583&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=583&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "purple-blue"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=583&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Violet blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant hyssop, or Agastache 'Blue Boa', is an amazing plant species that has a unique beauty. It produces vibrant mint-blue blooms throughout the summer, attracting a variety of colorful pollinators to the garden. The flower spike appears to have a fuzzy, white appearance due to its tiny hairs. The giant hyssop provides an alluring fragrance while in bloom and grows rapidly. Its dainty leaves come in a soft bluish-green hue, complementing its flowers. Plus, it is incredibly easy to care for\u2014just plant in a sunny spot and water regularly. Giant hyssop is a great addition to the mix of any garden, adding beautiful color, fragrance and insect life.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/583_agastache_blue_boa/og/28152423034_117ba83daa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/583_agastache_blue_boa/regular/28152423034_117ba83daa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/583_agastache_blue_boa/medium/28152423034_117ba83daa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/583_agastache_blue_boa/small/28152423034_117ba83daa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/583_agastache_blue_boa/thumbnail/28152423034_117ba83daa_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

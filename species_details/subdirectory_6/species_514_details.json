@@ -1,0 +1,114 @@
+{
+    "id": 514,
+    "common_name": "sweet flag",
+    "scientific_name": [
+        "Acorus calamus 'Variegatus'"
+    ],
+    "other_name": [],
+    "family": "Acoraceae",
+    "origin": [
+        "India",
+        "Nepal",
+        "Bangladesh",
+        "Bhutan",
+        "China",
+        "Myanmar",
+        "Thailand",
+        "Laos",
+        "Vietnam"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=514&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=514&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "4"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=514&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Sweet Flag (Acorus calamus 'Variegatus') is an amazing plant for any garden. Its beautiful variegated foliage and bright green and white stripes are extremely attractive and make a beautiful backdrop for other plants. Its fragrant roots have been used for centuries for medicinal and culinary purposes. Sweet Flag is also an excellent plant for wetlands and bog gardens, because it thrives in damp and wet soil. Not only that, the foliage of Sweet Flag is deer and rabbit resistant, making it the perfect addition to any wildlife garden. Sweet Flag is a unique and stunning plant and will be a highlight in any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/514_acorus_calamus_variegatus/og/5023687658_c7e24a88ca_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/514_acorus_calamus_variegatus/regular/5023687658_c7e24a88ca_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/514_acorus_calamus_variegatus/medium/5023687658_c7e24a88ca_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/514_acorus_calamus_variegatus/small/5023687658_c7e24a88ca_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/514_acorus_calamus_variegatus/thumbnail/5023687658_c7e24a88ca_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

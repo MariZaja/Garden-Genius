@@ -1,0 +1,139 @@
+{
+    "id": 507,
+    "common_name": "azure monkshood",
+    "scientific_name": [
+        "Aconitum carmichaelii var. angustius"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "China",
+        "Vietnam"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=507&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=507&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "white-blue"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "May",
+        "August",
+        "August",
+        "September",
+        "September",
+        "October",
+        "November",
+        "October",
+        "November"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=507&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Deep purple (inside) and pale blue (outside)",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Azure Monkshood (Aconitum carmichaelii var. angustius) is an attractive and captivating flowering species that easily adds an eye-catching pop of color to any garden. This perennial has large, bright electric blue hooded flowers that rise tall on strong, sturdy stems. Azure Monkshood is an easy-to-care for plant that thrives in shady gardens, and produces delicate flowers from mid- to late-summer. Its unique color and exotic beauty add a special charm that is sure to be admired. Not only is it beautiful, it is also surprisingly easy to cultivate.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/507_aconitum_carmichaelii_var_angustius/og/50581495796_acff4ae601_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/507_aconitum_carmichaelii_var_angustius/regular/50581495796_acff4ae601_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/507_aconitum_carmichaelii_var_angustius/medium/50581495796_acff4ae601_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/507_aconitum_carmichaelii_var_angustius/small/50581495796_acff4ae601_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/507_aconitum_carmichaelii_var_angustius/thumbnail/50581495796_acff4ae601_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

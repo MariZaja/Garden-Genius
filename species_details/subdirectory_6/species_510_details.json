@@ -1,0 +1,126 @@
+{
+    "id": 510,
+    "common_name": "monkshood",
+    "scientific_name": [
+        "Aconitum napellus"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Europe"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=510&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=510&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "purple-blue",
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown",
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-colored"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "filtered shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=510&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Mildew",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Deep purplish blue",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Autumn",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Monkshood (Aconitum napellus) is a stunning plant species known for its deep blue flowers and majestic stature. It is an impressive sight that is sure to capture attention in any garden. The flowers have an unmistakable shape and pattern which is often compared to a hooded monk. This species has a high tolerance to most soils and is surprisingly hardy even in cold climates. It also makes a great addition to any garden, providing height and a unique presence. Monkshood is very easy to maintain and will thrive with regular pruning. Once established, this species will flower year after year and bring joy to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/510_aconitum_napellus/og/38214790954_f875a2bd9e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/510_aconitum_napellus/regular/38214790954_f875a2bd9e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/510_aconitum_napellus/medium/38214790954_f875a2bd9e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/510_aconitum_napellus/small/38214790954_f875a2bd9e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/510_aconitum_napellus/thumbnail/38214790954_f875a2bd9e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

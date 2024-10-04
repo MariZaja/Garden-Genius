@@ -1,0 +1,121 @@
+{
+    "id": 528,
+    "common_name": "bugbane",
+    "scientific_name": [
+        "Actaea simplex"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Root Cutting"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=528&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=528&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "blooms",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green",
+                "brown-green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=528&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugbane (Actaea simplex) is an amazing ornamental plant that is often used to evoke a sense of magical beauty in flower beds and other gardens. Featuring small, delicate clusters of white or pink fragrant flowers, bugbane prefers partial to full shade and is easy to maintain - simply fertilize regularly and water adequately. It's also a really hardy plant that can tolerate difficult weather conditions but attracts beneficial pollinators such as bees and butterflies. The foliage is a lush green and has a lovely, fern-like texture that creates a captivating visual effect. When in full bloom, bugbane is a stunning sight that will bring a touch of enchantment to any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/528_actaea_simplex/og/51618506667_d2af922035_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/528_actaea_simplex/regular/51618506667_d2af922035_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/528_actaea_simplex/medium/51618506667_d2af922035_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/528_actaea_simplex/small/51618506667_d2af922035_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/528_actaea_simplex/thumbnail/51618506667_d2af922035_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

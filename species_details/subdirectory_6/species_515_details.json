@@ -1,0 +1,110 @@
+{
+    "id": 515,
+    "common_name": "grassy-leaved sweet flag",
+    "scientific_name": [
+        "Acorus gramineus"
+    ],
+    "other_name": [],
+    "family": "Acoraceae",
+    "origin": [
+        "Eastern Asia"
+    ],
+    "type": "Grass",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Rhizome Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=515&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=515&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=515&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Grassy-leaved sweet flag (Acorus gramineus) is an amazing species of grass with stunning foliage and sweet-smelling flowers. Its unique grassy foliage adds texture and interest to any garden, while its fragrant foliage can scent the garden with its sweet aroma. In addition, its deer-resistant, drought-tolerant, and low-maintenance qualities make it a great landscape choice. Its foliage also turns a golden orange color in the fall months and can be used as a filler in garden beds and containers. Grassy-leaved sweet flag is an excellent choice for any gardener who wants a unique and beautiful plant with a pleasant scent.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/515_acorus_gramineus/og/43357997720_ae5f9d1fe6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/515_acorus_gramineus/regular/43357997720_ae5f9d1fe6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/515_acorus_gramineus/medium/43357997720_ae5f9d1fe6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/515_acorus_gramineus/small/43357997720_ae5f9d1fe6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/515_acorus_gramineus/thumbnail/43357997720_ae5f9d1fe6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

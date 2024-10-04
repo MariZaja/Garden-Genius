@@ -1,0 +1,122 @@
+{
+    "id": 574,
+    "common_name": "lily of the Nile",
+    "scientific_name": [
+        "Agapanthus 'Cold Hardy White'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "South Africa"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.25 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=574&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=574&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "6"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=574&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Lily of the Nile, or Agapanthus 'Cold Hardy White' is a stunning plant with lush foliage and white flower heads that look like stars glowing on a summer night. Its dark green leaves make a great backdrop to the clusters of beautiful white flowers. It can handle cold weather better than other lilies, which makes it an excellent choice for cooler climates. It's a great accent plant for any garden, requiring very little maintenance; no need to deadhead or prune. The Lily of the Nile is an easy-to-care for, hardy plant with beautiful white blooms that can be enjoyed all summer long.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/574_agapanthus_cold_hardy_white/og/43927844454_7676af386f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/574_agapanthus_cold_hardy_white/regular/43927844454_7676af386f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/574_agapanthus_cold_hardy_white/medium/43927844454_7676af386f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/574_agapanthus_cold_hardy_white/small/43927844454_7676af386f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/574_agapanthus_cold_hardy_white/thumbnail/43927844454_7676af386f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

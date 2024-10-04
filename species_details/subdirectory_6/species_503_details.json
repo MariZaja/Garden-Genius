@@ -1,0 +1,115 @@
+{
+    "id": 503,
+    "common_name": "golden spaniard",
+    "scientific_name": [
+        "Aciphylla aurea"
+    ],
+    "other_name": [],
+    "family": "Apiaceae",
+    "origin": [
+        "New Zealand"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=503&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=503&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "September",
+        "October",
+        "November",
+        "March",
+        "April",
+        "May",
+        "September",
+        "October",
+        "November"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=503&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "High",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Spaniard is an amazing plant species known for its gorgeous golden-yellow foliage. As an incredibly hardy and versatile plant, the Golden Spaniard is an ideal choice for a wide variety of landscaping applications. It grows in a neat and tidy mound, making it an excellent option for edgers, raised beds, or rock gardens. Best of all, its foliage transforms throughout the season to take on a stunning golden hue, creating impressive visual impact in any space. With exceptional cold-hardiness and the ability to thrive in full-sun conditions, the Golden Spaniard is a truly remarkable plant.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/503_aciphylla_aurea/og/2560px-Aciphylla_aurea_kz13.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/503_aciphylla_aurea/regular/2560px-Aciphylla_aurea_kz13.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/503_aciphylla_aurea/medium/2560px-Aciphylla_aurea_kz13.jpg",
+        "small_url": "https://perenual.com/storage/species_image/503_aciphylla_aurea/small/2560px-Aciphylla_aurea_kz13.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/503_aciphylla_aurea/thumbnail/2560px-Aciphylla_aurea_kz13.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

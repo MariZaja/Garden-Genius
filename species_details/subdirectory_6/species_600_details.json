@@ -1,0 +1,104 @@
+{
+    "id": 600,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache 'Summer Breeze'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=600&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=600&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "midday",
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=600&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Orchid pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant hyssop (Agastache 'Summer Breeze') is an amazing plant species that can bring beauty and fragrance to your garden. This hardy, drought-tolerant perennial has an abundant, evergreen growth of mounding gray-green foliage with lavender-blue flowers that attract bees and butterflies. An aromatic oil in the leaves creates a pleasant, minty-basil smell when touched, so it's ideal for gardens with a scent-theme. It blooms in summer and fall, with bright upright spikes of lavender-blue flower clusters above the foliage. Best of all, giant hyssop is easy to grow, and can reach a height of up to 3 feet tall. So if you\u2019re looking for a stunning and fragrant addition to your garden, the giant hyssop is sure to be a hit!",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

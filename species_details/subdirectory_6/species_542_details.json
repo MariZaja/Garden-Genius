@@ -1,0 +1,129 @@
+{
+    "id": 542,
+    "common_name": "ladybells",
+    "scientific_name": [
+        "Adenophora liliifolia"
+    ],
+    "other_name": [],
+    "family": "Campanulaceae",
+    "origin": [
+        "Northwestern and central Asia",
+        "eastern and central Europe"
+    ],
+    "type": "Shrub",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=542&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=542&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "4"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue",
+                "blue-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green-colored"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "August",
+        "September",
+        "October"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=542&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ladybells (Adenophora liliifolia) are a beautiful, low-maintenance plant that add tons of color to a garden! Their dainty, fragrant bell-like blooms come in shades of blue, pink, and purple and begin to appear in early summer and last until early fall. The easy-spread, clump-forming plants grow up to two feet tall, adding beauty at any height. Plus, they\u2019re super easy to care for and bloom reliably. They\u2019re a great choice for borders and butterfly gardens, and they\u2019re deer resistant. Ladybells are a beautiful and hardworking addition to any garden!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/542_adenophora_liliifolia/og/4927030984_50145a4edb_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/542_adenophora_liliifolia/regular/4927030984_50145a4edb_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/542_adenophora_liliifolia/medium/4927030984_50145a4edb_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/542_adenophora_liliifolia/small/4927030984_50145a4edb_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/542_adenophora_liliifolia/thumbnail/4927030984_50145a4edb_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

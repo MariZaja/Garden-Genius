@@ -1,0 +1,134 @@
+{
+    "id": 594,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache 'Purple Haze'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Birds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=594&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=594&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "blooms",
+            "color": [
+                "pink-white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=594&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Smoky bluish-purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "purple",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant Hyssop (Agastache 'Purple Haze') is an amazing plant species due to its gorgeous appearance and hardiness. This sprawling shrub is known for its vibrantly colored purple and lavender-hued flowers and bright green foliage. The blooms attract many different types of butterflies and bees, making it a great plant for pollinators. Plus, it is drought-tolerant and requires little maintenance. Ideal for gardeners of all experience levels, it is sure to be an eye-catching addition to any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/594_agastache_purple_haze/og/52439312291_e64d8bfac1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/594_agastache_purple_haze/regular/52439312291_e64d8bfac1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/594_agastache_purple_haze/medium/52439312291_e64d8bfac1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/594_agastache_purple_haze/small/52439312291_e64d8bfac1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/594_agastache_purple_haze/thumbnail/52439312291_e64d8bfac1_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

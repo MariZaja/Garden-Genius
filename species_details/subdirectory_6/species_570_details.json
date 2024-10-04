@@ -1,0 +1,105 @@
+{
+    "id": 570,
+    "common_name": "African fern pine",
+    "scientific_name": [
+        "Afrocarpus gracilior"
+    ],
+    "other_name": [],
+    "family": "Podocarpaceae",
+    "origin": [
+        "Uganda",
+        "Ethiopia",
+        "Kenya"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "40.00 to 60.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=570&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=570&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=570&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Cones insignificant",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The African Fern Pine (Afrocarpus gracilior) is an amazing sight to behold. Native to the African highland forests, its attractive, bright green foliage stands out against its greyish-brown trunk. Its bushy, spreading branches and evergreen needles make it an excellent choice for a privacy screen or stand-alone tree. In addition to its beauty, this species is incredibly low maintenance and can thrive even in challenging and dry weather conditions. Its sturdy bark and shallow roots provide resistance to wind and fire, making it an ideal choice for areas prone to high winds and extreme temperatures. The African fern pine is a stunning and hardy addition to any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/570_afrocarpus_gracilior/og/Starr_061224-2850_Afrocarpus_gracilior.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/570_afrocarpus_gracilior/regular/Starr_061224-2850_Afrocarpus_gracilior.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/570_afrocarpus_gracilior/medium/Starr_061224-2850_Afrocarpus_gracilior.jpg",
+        "small_url": "https://perenual.com/storage/species_image/570_afrocarpus_gracilior/small/Starr_061224-2850_Afrocarpus_gracilior.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/570_afrocarpus_gracilior/thumbnail/Starr_061224-2850_Afrocarpus_gracilior.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
