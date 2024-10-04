@@ -1,0 +1,117 @@
+{
+    "id": 721,
+    "common_name": "aloe",
+    "scientific_name": [
+        "Aloe harlana"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "Ethiopia"
+    ],
+    "type": null,
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Offsets",
+        "Leaf Cutting",
+        "Division",
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=721&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=721&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "orange"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=721&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red to orange",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Aloe harlana, also known as the yellow-flowering barbed aloe, is a plant species that is simply remarkable. It has a remarkable longevity and ability to thrive in arid regions, making it a great choice for those looking for a minimal maintenance houseplant. Its bright yellow flowers are composed of hundreds of wispy petals, giving an almost ethereal ambiance to any room it\u2019s placed in. The leaves of an aloe harlana are thick yet supple and provide powerful medicinal properties, as well as being an effective deterrent against pests. All in all, the Aloe harlana is an easy-to-care for plant with a multitude of benefits that make it a must-have in any home.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/721_aloe_harlana/og/5582077315_8d613454aa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/721_aloe_harlana/regular/5582077315_8d613454aa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/721_aloe_harlana/medium/5582077315_8d613454aa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/721_aloe_harlana/small/5582077315_8d613454aa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/721_aloe_harlana/thumbnail/5582077315_8d613454aa_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

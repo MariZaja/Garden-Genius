@@ -1,0 +1,104 @@
+{
+    "id": 795,
+    "common_name": "pearly everlasting",
+    "scientific_name": [
+        "Anaphalis triplinervis"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Afghanistan",
+        "southwestern China"
+    ],
+    "type": "Herb",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=795&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=795&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "cm",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=795&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White with yellow centers",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The pearly everlasting (Anaphalis triplinervis) is an amazing plant species for its longevity and versatility. It produces flat, hairy clusters of small, white flowers that remain fresh and bright long beyond its blooming season, lasting up to four months despite drought or other adverse conditions. It is a beautiful addition to any landscape and can thrive in both full sun and light shade. It is drought tolerant and can attract beneficial insects such as butterflies and bees. Plus, when the flowers dry, they can be used in dried floral arrangements or dried bouquets. This is truly an amazing plant that will make a beautiful and lasting statement in any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/795_anaphalis_triplinervis/og/2048px-Anaphalis_triplinervis-IMG_6150.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/795_anaphalis_triplinervis/regular/2048px-Anaphalis_triplinervis-IMG_6150.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/795_anaphalis_triplinervis/medium/2048px-Anaphalis_triplinervis-IMG_6150.jpg",
+        "small_url": "https://perenual.com/storage/species_image/795_anaphalis_triplinervis/small/2048px-Anaphalis_triplinervis-IMG_6150.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/795_anaphalis_triplinervis/thumbnail/2048px-Anaphalis_triplinervis-IMG_6150.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

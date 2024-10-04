@@ -1,0 +1,125 @@
+{
+    "id": 774,
+    "common_name": "porcelain vine",
+    "scientific_name": [
+        "Ampelopsis brevipedunculata var. maximowiczii 'Elegans'"
+    ],
+    "other_name": [],
+    "family": "Vitaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Vine",
+    "dimension": "10.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 10,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Layering Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=774&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=774&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "fruit",
+            "color": [
+                "blue-purple-pink",
+                "blue",
+                "purple-blue-pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red-green",
+                "red",
+                "green-red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=774&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Greenish",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The porcelain vine (Ampelopsis brevipedunculata var. maximowiczii 'Elegans') is an amazing plant. Its green glossy foliage has a unique variegated purple, cream and yellow flecking, perfect for adding texture and colour to any outdoor living space. This evergreen vine produces colourful berries from autumn through to winter, providing food for birds and other wildlife. It also makes for great ground-cover as it is easy to care for and even tolerant of drought-like conditions. If grown on a trellis, it allows for great privacy screening and adds cheer to a boring fence. Its spectacular blooms of white and pink further add to its appeal and beautiful autumn foliage shows off its adaptability to survive in a variety of climates. All in all, the porcelain vine is an amazing plant to add to any garden or outdoor living space.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/774_ampelopsis_brevipedunculata_var_maximowiczii_elegans/og/30639333801_f26c72e005_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/774_ampelopsis_brevipedunculata_var_maximowiczii_elegans/regular/30639333801_f26c72e005_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/774_ampelopsis_brevipedunculata_var_maximowiczii_elegans/medium/30639333801_f26c72e005_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/774_ampelopsis_brevipedunculata_var_maximowiczii_elegans/small/30639333801_f26c72e005_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/774_ampelopsis_brevipedunculata_var_maximowiczii_elegans/thumbnail/30639333801_f26c72e005_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

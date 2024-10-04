@@ -1,0 +1,105 @@
+{
+    "id": 799,
+    "common_name": "bluestem",
+    "scientific_name": [
+        "Andropogon capillipes 'Valdosta Blue'"
+    ],
+    "other_name": [],
+    "family": "Poaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Ornamental grass",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation",
+        "Stolon",
+        "Rhizome Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=799&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=799&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=799&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bluestem (Andropogon capillipes 'Valdosta Blue') is an amazing plant species. Its unique stem and foliage are a striking combination of blue-green. It is a warm season grass that provides lots of visual interest, especially in the fall. Its foliage turns an attractive shade of purple as the temperature drops. It is hardy and drought tolerant and does well in full sun areas with little to no irrigation. An excellent selection for native plantings and large areas, this grass will provide low maintenance beauty for years to come. Its adaptability makes it a great choice for those looking for an easy-to-care-for yet beautiful landscape option.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/og/48666137008_7f8da5fb3a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/regular/48666137008_7f8da5fb3a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/medium/48666137008_7f8da5fb3a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/small/48666137008_7f8da5fb3a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/799_andropogon_capillipes_valdosta_blue/thumbnail/48666137008_7f8da5fb3a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

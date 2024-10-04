@@ -1,0 +1,134 @@
+{
+    "id": 753,
+    "common_name": "love-lies-bleeding",
+    "scientific_name": [
+        "Amaranthus caudatus"
+    ],
+    "other_name": [],
+    "family": "Amaranthaceae",
+    "origin": [
+        "South America"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=753&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=753&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "red-pink"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=753&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "purple"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Love-lies-bleeding (Amaranthus caudatus) is an amazing plant species due to its striking appearance and versatility. Its bright red or burgundy flower clusters can be up to a foot long, cascading from the plant and making it into a visual masterpiece. Its applications make it a highly desirable ornamental plant, and its culinary and medicinal uses give it yet another layer of utility. On top of that, it is Hardy and low maintenance. Love-lies-bleeding is truly a magnificent species and a joy to have in any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/753_amaranthus_caudatus/og/14912743664_5b2ca6df71_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/753_amaranthus_caudatus/regular/14912743664_5b2ca6df71_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/753_amaranthus_caudatus/medium/14912743664_5b2ca6df71_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/753_amaranthus_caudatus/small/14912743664_5b2ca6df71_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/753_amaranthus_caudatus/thumbnail/14912743664_5b2ca6df71_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

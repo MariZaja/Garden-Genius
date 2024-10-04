@@ -1,0 +1,121 @@
+{
+    "id": 771,
+    "common_name": "Devil's tongue",
+    "scientific_name": [
+        "Amorphophallus konjac"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Bulb",
+    "dimension": "4.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cormlet Propagation",
+        "Tissue Culture",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=771&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=771&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "maroon-white"
+            ]
+        },
+        {
+            "part": "center",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=771&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Maroon to purple-brown",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Devil's Tongue, also known as Amorphophallus konjac, is an amazing plant species that stands out from the rest. This plant is native to tropical and subtropical countries like Japan, China, and Korea, and it has a unique bloom that resembles a devil's tongue! The striking flower lasts for only a few days and emits an unpleasant, rotting flesh-like scent, hence the name. The Amorphophallus konjac is also known for its versatile starchy edible tuber, commonly referred to as Konjac, which is processed into foods such as noodles, jelly, and flour. This resilient plant species is not only visually fascinating and incredibly versatile, but it's a great source of nutrition, too! Its versatility and unique appearance make Amorphophallus konjac one the world's most amazing plant species!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/771_amorphophallus_konjac/og/7375633894_b44dbcd920_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/771_amorphophallus_konjac/regular/7375633894_b44dbcd920_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/771_amorphophallus_konjac/medium/7375633894_b44dbcd920_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/771_amorphophallus_konjac/small/7375633894_b44dbcd920_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/771_amorphophallus_konjac/thumbnail/7375633894_b44dbcd920_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

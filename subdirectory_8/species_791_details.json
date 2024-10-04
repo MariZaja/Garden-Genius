@@ -1,0 +1,127 @@
+{
+    "id": 791,
+    "common_name": "pineapple",
+    "scientific_name": [
+        "Ananas comosus"
+    ],
+    "other_name": [],
+    "family": "Bromeliaceae",
+    "origin": [
+        "Brazil"
+    ],
+    "type": "Fruit",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Air Layering Propagation",
+        "Tissue Culture",
+        "Grafting Propagation",
+        "Offsets",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "11",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=791&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=791&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "green-pink",
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "fruit",
+            "color": [
+                "yellow-green",
+                "yellow-pink"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "green-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=791&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple to red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Pineapple (Ananas comosus) is one of the most amazing fruits. It has a delicious sweet flavour with a hint of tanginess. It also boasts numerous incredible health benefits due to its high content of vitamins and minerals such as beta-carotene, potassium and magnesium. Plus, it is an excellent source of dietary fibre which helps regulate your digestive system. Pineapple is also known to boost your immunity, improve energy levels and fight off respiratory illnesses. On top of that, pineapple is incredibly low in calories making it a great snack for calorie-conscious individuals. All of these features combined make pineapple one of the most amazing fruits out there.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/791_ananas_comosus/og/34419208613_3b3d2ae347_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/791_ananas_comosus/regular/34419208613_3b3d2ae347_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/791_ananas_comosus/medium/34419208613_3b3d2ae347_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/791_ananas_comosus/small/34419208613_3b3d2ae347_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/791_ananas_comosus/thumbnail/34419208613_3b3d2ae347_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

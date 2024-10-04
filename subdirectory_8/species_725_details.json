@@ -1,0 +1,101 @@
+{
+    "id": 725,
+    "common_name": "Yemen tree aloe",
+    "scientific_name": [
+        "Aloe sabaea"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "Arabian Peninsula"
+    ],
+    "type": "Cactus",
+    "dimension": "8.00 to 10.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 8,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Offsets",
+        "Leaf Cutting",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=725&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=725&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=725&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Coral-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Yemen tree aloe (Aloe sabaea) is an amazing plant species, due to its unique and striking appearance. With thick, curved, blue-green leaves and vibrant orange flowers, the Yemen tree aloe stands out amongst the crowd. It is known to be hardy and drought-tolerant, making it a resilient choice for your garden! The thick leaves are also known to be very effective in collecting, storing and reusing water, making it a great eco-friendly choice. Plus if you\u2019re looking for something special that will draw attention to your garden, the Yemen tree aloe will do just that!",
+    "default_image": {
+        "license": 44,
+        "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "original_url": "https://perenual.com/storage/species_image/725_aloe_sabaea/og/488c2e98bae5c75ae8edcb2901f56875341dae17.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/725_aloe_sabaea/regular/488c2e98bae5c75ae8edcb2901f56875341dae17.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/725_aloe_sabaea/medium/488c2e98bae5c75ae8edcb2901f56875341dae17.jpg",
+        "small_url": "https://perenual.com/storage/species_image/725_aloe_sabaea/small/488c2e98bae5c75ae8edcb2901f56875341dae17.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/725_aloe_sabaea/thumbnail/488c2e98bae5c75ae8edcb2901f56875341dae17.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

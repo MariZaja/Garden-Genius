@@ -1,0 +1,105 @@
+{
+    "id": 701,
+    "common_name": "Italian alder",
+    "scientific_name": [
+        "Alnus cordata"
+    ],
+    "other_name": [],
+    "family": "Betulaceae",
+    "origin": [
+        "Corsica"
+    ],
+    "type": "Tree",
+    "dimension": "30.00 to 50.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 30,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=701&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=701&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=701&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Yellowish-green (male), reddish-green (female)",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Italian alder (Alnus cordata) is an amazing species of deciduous tree native to Southern Europe and parts of the Mediterranean Basin. It is a fast-growing species and is known to reach a mature height of up to 10 metres. This tree is famous for its stunning deep-green and glossy foliage, which turns yellow and gold in the autumn, providing a much desired display of colour before leaf-fall. It is an incredibly hardy species, tolerating drought and poor soils, whilst being cold and heat tolerant. It is increasingly popular within urban landscapes due to its aesthetic values and resilience, offering a vibrant statement of beauty.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/701_alnus_cordata/og/51881225889_7856d72c70_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/701_alnus_cordata/regular/51881225889_7856d72c70_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/701_alnus_cordata/medium/51881225889_7856d72c70_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/701_alnus_cordata/small/51881225889_7856d72c70_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/701_alnus_cordata/thumbnail/51881225889_7856d72c70_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,118 @@
+{
+    "id": 763,
+    "common_name": "Allegheny serviceberry",
+    "scientific_name": [
+        "Amelanchier laevis"
+    ],
+    "other_name": [
+        "Allegheny Serviceberry",
+        "Smooth Juneberry",
+        "Smooth Juneberry"
+    ],
+    "family": "Rosaceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "Tree",
+    "dimension": "15.00 to 40.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 15,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=763&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=763&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=763&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Allegheny serviceberry (Amelanchier laevis) is an amazing plant species that is highly sought after for its beauty and versatility. This small, deciduous tree blooms in late spring with drooping clusters of white flowers, followed by small, tasty fruits in midsummer. It also has gorgeous bronze and reddish foliage, which highlights its remarkable natural beauty. Growing between 15 and 25 feet tall, it makes a stunning addition to any landscape, providing a touch of color in all four seasons. Plus, its adaptability makes it an easy choice to grow in almost any region. All these features and more make the Allegheny serviceberry an amazing plant species.",
+    "default_image": {
+        "license": 9,
+        "license_name": "Public Domain Dedication (CC0)",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/763_amelanchier_laevis/og/41909182552_486c47e700_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/763_amelanchier_laevis/regular/41909182552_486c47e700_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/763_amelanchier_laevis/medium/41909182552_486c47e700_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/763_amelanchier_laevis/small/41909182552_486c47e700_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/763_amelanchier_laevis/thumbnail/41909182552_486c47e700_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,107 @@
+{
+    "id": 767,
+    "common_name": "running serviceberry",
+    "scientific_name": [
+        "Amelanchier stolonifera"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "Northeastern America"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "4.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Layering Propagation",
+        "Cutting",
+        "Division",
+        "Grafting Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=767&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=767&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=767&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Running serviceberry (Amelanchier stolonifera) is an amazing plant because of its incredible beauty and hardiness. It has large, delicate white blooms that cover the shrub in spring and juicy, flavorful berries in summer, providing an abundance of food for wildlife and pollinators. In the fall the leaves turn brilliant red, orange and yellow, creating an eye-catching visual display. It can survive in a variety of conditions, from full sun to shade, and from moist, well-drained soils to dry, rocky terrain. Its tough root system enables it to spread quickly and is also what gives it its \u201crunning\u201d name. Running serviceberry is a stunning species that will enhance any garden or landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/767_amelanchier_stolonifera/og/Amelanchier_ovalis._MollC3A9ndanu_28frutu29.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/767_amelanchier_stolonifera/regular/Amelanchier_ovalis._MollC3A9ndanu_28frutu29.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/767_amelanchier_stolonifera/medium/Amelanchier_ovalis._MollC3A9ndanu_28frutu29.jpg",
+        "small_url": "https://perenual.com/storage/species_image/767_amelanchier_stolonifera/small/Amelanchier_ovalis._MollC3A9ndanu_28frutu29.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/767_amelanchier_stolonifera/thumbnail/Amelanchier_ovalis._MollC3A9ndanu_28frutu29.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

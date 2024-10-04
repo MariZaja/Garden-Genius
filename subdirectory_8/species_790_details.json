@@ -1,0 +1,132 @@
+{
+    "id": 790,
+    "common_name": "blue pimpernel",
+    "scientific_name": [
+        "Anagallis monelli"
+    ],
+    "other_name": [],
+    "family": "Primulaceae",
+    "origin": [
+        "Mediterranean"
+    ],
+    "type": "Herb",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=790&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=790&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue",
+                "dainty-blue",
+                "blue-purple"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "gray",
+                "green",
+                "brown"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "blue"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=790&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Gentian blue with small red center",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The blue pimpernel is a truly amazing species of plant. It is extremely tiny, but its vivid blue blooms are breathtaking and colorful. It is very low-maintenance and can thrive in many climates. Additionally, it does its best when planted in pots, meaning it can grow just about anywhere, making it a great choice for both gardens or balconies. The blue pimpernel also has an impressive bloom time, lasting from May until October, providing a long time of beautiful flowers. To top it off, the blue pimpernel is incredibly resilient and can survive extreme cold and drought conditions. Its charm and beauty make it a truly amazing plant species.",
+    "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/790_anagallis_monelli/og/49401044388_fc4c474cef_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

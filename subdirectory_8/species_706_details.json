@@ -1,0 +1,106 @@
+{
+    "id": 706,
+    "common_name": "seaside alder",
+    "scientific_name": [
+        "Alnus maritima"
+    ],
+    "other_name": [],
+    "family": "Betulaceae",
+    "origin": [
+        "Delaware",
+        "Georgia",
+        "Maryland",
+        "Oklahoma"
+    ],
+    "type": "Tree",
+    "dimension": "20.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Seed Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=706&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=706&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=706&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Seaside Alder (Alnus Maritima) is an amazing plant species that shines on both land and water. It\u2019s a deciduous tree that thrives in poor, sandy soils near the ocean\u2014making it an ideal choice for coastal home gardens. With its gnarled, rounded branches, the Seaside Alder provides shady shelters for wildlife and food sources for birds. It\u2019s a rapidly-growing species that features catkin flowers and cone-like fruits, providing abundant biodiversity and adding to the beauty of the environment. Enjoy the Seaside Alder\u2019s many benefits and watch your space transform!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/706_alnus_maritima/og/Alnus_japonica2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/706_alnus_maritima/regular/Alnus_japonica2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/706_alnus_maritima/medium/Alnus_japonica2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/706_alnus_maritima/small/Alnus_japonica2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/706_alnus_maritima/thumbnail/Alnus_japonica2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

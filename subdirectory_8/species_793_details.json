@@ -1,0 +1,104 @@
+{
+    "id": 793,
+    "common_name": "variegated pineapple",
+    "scientific_name": [
+        "Ananas comosus var. variegatus"
+    ],
+    "other_name": [],
+    "family": "Bromeliaceae",
+    "origin": [
+        "Tropical America"
+    ],
+    "type": "Fruit",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Offsets",
+        "Crown Division",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "11",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=793&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=793&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=793&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange",
+        "white"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Variegated pineapple is an amazing tropical plant that produces amazingly large and stunning fruits. Its varietal foliage is waxy and bright green with splashes of yellow or white in the form of striped variegation. It thrives in hot and humid environments, but can also be grown indoors in bright, sunny spots. Its unique and lovely colors make it a great addition to any landscape. In addition to its ornamental value, its fruit has multiple uses in the kitchen and is considered a delicacy in many areas. Its sweet, tangy and juiciness is something to look forward to. Variegated pineapple is truly an amazing and delightful plant to own!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/og/3084408454_c0938466ae_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/regular/3084408454_c0938466ae_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/medium/3084408454_c0938466ae_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/small/3084408454_c0938466ae_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/793_ananas_comosus_var_variegatus/thumbnail/3084408454_c0938466ae_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

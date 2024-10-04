@@ -1,0 +1,136 @@
+{
+    "id": 709,
+    "common_name": "hazel alder",
+    "scientific_name": [
+        "Alnus serrulata"
+    ],
+    "other_name": [
+        "Hazel Alder",
+        "Smooth Alder",
+        "Common Alder",
+        "Smooth Alder",
+        "Common Alder"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Eastern United States"
+    ],
+    "type": "Tree",
+    "dimension": "10.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 10,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=709&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=709&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "gray",
+                "green"
+            ]
+        },
+        {
+            "part": "cones",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=709&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Brownish-yellow (male) and red (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hazel Alder (Alnus serrulata) is an amazing deciduous tree that is great for adding character and beauty to a garden. With its graceful shape and stunning fall foliage, it stands out as an eye catching specimen. Its leaves are toothed, sharply pointed, and slightly glossy, giving it an attractive appearance. Plus, its bark is quite beautiful and comes in a variety of colours. This hardy tree is also resilient and easy to maintain. It grows in a wide range of soil types, needs little care and tolerates most weather conditions. As a bonus, it provides food, shelter and nesting places for wildlife. With these characteristics, Hazel Alder is an excellent addition to any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/709_alnus_serrulata/og/51309897085_3be26925a3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/709_alnus_serrulata/regular/51309897085_3be26925a3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/709_alnus_serrulata/medium/51309897085_3be26925a3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/709_alnus_serrulata/small/51309897085_3be26925a3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/709_alnus_serrulata/thumbnail/51309897085_3be26925a3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

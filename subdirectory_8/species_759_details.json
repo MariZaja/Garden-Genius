@@ -1,0 +1,135 @@
+{
+    "id": 759,
+    "common_name": "serviceberry",
+    "scientific_name": [
+        "Amelanchier canadensis"
+    ],
+    "other_name": [
+        "Canadian Serviceberry",
+        "Chuckleberry",
+        "Chuckleberry"
+    ],
+    "family": "Rosaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "Tree",
+    "dimension": "25.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 25,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=759&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=759&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=759&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        " Mildew",
+        " Mold",
+        " Rust",
+        "  Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Serviceberry (Amelanchier canadensis) is an amazing shrub native to North America. It has stunning white flowers in the spring and produces edible berries in the summer. The berries are sweet and often used in preserves and jams. Serviceberry will thrive in most soils and is both disease and pest resistant. It's very low-maintenance, making it an ideal choice for beginner gardeners. It can also be used for landscaping, reforestation, and erosion control. Serviceberry's unique look can also provide a beautiful addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/759_amelanchier_canadensis/og/38538085322_565637d2e7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/759_amelanchier_canadensis/regular/38538085322_565637d2e7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/759_amelanchier_canadensis/medium/38538085322_565637d2e7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/759_amelanchier_canadensis/small/38538085322_565637d2e7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/759_amelanchier_canadensis/thumbnail/38538085322_565637d2e7_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

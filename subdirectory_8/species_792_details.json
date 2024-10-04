@@ -1,0 +1,133 @@
+{
+    "id": 792,
+    "common_name": "pineapple",
+    "scientific_name": [
+        "Ananas comosus 'Sugarloaf'"
+    ],
+    "other_name": [],
+    "family": "Bromeliaceae",
+    "origin": [
+        "Brazil",
+        "Paraguay",
+        "Uruguay",
+        "Argentina",
+        "Bolivia"
+    ],
+    "type": "Fruit",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Air Layering Propagation",
+        "Cutting",
+        "Tissue Culture",
+        "Division",
+        "Offsets"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=792&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=792&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "fruits",
+            "color": [
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=792&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "yellow"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The pineapple (Ananas comosus 'Sugarloaf') is truly amazing. Its beautiful crown of terrestrial, evergreen leaves makes its presence known in any room or garden. Nutritionally, pineapple is a powerhouse, filled with Vitamin C and manganese, as well as bromelain, an enzyme that promotes digestion and healing. Its bright, sweet succulence is a treat for the taste buds. Add to that the fact that its 'Sugarloaf' variety is small, compact, and asks for little space or water for growth, and it's easy to see why this fruit is so incredible.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/792_ananas_comosus_sugarloaf/og/25144772325_c1d9d73dab_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/792_ananas_comosus_sugarloaf/regular/25144772325_c1d9d73dab_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/792_ananas_comosus_sugarloaf/medium/25144772325_c1d9d73dab_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/792_ananas_comosus_sugarloaf/small/25144772325_c1d9d73dab_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/792_ananas_comosus_sugarloaf/thumbnail/25144772325_c1d9d73dab_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

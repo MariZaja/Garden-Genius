@@ -1,0 +1,141 @@
+{
+    "id": 702,
+    "common_name": "European alder",
+    "scientific_name": [
+        "Alnus glutinosa"
+    ],
+    "other_name": [
+        "Black Alder"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "western Asia"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 60.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Layering Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=702&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=702&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "cones",
+            "color": [
+                "green-brown",
+                "brown",
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown",
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=702&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Clay",
+        " Sand",
+        " Loam"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish-brown (male), purple (female)",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "European alder (Alnus glutinosa) is a stunning species of tree renowned for its vibrant, lush foliage. It's a fast-growing native to Europe and can reach heights of up to 40 feet, making it a great choice for creating privacy and shade. Its bark varies from ruddy-grey to light grey and is also commonly used in furniture and construction projects. This hardy tree prefers damp soil and can tolerate most conditions, from cold regions to urban environments. It is also useful in controlling waterlogging and erosion around rivers and lakes. European alder is a great choice for anyone looking for a beautiful, low-maintenance addition to their garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/702_alnus_glutinosa/og/51873517982_20fa4c6c22_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/702_alnus_glutinosa/regular/51873517982_20fa4c6c22_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/702_alnus_glutinosa/medium/51873517982_20fa4c6c22_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/702_alnus_glutinosa/small/51873517982_20fa4c6c22_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/702_alnus_glutinosa/thumbnail/51873517982_20fa4c6c22_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

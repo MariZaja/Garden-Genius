@@ -1,0 +1,144 @@
+{
+    "id": 726,
+    "common_name": "coral aloe",
+    "scientific_name": [
+        "Aloe striata"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "Southern Africa"
+    ],
+    "type": "Cactus",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Offsets",
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=726&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=726&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "10-14",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "green-pink"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "orange"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "orange"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "coral-red",
+                "red"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "maroon-brown",
+                "-brown",
+                "maroon-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "September",
+        "October",
+        "November",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=726&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Orange-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Coral Aloe (Aloe striata) is an amazing plant species due to its attractive flowers, rugged texture and its beautiful foliage. It is a low-growing, stemless succulent with rosette-shaped grey-green leaves and dramatic coral-red flowers. This plant is incredibly hardy and tolerates drought, salt spray and various soil types. It is pest and disease resistant and is an easy-to-care-for option for any home or garden space. Its rugged texture and long-lasting blooms make it an ideal choice for creating unique and vibrant displays and arrangements. Its striking silhouette and vibrant colors make it a timeless addition to any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/726_aloe_striata/og/46765462314_294129dbb5_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/726_aloe_striata/regular/46765462314_294129dbb5_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/726_aloe_striata/medium/46765462314_294129dbb5_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/726_aloe_striata/small/46765462314_294129dbb5_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/726_aloe_striata/thumbnail/46765462314_294129dbb5_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

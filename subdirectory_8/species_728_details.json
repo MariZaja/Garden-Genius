@@ -1,0 +1,113 @@
+{
+    "id": 728,
+    "common_name": "aloe",
+    "scientific_name": [
+        "Aloe vera"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "Mediterranean"
+    ],
+    "type": "Herb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=728&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=728&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=728&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Mealybugs",
+        " Root rot",
+        " Scale insects",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Aloe vera is a fantastic plant species known for its many amazing health benefits. Consisting of thick leaves with a gel-like interior, aloe vera has long been used as a traditional remedy for treating skin conditions. It is a great source of vitamins, minerals, and amino acids, making it a great natural remedy for common ailments. Aloe vera is also incredibly versatile, with the gel and sap being used for everything from digestive disorders to eye health. It is even believed to reduce inflammation and improve circulation. With its myriad of benefits, aloe vera is definitely an amazing plant species.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/728_aloe_vera/og/52619084582_6ebcfe6a74_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/728_aloe_vera/regular/52619084582_6ebcfe6a74_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/728_aloe_vera/medium/52619084582_6ebcfe6a74_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/728_aloe_vera/small/52619084582_6ebcfe6a74_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/728_aloe_vera/thumbnail/52619084582_6ebcfe6a74_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,120 @@
+{
+    "id": 727,
+    "common_name": "aloe",
+    "scientific_name": [
+        "Aloe suzannae"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "Madagascar"
+    ],
+    "type": "Tree",
+    "dimension": "8.00 to 12.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 8,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Offsets",
+        "Leaf Cutting",
+        "Seed Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=727&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=727&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallon",
+        "value": "2"
+    },
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=727&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Aloe suzannae, otherwise known as 'pocket aloe', is an amazing plant species. It is native to Namibia and South Africa, with its unique spikey leaves forming a rosette shape. It is well known for its health benefits and its resilience when it comes to droughts. It loves the sun and can survive in a variety of conditions, requiring minimal care. Its beautiful orange-yellow flowers appear in summer, adding an extra special touch. Aloe susannae is an amazing addition to any garden, adding a vibrant and colourful touch.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/og/23704519300_5ec1807143_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/regular/23704519300_5ec1807143_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/medium/23704519300_5ec1807143_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/small/23704519300_5ec1807143_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/727_aloe_suzannae/thumbnail/23704519300_5ec1807143_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

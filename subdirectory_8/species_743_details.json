@@ -1,0 +1,130 @@
+{
+    "id": 743,
+    "common_name": "lily of the Incas",
+    "scientific_name": [
+        "Alstroemeria 'Sweet Laura'"
+    ],
+    "other_name": [],
+    "family": "Alstroemeriaceae",
+    "origin": [
+        "Peru"
+    ],
+    "type": "Bulb",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=743&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=743&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "yellow-red"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=743&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow brushed with orange-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Lily of the Incas (Alstroemeria 'Sweet Laura') is an amazing plant that can bring beauty to your garden. It boasts a rainbow of colors such as red, yellow, and orange, and its trumpet-like flowers have a delicate and pleasant scent. The Sweet Laura variety also lasts longer than other alstroemerias, making it a great choice for an extended floral display. To top it off, its care is quite easy; all it needs is a little pruning and some protection from cold temperatures. If you're looking for an exotic, low-maintenance flower for your garden, the Lily of the Incas is definitely the way to go!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/743_alstroemeria_sweet_laura/og/9441208197_3a5d7d10fd_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/743_alstroemeria_sweet_laura/regular/9441208197_3a5d7d10fd_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/743_alstroemeria_sweet_laura/medium/9441208197_3a5d7d10fd_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/743_alstroemeria_sweet_laura/small/9441208197_3a5d7d10fd_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/743_alstroemeria_sweet_laura/thumbnail/9441208197_3a5d7d10fd_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

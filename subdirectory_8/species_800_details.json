@@ -1,0 +1,129 @@
+{
+    "id": 800,
+    "common_name": "big blue stem",
+    "scientific_name": [
+        "Andropogon gerardii"
+    ],
+    "other_name": [],
+    "family": "Poaceae",
+    "origin": [
+        "Canada",
+        "Mexico"
+    ],
+    "type": "Ornamental grass",
+    "dimension": "4.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Division",
+        "Cutting",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=800&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=800&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "",
+        "value": ""
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "blades",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "seed",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=800&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay Rocky"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purplish-red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Big blue stem (Andropogon gerardii) is an amazing grass species native to North America. The plant grows to a height of up to 5 feet, providing a strong vertical presence in open fields and savannas. Its large clumps provide shelter for wildlife, and its dramatic blue-green foliage changes color to a stunning red shade during the fall season. In addition to its beauty, big blue stem is an excellent source of food for a wide variety of birds and other wildlife. Its seeds are also a great food source for humans. This remarkable plant is sure to add life and beauty to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/800_andropogon_gerardii/og/48666647122_e3f737af92_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/800_andropogon_gerardii/regular/48666647122_e3f737af92_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/800_andropogon_gerardii/medium/48666647122_e3f737af92_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/800_andropogon_gerardii/small/48666647122_e3f737af92_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/800_andropogon_gerardii/thumbnail/48666647122_e3f737af92_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

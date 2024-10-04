@@ -1,0 +1,122 @@
+{
+    "id": 754,
+    "common_name": "Joseph's coat",
+    "scientific_name": [
+        "Amaranthus tricolor"
+    ],
+    "other_name": [],
+    "family": "Amaranthaceae",
+    "origin": [
+        "Tropical Asia"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=754&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=754&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow-red",
+                "red-yellow-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=754&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Green to red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Joseph's coat is an amazing plant species due to its impressive range of vibrant colours. Its leaves can be a combination of red, yellow, and green, which offer an eye-catching display of hues. The plant is incredibly hardy and easy to care for, making it a popular choice for gardeners of all levels. Its gorgeous flowers combine to give any garden a lively and beautiful look. Joseph's coat is also a nutritious plant, as the leaves are loaded with vitamins and minerals that make it ideal for cooking and salads. It is truly an incredible species with plenty of life to offer any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/754_amaranthus_tricolor/og/4444686145_a159e16215_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/754_amaranthus_tricolor/regular/4444686145_a159e16215_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/754_amaranthus_tricolor/medium/4444686145_a159e16215_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/754_amaranthus_tricolor/small/4444686145_a159e16215_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/754_amaranthus_tricolor/thumbnail/4444686145_a159e16215_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

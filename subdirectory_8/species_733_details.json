@@ -1,0 +1,136 @@
+{
+    "id": 733,
+    "common_name": "shellplant",
+    "scientific_name": [
+        "Alpinia zerumbet"
+    ],
+    "other_name": [],
+    "family": "Zingiberaceae",
+    "origin": [
+        "Eastern Asia"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=733&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=733&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-pink",
+                "white-pink-yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "yellow-red",
+                "yellow",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaf",
+            "color": [
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "blooms",
+            "color": [
+                "orange"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=733&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White with yellow inside lips and red throat",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Shellplant (Alpinia zerumbet) is an amazing ornamental plants worthy of a spot in your garden. It's beautiful pink, white or yellow flowers are followed by stunning seedpods resembling either crinkled shells or the petals of a rose. Its lush green leaves add a lush tropical feel to any landscape. This tropical plant can be used for borders, mass plantings, or as an accent plant. It can also be used for pots or containers in areas where it can't survive in the ground due to cold temperatures. Shellplant is an incredibly versatile, easy to care for, and beautiful addition to any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/733_alpinia_zerumbet/og/50121588037_5c1e5c1272_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/733_alpinia_zerumbet/regular/50121588037_5c1e5c1272_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/733_alpinia_zerumbet/medium/50121588037_5c1e5c1272_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/733_alpinia_zerumbet/small/50121588037_5c1e5c1272_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/733_alpinia_zerumbet/thumbnail/50121588037_5c1e5c1272_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

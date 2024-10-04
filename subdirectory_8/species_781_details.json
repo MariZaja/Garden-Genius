@@ -1,0 +1,101 @@
+{
+    "id": 781,
+    "common_name": "shining blue star",
+    "scientific_name": [
+        "Amsonia illustris"
+    ],
+    "other_name": [],
+    "family": "Apocynaceae",
+    "origin": [
+        "Central United States"
+    ],
+    "type": "Shrub",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=781&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=781&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=781&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Light blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Shining blue star (Amsonia illustris) is an amazing plant species, with slender foliage and vibrantly colored flowers. It has delicate star-shaped flowers that shimmer and sparkle in the sunlight. Its finely textured, bright green foliage creates a light and airy backdrop for the blooms. It is incredibly easy to care for since it is drought tolerant and also prefers full sun to partial shade. It is also very low maintenance, withstanding harsh winters and minimal trimming. This lovely plant species adds a beautiful and luscious touch to any garden, creating an impressive and unusual display.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/781_amsonia_illustris/og/9200879238_416df5a6b3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/781_amsonia_illustris/regular/9200879238_416df5a6b3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/781_amsonia_illustris/medium/9200879238_416df5a6b3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/781_amsonia_illustris/small/9200879238_416df5a6b3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/781_amsonia_illustris/thumbnail/9200879238_416df5a6b3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

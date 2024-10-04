@@ -1,0 +1,132 @@
+{
+    "id": 762,
+    "common_name": "apple serviceberry",
+    "scientific_name": [
+        "Amelanchier grandiflora 'Princess Diana'"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "North America",
+        "Canada",
+        "United States"
+    ],
+    "type": "Tree",
+    "dimension": "15.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 15,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=762&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=762&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "10"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "white-pink-yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=762&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "orange"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Apple serviceberry (Amelanchier grandiflora 'Princess Diana') is a deciduous shrub prized for it's fragrant white flowers and delicious, round fruit. It's an easy-to-grow, ornamental shrub excellent for perennial borders, hedges and wildlife gardens. Its flowers spring from buds that open in early summer against a backdrop of dark green leaves that turn brilliant red in autumn. The flowers are followed by round serviceberries, red when immature and ripening to deeper purplish- blue in mid-summer. These sweet, delicious berries make excellent jellies, jams and pies. 'Princess Diana' has a dense, attractive growth habit and an increased disease resistance. It's an amazing plant that adds visual appeal, sweetness and sustenance to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/762_amelanchier_grandiflora_princess_diana/og/17077289459_f6d42089f0_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/762_amelanchier_grandiflora_princess_diana/regular/17077289459_f6d42089f0_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/762_amelanchier_grandiflora_princess_diana/medium/17077289459_f6d42089f0_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/762_amelanchier_grandiflora_princess_diana/small/17077289459_f6d42089f0_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/762_amelanchier_grandiflora_princess_diana/thumbnail/17077289459_f6d42089f0_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,121 @@
+{
+    "id": 776,
+    "common_name": "blue star",
+    "scientific_name": [
+        "Amsonia ciliata"
+    ],
+    "other_name": [],
+    "family": "Apocynaceae",
+    "origin": [
+        "Southeastern United States"
+    ],
+    "type": "Shrub",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=776&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=776&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=776&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Pale blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The blue star (Amsonia ciliata) is truly a sight to behold. This phenomenal plant is a little-known native to much of the United States and Upper Midwest, but its beauty is truly remarkable. In the springtime, bright blue star-shaped flowers line up in an elegant show along its wispy, grey-green foliage. These blooms last for weeks and pair wonderfully with other perennials for a breathtaking garden. Amsonia ciliata is a durable and reliable bloomer, resilient to harsh midwestern climate changes, and its low-maintenance requirements make it ideal for gardens old and new. Its stunning hues of blue will surely light up any flower bed.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/776_amsonia_ciliata/og/51999358276_6b74e6f59f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/776_amsonia_ciliata/regular/51999358276_6b74e6f59f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/776_amsonia_ciliata/medium/51999358276_6b74e6f59f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/776_amsonia_ciliata/small/51999358276_6b74e6f59f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/776_amsonia_ciliata/thumbnail/51999358276_6b74e6f59f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

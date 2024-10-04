@@ -1,0 +1,134 @@
+{
+    "id": 796,
+    "common_name": "blue bugloss",
+    "scientific_name": [
+        "Anchusa azurea"
+    ],
+    "other_name": [],
+    "family": "Boraginaceae",
+    "origin": [
+        "Europe",
+        "northern Africa",
+        "western Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=796&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=796&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue",
+                "blue-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "maroon",
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "September",
+        "October",
+        "May",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=796&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Deep blue to violet",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple",
+        "azure"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "azure"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The blue bugloss is an absolutely stunning flower that is sure to make an impression. Its attractive, deep-azure petals and white centres create an eye-catching contrast that is sure to impress. It also blooms continuously throughout the summer, making it an excellent addition to any garden. Growing 3-4 feet tall and even up to 5ft, the vivid colour of the blooms will draw pollinators from all around. The bugloss is native to much of Europe and is considered an easy-care perennial. Once established, it doesn't require much maintenance, allowing gardeners more time to enjoy the beauty of their creation.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/796_anchusa_azurea/og/51160919913_307408ffe1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/796_anchusa_azurea/regular/51160919913_307408ffe1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/796_anchusa_azurea/medium/51160919913_307408ffe1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/796_anchusa_azurea/small/51160919913_307408ffe1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/796_anchusa_azurea/thumbnail/51160919913_307408ffe1_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,118 @@
+{
+    "id": 719,
+    "common_name": "torch plant",
+    "scientific_name": [
+        "Aloe aristata"
+    ],
+    "other_name": [],
+    "family": "Asphodelaceae",
+    "origin": [
+        "South Africa"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "0.50 to 0.75 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 0.75,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Offsets",
+        "Division",
+        "Leaf Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=719&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=719&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-maroon"
+            ]
+        },
+        {
+            "part": "thorns",
+            "color": [
+                "red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "April",
+        "June",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 3,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=719&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Coral-orange",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The torch plant (Aloe aristata) is an amazing succulent that stands out for its unique rosette of saw-toothed, triangular leaves. Its spiky and sculptural appearance provides interesting texture in any garden setting and its subtle tones of light greens and blues offer a subtle hint of color. Best of all, torch plants require minimal maintenance, and if kept dry, they can last an impressive 5-10 years! Plus, these low-water plants are hardy to -5\u00b0F, so they can bring an amazing splash of color and vibrancy to the garden even in the coldest of climates.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/719_aloe_aristata/og/23962599232_fdc4070814_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/719_aloe_aristata/regular/23962599232_fdc4070814_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/719_aloe_aristata/medium/23962599232_fdc4070814_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/719_aloe_aristata/small/23962599232_fdc4070814_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/719_aloe_aristata/thumbnail/23962599232_fdc4070814_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

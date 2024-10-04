@@ -1,0 +1,107 @@
+{
+    "id": 711,
+    "common_name": "Amazonian elephant's ear",
+    "scientific_name": [
+        "Alocasia amazonica 'Polly'"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Brazil"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=711&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": "High",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "The Amazonian elephant\u2019s ear (Alocasia amazonica 'Polly') is a unique and stunning plant that demands attention! Its lush, velvety leaves are an eye-catching bright green, with prominent ivory undersides. The deep purple veins running through the foliage lend a striking contrast. With large and distinctive heart-shaped leaves resembling an elephant\u2019s ear, it establishes a striking presence in any room or garden. Its tall, glossy stems create a strikingly elegant look. No wonder it\u2019s the preferred choice of gardeners! Its easy to care for and its exotic beauty will never go out of style.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/og/pexels-photo-12419491.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/regular/pexels-photo-12419491.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/medium/pexels-photo-12419491.jpg",
+        "small_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/small/pexels-photo-12419491.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/thumbnail/pexels-photo-12419491.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

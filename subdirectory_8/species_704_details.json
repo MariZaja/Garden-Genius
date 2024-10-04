@@ -1,0 +1,120 @@
+{
+    "id": 704,
+    "common_name": "hazel alder",
+    "scientific_name": [
+        "Alnus incana subsp. rugosa"
+    ],
+    "other_name": [
+        "Tag Alder",
+        "Grey Alder",
+        "Hoary Alder",
+        "Mountain Alder",
+        "White Alder",
+        "Grey Alder",
+        "Hoary Alder",
+        "Mountain Alder",
+        "White Alder",
+        "Grey Alder",
+        "Hoary Alder"
+    ],
+    "family": "Betulaceae",
+    "origin": [
+        "Europe",
+        "Caucasus"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 60.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=704&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=704&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=704&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay Humus"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purplish-brown (male) and green (female)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hazel alder (Alnus incana subsp. rugosa) is an amazing plant species with a number of unique features. Its beautiful glossy and serrated foliage is dark green they turn a stunning reddish color in the fall. In addition its bark is an impressive grey with a texture that bears an attractive diamond pattern. Plus, this alder species is fast growing and tolerant of a variety of soils, prefer moist areas yet is also drought tolerant. Ultimately, hazel alder is an excellent addition to any landscape and will add beauty, texture, and color to any yard.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/704_alnus_incana_subsp_rugosa/og/Alnus_incana_subsp._rugosa_kz02.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/704_alnus_incana_subsp_rugosa/regular/Alnus_incana_subsp._rugosa_kz02.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/704_alnus_incana_subsp_rugosa/medium/Alnus_incana_subsp._rugosa_kz02.jpg",
+        "small_url": "https://perenual.com/storage/species_image/704_alnus_incana_subsp_rugosa/small/Alnus_incana_subsp._rugosa_kz02.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/704_alnus_incana_subsp_rugosa/thumbnail/Alnus_incana_subsp._rugosa_kz02.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

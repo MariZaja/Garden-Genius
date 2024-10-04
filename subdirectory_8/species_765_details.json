@@ -1,0 +1,134 @@
+{
+    "id": 765,
+    "common_name": "Nantucket serviceberry",
+    "scientific_name": [
+        "Amelanchier nantucketensis"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "Northeastern North America"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "4.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Air Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=765&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=765&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-white",
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=765&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Nantucket serviceberry (Amelanchier nantucketensis) is a wonderful species of plant, native to the northeast United States. It produces beautiful white blossoms in the spring and fragrant, edible berries in the early summer. The berries can be used to make jams, jellies and wines or eaten directly off the bush. Besides being delicious and attractive, this species is an important food source for many birds and animals. Nantucket serviceberry is also a great addition to any garden. Its foliage is handsome and its fall color is stunning. It's an easy plant to grow and is both drought-resistant and cold-hardy. With its beauty and bountiful benefits, the Nantucket serviceberry is definitely an amazing addition to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/765_amelanchier_nantucketensis/og/34321014605_093dcf6a34_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/765_amelanchier_nantucketensis/regular/34321014605_093dcf6a34_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/765_amelanchier_nantucketensis/medium/34321014605_093dcf6a34_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/765_amelanchier_nantucketensis/small/34321014605_093dcf6a34_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/765_amelanchier_nantucketensis/thumbnail/34321014605_093dcf6a34_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

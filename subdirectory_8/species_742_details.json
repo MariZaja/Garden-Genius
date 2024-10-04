@@ -1,0 +1,105 @@
+{
+    "id": 742,
+    "common_name": "lily of the Incas",
+    "scientific_name": [
+        "Alstroemeria 'Pacific Sunset Dark Pink'"
+    ],
+    "other_name": [],
+    "family": "Alstroemeriaceae",
+    "origin": [
+        "Peru"
+    ],
+    "type": "Bulb",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=742&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=742&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "Sunset",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=742&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Magenta",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Lily of the Incas (Alstroemeria 'Pacific Sunset Dark Pink') is an amazing flower species that offers a beautiful and fragrant addition to any garden or home. Its bright petals and arresting hues make for an eye-catching display, and its unique dark pink color strikes a gorgeous contrast against the green foliage. This variety of lily features a subtly sweet fragrance and is renowned for its long-lasting blooms, making it a beautiful, low-maintenance choice for gardens or bouquets. Its vivid petals are a lasting reminder of the beauty and vitality of the Peruvian Incas.",
+    "default_image": {
+        "license": 44,
+        "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "original_url": "https://perenual.com/storage/species_image/742_alstroemeria_pacific_sunset_dark_pink/og/0a854b252d2533d8fbd907fd371d9ebc493076b2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/742_alstroemeria_pacific_sunset_dark_pink/regular/0a854b252d2533d8fbd907fd371d9ebc493076b2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/742_alstroemeria_pacific_sunset_dark_pink/medium/0a854b252d2533d8fbd907fd371d9ebc493076b2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/742_alstroemeria_pacific_sunset_dark_pink/small/0a854b252d2533d8fbd907fd371d9ebc493076b2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/742_alstroemeria_pacific_sunset_dark_pink/thumbnail/0a854b252d2533d8fbd907fd371d9ebc493076b2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

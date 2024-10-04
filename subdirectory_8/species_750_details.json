@@ -1,0 +1,140 @@
+{
+    "id": 750,
+    "common_name": "yellowtuft",
+    "scientific_name": [
+        "Alyssum murale"
+    ],
+    "other_name": [],
+    "family": "Brassicaceae",
+    "origin": [
+        "Southeastern Europe"
+    ],
+    "type": "Shrub",
+    "dimension": "1.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=750&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=750&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=750&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Easy",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The vibrant yellowtuft, also known as Alyssum murale, is an amazing flower to look at and enjoy. It is a great addition to any garden and one of the most beautiful of the alyssum species. It blooms in the spring and has tall stems full of bright yellow flowers. Being an easy-maintenance flower and drought resistant, it is perfect for those who don't have a lot of time to spend on gardening. It's the perfect low-growing groundcover and will reward you with an explosion of blooms. Because of its hardiness, this lovely flower will come back year after year, bringing a spot of brilliance to your garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/750_alyssum_murale/og/35098400373_dcdb39285e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/750_alyssum_murale/regular/35098400373_dcdb39285e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/750_alyssum_murale/medium/35098400373_dcdb39285e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/750_alyssum_murale/small/35098400373_dcdb39285e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/750_alyssum_murale/thumbnail/35098400373_dcdb39285e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

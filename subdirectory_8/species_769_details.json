@@ -1,0 +1,131 @@
+{
+    "id": 769,
+    "common_name": "false indigo",
+    "scientific_name": [
+        "Amorpha fruticosa"
+    ],
+    "other_name": [
+        "Indigo Bush",
+        "False Indigo",
+        "Bastard Indigo"
+    ],
+    "family": "Fabaceae",
+    "origin": [
+        "Southern United States"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "4.00 to 12.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=769&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=769&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "yellow",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=769&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sand"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple with orange-yellow anthers",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "black"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "False Indigo is an amazing plant species! With its full, thin foliage and bright blue-purple flowers, it is sure to be an eye-catching addition to your garden. It is an incredibly hardy and low-maintenance shrub, thriving in full sun and in various soil types. False Indigo is also a great choice for erosion control, as it develops a deep, extensive root system. And, you'll be sure to attract butterflies, as its beautiful blooms are a favorite food source for these magical little creatures!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/769_amorpha_fruticosa/og/49955857006_e8281a019e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/769_amorpha_fruticosa/regular/49955857006_e8281a019e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/769_amorpha_fruticosa/medium/49955857006_e8281a019e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/769_amorpha_fruticosa/small/49955857006_e8281a019e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/769_amorpha_fruticosa/thumbnail/49955857006_e8281a019e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,150 @@
+{
+    "id": 717,
+    "common_name": "elephant's ear",
+    "scientific_name": [
+        "Alocasia 'Portora'"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "Sri Lanka",
+        "India",
+        "Bangladesh",
+        "Myanmar",
+        "Thailand",
+        "Cambodia",
+        "Laos",
+        "Vietnam",
+        "Malaysia",
+        "Indonesia"
+    ],
+    "type": "Bulb",
+    "dimension": "5.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=717&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=717&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "5-7",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green",
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "veins",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 3,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=717&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "The Elephant's Ear (Alocasia 'Portora') is an amazing ornamental plant for the garden. Its broad, deep-green, heart-shaped leaves have an iridescent quality that channels the beauty of an elephant's ears. Strikingly contrasting veins visibly contrast the lushness of this species, and further compliment its breathtaking silhouette. With good watering and care, this foliage plant can reach a height of 8-10 feet, making it perfect for larger garden spaces. Its bright ambiance will provide the perfect accent to any landscape and its hearty leaves will retain its vibrancy throughout any season.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/717_alocasia_portora/og/50513640218_140cd83c95_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/717_alocasia_portora/regular/50513640218_140cd83c95_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/717_alocasia_portora/medium/50513640218_140cd83c95_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/717_alocasia_portora/small/50513640218_140cd83c95_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/717_alocasia_portora/thumbnail/50513640218_140cd83c95_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

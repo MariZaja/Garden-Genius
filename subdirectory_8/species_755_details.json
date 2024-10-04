@@ -1,0 +1,99 @@
+{
+    "id": 755,
+    "common_name": "Joseph's coat",
+    "scientific_name": [
+        "Amaranthus tricolor (vegetable group)"
+    ],
+    "other_name": [],
+    "family": "Amaranthaceae",
+    "origin": [
+        "India",
+        "China",
+        "Japan",
+        "South America",
+        "Africa"
+    ],
+    "type": "Vegetable",
+    "dimension": "1.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=755&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=755&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "",
+        "value": ""
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=755&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Joseph's Coat (Amaranthus tricolor) is a kaleidoscopic vegetable with an undeniable wow factor. This annual ornamental plant produces astonishingly vibrant three-toned foliage, a colourful mix of green, pink, purple and red making it a must have for gardeners who want an eye-catching show of colour. Joseph's coat is also easy to grow, tolerating many soil and water conditions and prefers warm weather. The plant can grow to a significant size, adding a lush decorative backdrop to any garden. Not only admirable in the landscape, Joseph's coat packs a nutritious punch and is edible. Add the colorful leaves to salads, soups and stir fries; they are high in vitamins, minerals and antioxidants.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

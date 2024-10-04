@@ -1,0 +1,109 @@
+{
+    "id": 786,
+    "common_name": "blue star",
+    "scientific_name": [
+        "Amsonia tabernaemontana 'Montana'"
+    ],
+    "other_name": [],
+    "family": "Apocynaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Shrub",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=786&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=786&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=786&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Easy",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow",
+        "tan"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Blue Star (Amsonia tabernaemoontana 'Montana') is an amazing perennial plant species! It produces light blue blooms throughout the growing season with its blue-green foliage radiating brilliance. It is both a low-maintenance and fast-growing species, reaching heights of up to three feet and preferring full to partial sun. Its remarkable flowers are attractive to both pollinators as well as hummingbirds. With its strong, long-lasting woody stems, it also serves as a great addition to any garden border or perennial garden. Make sure you don\u2019t miss out on this amazing plant!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/786_amsonia_tabernaemontana_montana/og/Amsonia_tabernaemontana_Blue_Ice_0zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/786_amsonia_tabernaemontana_montana/regular/Amsonia_tabernaemontana_Blue_Ice_0zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/786_amsonia_tabernaemontana_montana/medium/Amsonia_tabernaemontana_Blue_Ice_0zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/786_amsonia_tabernaemontana_montana/small/Amsonia_tabernaemontana_Blue_Ice_0zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/786_amsonia_tabernaemontana_montana/thumbnail/Amsonia_tabernaemontana_Blue_Ice_0zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

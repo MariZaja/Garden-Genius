@@ -1,0 +1,102 @@
+{
+    "id": 712,
+    "common_name": "elephant's ear",
+    "scientific_name": [
+        "Alocasia 'Frydek'"
+    ],
+    "other_name": [],
+    "family": "Araceae",
+    "origin": [
+        "Czech Republic"
+    ],
+    "type": "Bulb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=712&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=712&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "5-7",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=712&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Light green spathe with creamy white spadix",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "The elephant's ear (Alocasia 'Frydek') is a truly amazing addition to any garden or outdoor area. Its large, eye-catching, veined foliage is a unique deep green and its easy-to-manage size means it can fit almost anywhere. Furthermore, its glossy leaves are sure to be a pleasure to look at under the sun. On top of its exotic beauty, this plant is known to attract pollinators such as butterflies and hummingbirds, making it a great choice for anyone looking for an addition that adds beauty and liven up the design. Adding to its appeal, this plant is easy to care for and requires minimal attention. With its showstopping beauty and minimal maintenance, the elephant's ear is sure to be a beautiful addition to any outdoor space.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/og/Alocasia_micholitziana.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/regular/Alocasia_micholitziana.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/medium/Alocasia_micholitziana.jpg",
+        "small_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/small/Alocasia_micholitziana.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/712_alocasia_frydek/thumbnail/Alocasia_micholitziana.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

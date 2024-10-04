@@ -1,0 +1,106 @@
+{
+    "id": 730,
+    "common_name": "sweet almond bush",
+    "scientific_name": [
+        "Aloysia virgata"
+    ],
+    "other_name": [],
+    "family": "Verbenaceae",
+    "origin": [
+        "South America"
+    ],
+    "type": "Shrub",
+    "dimension": "5.00 to 15.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=730&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=730&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=730&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The sweet almond bush (Aloysia virgata) is an amazing plant species with plenty of uses. It has a delicate, sweet scent and beautiful white and pink blossoms that attract butterflies and hummingbirds. Its foliage is an elegant, bright green and it is generally low-maintenance and drought-resistant. It can be used medicinally as an antifungal, decongestant, and for skin care. Its leaves can also be used as a condiment due to its fragrant flavor, and its oil can be used for cooking and aromatherapy. All in all, sweet almond bush is a perfect addition to any garden!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/730_aloysia_virgata/og/52719161032_8ddc25c296_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/730_aloysia_virgata/regular/52719161032_8ddc25c296_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/730_aloysia_virgata/medium/52719161032_8ddc25c296_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/730_aloysia_virgata/small/52719161032_8ddc25c296_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/730_aloysia_virgata/thumbnail/52719161032_8ddc25c296_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
