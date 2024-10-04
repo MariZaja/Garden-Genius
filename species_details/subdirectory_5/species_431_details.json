@@ -1,0 +1,121 @@
+{
+    "id": 431,
+    "common_name": "black cat claw",
+    "scientific_name": [
+        "Acacia redolens"
+    ],
+    "other_name": [],
+    "family": "Fabaceae",
+    "origin": [
+        "Western Australia"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "3.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=431&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=431&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=431&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green",
+        "red"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Black Cat Claw, or Acacia redolens, is an amazing plant species particularly suited to many climates. It is fast-growing and produces beautiful, delicate yellow flowers during its blooming season. Its most unique feature is its long, narrow thorns, which give it its name. The Cat\u2019s Claw thorns also serve a useful purpose, providing protection from injury and animals. The foliage provides a lush green canopy that is sure to please any gardener. This plant is an ideal choice for anyone wanting an attractive and hardy addition to their garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/431_acacia_redolens/og/40378248193_eb3db1b183_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/431_acacia_redolens/regular/40378248193_eb3db1b183_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/431_acacia_redolens/medium/40378248193_eb3db1b183_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/431_acacia_redolens/small/40378248193_eb3db1b183_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/431_acacia_redolens/thumbnail/40378248193_eb3db1b183_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

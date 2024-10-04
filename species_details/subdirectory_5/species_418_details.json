@@ -1,0 +1,142 @@
+{
+    "id": 418,
+    "common_name": "grand fir",
+    "scientific_name": [
+        "Abies grandis"
+    ],
+    "other_name": [
+        "Lowland Fir"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Northwestern United States"
+    ],
+    "type": "Needled evergreen",
+    "dimension": "100.00 to 250.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 100,
+        "max_value": 250,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=418&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=418&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "February",
+        "March"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=418&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Beetles",
+        "weevils",
+        " Caterpillar",
+        "cutworm",
+        " Diptera - true flies",
+        " Mistletoe",
+        " Root rot"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The grand fir (Abies grandis) is an amazing species of tree that is known for its unique beauty and wide range of uses. Its deep green needles provide a rich shade and contrast to gardens and yards, making it an ideal ornamental species. Its pleasant scent can fill the air for miles around, making the world feel a little more fresh and beautiful. Grand fir has also been used for making furniture, cabinets, and specialty wood items. This versatile tree is also quite durable and drought tolerant, making it a great choice for environmental sustainability. If you're looking for a tree that's as beautiful as it is useful, grand fir is a great option.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/418_abies_grandis/og/49215359123_fd53ec05f4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/418_abies_grandis/regular/49215359123_fd53ec05f4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/418_abies_grandis/medium/49215359123_fd53ec05f4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/418_abies_grandis/small/49215359123_fd53ec05f4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/418_abies_grandis/thumbnail/49215359123_fd53ec05f4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

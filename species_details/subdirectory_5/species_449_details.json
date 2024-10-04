@@ -1,0 +1,120 @@
+{
+    "id": 449,
+    "common_name": "cappadocian maple",
+    "scientific_name": [
+        "Acer cappadocicum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Caucasus",
+        "Asia Minor",
+        "northern India"
+    ],
+    "type": "Tree",
+    "dimension": "30.00 to 35.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 30,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=449&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=449&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=449&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Cappadocian Maple (Acer cappadocicum) is a truly remarkable tree with amazing features. Its rare, unique form and delicate foliage make it an enthralling sight throughout the year. It is native to Turkey, and its foliage erupts into vivid red and orange displays in autumn, contrasting beautifully against its distinctive, deeply-ridged bark. Its relatively compact size and easy maintenance make it suitable for a variety of locations - perfect for those who don\u2019t have a large garden but still want to enjoy the beauty of this majestic tree. Its resistance to disease, air pollution and quick growth rate mean it's a great choice for a low-maintenance, long-term feature in any outdoor space.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/449_acer_cappadocicum/og/5142300636_bf566b49f2_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/449_acer_cappadocicum/regular/5142300636_bf566b49f2_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/449_acer_cappadocicum/medium/5142300636_bf566b49f2_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/449_acer_cappadocicum/small/5142300636_bf566b49f2_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/449_acer_cappadocicum/thumbnail/5142300636_bf566b49f2_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

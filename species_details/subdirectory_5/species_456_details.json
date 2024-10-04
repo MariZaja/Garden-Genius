@@ -1,0 +1,130 @@
+{
+    "id": 456,
+    "common_name": "Montpellier maple",
+    "scientific_name": [
+        "Acer monspessulanum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Northern Africa",
+        "western Asia",
+        "Europe"
+    ],
+    "type": "Tree",
+    "dimension": "18.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 18,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=456&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=456&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=456&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Montpelier Maple is an amazing plant species with many unique features. Its lush, green foliage enhances any garden, while its striking shape and striking orange-red leaves in the fall provide incredible visual interest. This maple can reach up to thirty feet in height and is known for its shallow root system, which helps it thrive in areas of low rainfall. It\u2019s also hardy and resistant to most pests and diseases, making it an ideal choice for any landscape. Whether you\u2019re looking for an easy-to-care for plant or a striking addition to your yard, the Montpelier Maple will exceed expectations.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/456_acer_monspessulanum/og/37118296615_63394a793d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/456_acer_monspessulanum/regular/37118296615_63394a793d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/456_acer_monspessulanum/medium/37118296615_63394a793d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/456_acer_monspessulanum/small/37118296615_63394a793d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/456_acer_monspessulanum/thumbnail/37118296615_63394a793d_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

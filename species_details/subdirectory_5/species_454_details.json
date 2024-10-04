@@ -1,0 +1,126 @@
+{
+    "id": 454,
+    "common_name": "Freeman maple",
+    "scientific_name": [
+        "Acer freemanii 'Scarsen' SCARLET SENTINEL"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 45.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 45,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Root Division"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=454&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=454&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "feet",
+        "value": "4"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "petiole",
+            "color": [
+                "light-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=454&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Freeman Maple, Acer freemanii 'Scarsen' Scarlet Sentinel, is an amazing tree with exceptional beauty. Spectacularly vibrant, its leaves flourish in shades of vibrant red and deep purple in the fall - a showstopping display of colors! All year round, the Scarlet Sentinel was blessed with a symmetrical canopy featuring bright green leaves, which turn to a yellow-amber color in the autumn. The Freeman Maple is extremely adaptable, tolerant of tough weather conditions, and low maintenance. Its fast growth rate allows it to offer swift coverage and is great for a privacy screen or shade tree. Its adaptability, vibrant colors, and fast growth make Freeman Maple an amazing tree!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/454_acer_freemanii_scarsen_scarlet_sentinel/og/46333073481_5ae76108c6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/454_acer_freemanii_scarsen_scarlet_sentinel/regular/46333073481_5ae76108c6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/454_acer_freemanii_scarsen_scarlet_sentinel/medium/46333073481_5ae76108c6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/454_acer_freemanii_scarsen_scarlet_sentinel/small/46333073481_5ae76108c6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/454_acer_freemanii_scarsen_scarlet_sentinel/thumbnail/46333073481_5ae76108c6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

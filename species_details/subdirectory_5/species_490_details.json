@@ -1,0 +1,116 @@
+{
+    "id": 490,
+    "common_name": "yarrow",
+    "scientific_name": [
+        "Achillea 'Moonshine'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Germany",
+        "Netherlands",
+        "United Kingdom",
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Root Cutting"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=490&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=490&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "May",
+        "June",
+        "July",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=490&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Bright yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Achillea 'Moonshine' yarrow is an amazing plant with a unique and attractive bloom. Its bright yellow flowers stand out beautifully against its green foliage, with petals that look just like daisies. Yarrow prefers full sun and tolerates drought, making it an ideal choice for those who don't have a lot of time to care for their plants. It's also resistant to deer, rabbits, and other small wildlife, meaning you won't have to worry about them invading your garden. On top of all that, it has a long bloom period that can last from mid-spring to late summer. With this gorgeous perennial, your garden will look amazing all season long.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/490_achillea_moonshine/og/6895727692_a114904212_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/490_achillea_moonshine/regular/6895727692_a114904212_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/490_achillea_moonshine/medium/6895727692_a114904212_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/490_achillea_moonshine/small/6895727692_a114904212_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/490_achillea_moonshine/thumbnail/6895727692_a114904212_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

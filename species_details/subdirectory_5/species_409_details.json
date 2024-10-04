@@ -1,0 +1,113 @@
+{
+    "id": 409,
+    "common_name": "white forsythia",
+    "scientific_name": [
+        "Abeliophyllum distichum"
+    ],
+    "other_name": [],
+    "family": "Oleaceae",
+    "origin": [
+        "Korea"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=409&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=409&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "twigs",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=409&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White, sometimes with a pink tinge",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The white forsythia (Abeliophyllum distichum) is an amazing plant species, boasting stunning white blossoms in early spring and vibrant light green leaves which add to its captivating beauty. This compact, deciduous shrub is easy to grow, and can fit even in small gardens. It is suitable for gardens in almost any climate and needs very little maintenance to thrive. Thanks to it's fragrant blossoms, once in bloom, it brings a whole lot of beauty and charm to any garden and attracts bees and butterflies too. White forsythia is indeed a spectacular ornamental addition to your outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/409_abeliophyllum_distichum/og/25532100204_8e1e352054_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/409_abeliophyllum_distichum/regular/25532100204_8e1e352054_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/409_abeliophyllum_distichum/medium/25532100204_8e1e352054_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/409_abeliophyllum_distichum/small/25532100204_8e1e352054_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/409_abeliophyllum_distichum/thumbnail/25532100204_8e1e352054_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

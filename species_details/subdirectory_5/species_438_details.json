@@ -1,0 +1,106 @@
+{
+    "id": 438,
+    "common_name": "bear's breeches",
+    "scientific_name": [
+        "Acanthus mollis 'Oak Leaf'"
+    ],
+    "other_name": [],
+    "family": "Acanthaceae",
+    "origin": [
+        "Mediterranean region",
+        "Southern Europe",
+        "North Africa",
+        "Western Asia"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=438&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=438&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part sun/part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=438&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White and lilac",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bear's breeches (Acanthus mollis 'Oak Leaf') is an amazing species of plant to grow in your garden. Its unique and sculptural foliage has prominent lobed leaves which form an attractive rosette at the base of the plant. The tall spires of beautiful, white hooded flowers form in the summer months and contrast nicely with the deep green foliage throughout the season. Due to its easy maintenance and hardiness, this plant is widely appreciated for its good looks. Its interesting shape and long season of interest make it an ideal choice for a variety of special garden settings. Whether it's used in a formal or informal garden setting, this plant adds an eye-catching structure to the garden making it an amazing species to grow.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/438_acanthus_mollis_oak_leaf/og/AcanthusmollisPalatineHill.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/438_acanthus_mollis_oak_leaf/regular/AcanthusmollisPalatineHill.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/438_acanthus_mollis_oak_leaf/medium/AcanthusmollisPalatineHill.jpg",
+        "small_url": "https://perenual.com/storage/species_image/438_acanthus_mollis_oak_leaf/small/AcanthusmollisPalatineHill.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/438_acanthus_mollis_oak_leaf/thumbnail/AcanthusmollisPalatineHill.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

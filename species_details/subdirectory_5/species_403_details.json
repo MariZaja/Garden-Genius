@@ -1,0 +1,114 @@
+{
+    "id": 403,
+    "common_name": "glossy abelia",
+    "scientific_name": [
+        "Abelia grandiflora 'MINDUO1' SUNNY ANNIVERSARY"
+    ],
+    "other_name": [],
+    "family": "Caprifoliaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=403&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=403&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=403&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink with yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Glossy abelia (Abelia grandiflora 'MINDUO1' Sunny Anniversary) is an amazing plant. A low-maintenance evergreen shrub, it grows to heights of up to 6 feet tall. Its foliage has a glossy finish, and its clusters of small, star-shaped white flowers bloom from midsummer to fall. This plant is heat and drought tolerant, making it an ideal choice for homeowners who need a fuss-free shrub for their garden. Other highlights of this plant include fragrant foliage and its ability to attract pollinators, such as bees, butterflies and hummingbirds. Most of all, it requires little maintenance, and its beautiful foliage and stunning flower clusters make it an eye-catching addition to any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/403_abelia_grandiflora_minduo1_sunny_anniversary/og/800px-Abelia_X_Grandiflora_6.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/403_abelia_grandiflora_minduo1_sunny_anniversary/regular/800px-Abelia_X_Grandiflora_6.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/403_abelia_grandiflora_minduo1_sunny_anniversary/medium/800px-Abelia_X_Grandiflora_6.jpg",
+        "small_url": "https://perenual.com/storage/species_image/403_abelia_grandiflora_minduo1_sunny_anniversary/small/800px-Abelia_X_Grandiflora_6.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/403_abelia_grandiflora_minduo1_sunny_anniversary/thumbnail/800px-Abelia_X_Grandiflora_6.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

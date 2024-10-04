@@ -1,0 +1,116 @@
+{
+    "id": 466,
+    "common_name": "silver maple",
+    "scientific_name": [
+        "Acer saccharinum 'Silver Queen'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 50.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=466&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=466&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-5",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=466&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Clay",
+        " Sand",
+        " Loam",
+        " Humus Enriched"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "silver",
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Silver Queen Maple is an amazing species of tree that stands out with its stunning silvery foliage. Its silvery-green leaves, resembling a shimmering wave, emerge in the spring and transform into a vibrant yellow and orange during fall. This species is known for its rapid growth rate, easily reaching heights of 40 to 70 feet. These trees are hardy and thrive in a variety of soils and climates, making them a great addition to any landscape. With its bright silver foliage and easy care, the Silver Queen Maple is an excellent choice for any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/466_acer_saccharinum_silver_queen/og/Acer_Saccharinum_27Laciniatum27_JPG2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/466_acer_saccharinum_silver_queen/regular/Acer_Saccharinum_27Laciniatum27_JPG2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/466_acer_saccharinum_silver_queen/medium/Acer_Saccharinum_27Laciniatum27_JPG2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/466_acer_saccharinum_silver_queen/small/Acer_Saccharinum_27Laciniatum27_JPG2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/466_acer_saccharinum_silver_queen/thumbnail/Acer_Saccharinum_27Laciniatum27_JPG2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

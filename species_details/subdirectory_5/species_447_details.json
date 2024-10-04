@@ -1,0 +1,147 @@
+{
+    "id": 447,
+    "common_name": "hedge maple",
+    "scientific_name": [
+        "Acer campestre 'Postelense'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Europe",
+        "western Asia"
+    ],
+    "type": "Tree",
+    "dimension": "25.00 to 35.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 25,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=447&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=447&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "twig",
+            "color": [
+                "gray"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown",
+                "brown-green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=447&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellowish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Hedge maple (Acer campestre 'Postelense') is an amazing plant species that is perfect for gardeners looking to create a hedge along their property boundaries. With its dense, evenly spaced foliage and upright growth habit, it can be planted in rows to provide a natural and attractive enclosure. Its attractive yellow-green leaves turn deep reddish-purple hue in the fall. Its roots are not invasive, and it can actually be planted close to pavements and patios without risk of damage. Its compact size also makes it ideal for small gardens and tight spaces. This hardy tree adds year-round interest to the garden and is an outstanding choice for adding structure, color and texture to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/447_acer_campestre_postelense/og/50572781108_8639705105_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/447_acer_campestre_postelense/regular/50572781108_8639705105_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/447_acer_campestre_postelense/medium/50572781108_8639705105_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/447_acer_campestre_postelense/small/50572781108_8639705105_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/447_acer_campestre_postelense/thumbnail/50572781108_8639705105_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

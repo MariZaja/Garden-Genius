@@ -1,0 +1,139 @@
+{
+    "id": 413,
+    "common_name": "musk mallow",
+    "scientific_name": [
+        "Abelmoschus moschatus"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Tropical Asia"
+    ],
+    "type": "Herb",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=413&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=413&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "red",
+                "pink"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "pistil",
+            "color": [
+                "yellow-pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "May",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=413&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow to pink to orange-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Musk mallow (Abelmoschus moschatus) is an amazing plant. It is a tall, herbaceous annual with attractive flowers, growing up to two metres in height and bearing large, hibiscus-like blooms in shades of pink and purple. It has a distinctive, musky scent, and its flowers are highly attractive to bees and butterflies. It is an excellent choice for Borders, Containers and Cottage Gardens, with a wonderfully long flowering period. It is also an ideal cut flower and is an important source of food in some parts of the world. Overall, its fast-growing, easy-to-maintain habit and its beautiful flowers make musk mallow an ideal choice for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/413_abelmoschus_moschatus/og/51850304040_56db43daec_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/413_abelmoschus_moschatus/regular/51850304040_56db43daec_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/413_abelmoschus_moschatus/medium/51850304040_56db43daec_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/413_abelmoschus_moschatus/small/51850304040_56db43daec_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/413_abelmoschus_moschatus/thumbnail/51850304040_56db43daec_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

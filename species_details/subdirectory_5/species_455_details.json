@@ -1,0 +1,131 @@
+{
+    "id": 455,
+    "common_name": "full moon maple",
+    "scientific_name": [
+        "Acer japonicum 'O-isami'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Tree",
+    "dimension": "20.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=455&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=455&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "red-orange",
+                "green-yellow-green",
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red-brown",
+                "brown",
+                "green"
+            ]
+        },
+        {
+            "part": "petiole",
+            "color": [
+                "pink"
+            ]
+        },
+        {
+            "part": "seeds",
+            "color": [
+                "pink"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=455&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Purplish-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Full Moon Maple (Acer japonicum 'O-isami') is an amazing tree with a unique beauty. Its large leaves feature serrated edges and greyish fur underneath its deep green upper sides. As the sun shines, the leaves shimmer with a golden hue that appears to be painted golden hues with a brush. In fall, its foliage displays outstanding hues of red, yellow and orange. It is also noteworthy for its unique and attractive yellow bark that peels off in patches for a stunning display. Its strong branches make it a perfect shade tree, and its upright growth pattern makes it an excellent specimen or feature tree. It is well suited for landscaping applications and urban yards, as well as beachfront areas. It can tolerate a variety of soil conditions and needs only moderate water and fertilizer. The Full Moon Maple truly is a magnificent tree.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/455_acer_japonicum_o-isami/og/40091527453_06fde57c30_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/455_acer_japonicum_o-isami/regular/40091527453_06fde57c30_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/455_acer_japonicum_o-isami/medium/40091527453_06fde57c30_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/455_acer_japonicum_o-isami/small/40091527453_06fde57c30_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/455_acer_japonicum_o-isami/thumbnail/40091527453_06fde57c30_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

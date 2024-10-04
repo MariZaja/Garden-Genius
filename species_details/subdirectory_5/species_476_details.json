@@ -1,0 +1,126 @@
+{
+    "id": 476,
+    "common_name": "fern-leaf yarrow",
+    "scientific_name": [
+        "Achillea filipendulina 'Gold Coin Dwarf'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Central and Eastern Europe",
+        "Western Asia",
+        "North Africa",
+        "North America"
+    ],
+    "type": "Herb",
+    "dimension": "0.75 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=476&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=476&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=476&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Easy",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Fern-leaf yarrow (Achillea filipendulina 'Gold Coin Dwarf') is an amazing hardy perennial with striking, fan-shaped foliage. Bright golden-yellow flowers adorn the upright stems from spring to early summer, providing vibrant color to the garden. This sun-loving, drought-tolerant variety requires very little maintenance and will thrive in average-to-poor soil. Its evergreen foliage won't need replacing each year, meaning you can enjoy its unique beauty for years to come. It's the perfect choice for adding texture and interest to low-maintenance garden beds and containers. Fern-leaf yarrow's unique characteristics make it a truly amazing plant.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/476_achillea_filipendulina_gold_coin_dwarf/og/2726528020_33fe12b8be_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/476_achillea_filipendulina_gold_coin_dwarf/regular/2726528020_33fe12b8be_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/476_achillea_filipendulina_gold_coin_dwarf/medium/2726528020_33fe12b8be_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/476_achillea_filipendulina_gold_coin_dwarf/small/2726528020_33fe12b8be_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/476_achillea_filipendulina_gold_coin_dwarf/thumbnail/2726528020_33fe12b8be_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,103 @@
+{
+    "id": 471,
+    "common_name": "yarrow",
+    "scientific_name": [
+        "Achillea 'Anblo' ANTHEA"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Germany"
+    ],
+    "type": "Herb",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=471&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=471&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=471&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Light yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Achillea 'Anblo' ANTHEA, or yarrow, is an incredibly versatile, easy-to-grow plant. It's silvery-green foliage and bright white flowers make it a great addition to any garden. It's also a great companion plant, helping other plants to deter garden pests. Plus, yarrow can be used in natural medicine. Its leaves and flowers can help treat animal and human ailments, such as colds, fever, and diarrhea. Its flowers are also a great source of food for pollinators like bees, butterflies, and other beneficial insects. Yarrow is an amazing, hardy plant that will bring beauty and life to any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/471_achillea_anblo_anthea/og/Achillea_-_CivanperC3A7emi_01.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/471_achillea_anblo_anthea/regular/Achillea_-_CivanperC3A7emi_01.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/471_achillea_anblo_anthea/medium/Achillea_-_CivanperC3A7emi_01.jpg",
+        "small_url": "https://perenual.com/storage/species_image/471_achillea_anblo_anthea/small/Achillea_-_CivanperC3A7emi_01.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/471_achillea_anblo_anthea/thumbnail/Achillea_-_CivanperC3A7emi_01.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

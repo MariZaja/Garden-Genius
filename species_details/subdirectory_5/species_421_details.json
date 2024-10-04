@@ -1,0 +1,128 @@
+{
+    "id": 421,
+    "common_name": "Caucasian fir",
+    "scientific_name": [
+        "Abies nordmanniana"
+    ],
+    "other_name": [],
+    "family": "Pinaceae",
+    "origin": [
+        "Northeastern Turkey",
+        "northern Iran",
+        "Caucasus"
+    ],
+    "type": "Needled evergreen",
+    "dimension": "35.00 to 50.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 35,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=421&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=421&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown",
+                "gray-brown",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=421&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Caucasian fir is amazingly impressive. It is a large evergreen conifer tree native to the Caucasus Mountains, usually reaching a height of 35-45 meters (115-150 feet). It has a tall, straight trunk and a dense, roundish canopy of branches covered in short, sharp needles. The tree is notable for its incredibly tough wood and its outstanding resistance to disease and pests. Native to a range of climates from extremely cold and snowy to mild and temperate, the Caucasian fir is ideally adaptable and hardy. It\u2019s also extremely fast-growing and can reach a mature height within six to seven years. There\u2019s a reason why it\u2019s been used as a Christmas tree for centuries!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/421_abies_nordmanniana/og/26749005295_dc0e4578c8_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/421_abies_nordmanniana/regular/26749005295_dc0e4578c8_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/421_abies_nordmanniana/medium/26749005295_dc0e4578c8_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/421_abies_nordmanniana/small/26749005295_dc0e4578c8_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/421_abies_nordmanniana/thumbnail/26749005295_dc0e4578c8_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

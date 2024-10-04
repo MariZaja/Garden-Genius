@@ -1,0 +1,103 @@
+{
+    "id": 401,
+    "common_name": "glossy abelia",
+    "scientific_name": [
+        "Abelia grandiflora 'Hopleys' MISS LEMON"
+    ],
+    "other_name": [],
+    "family": "Caprifoliaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Stem Propagation",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=401&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=401&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=401&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Light pink to white or lilac",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Glossy Abelia (Abelia Grandiflora 'Hopleys' Miss Lemon) is an amazing plant species that has a lot to offer. It boasts glossy green leaves, beautiful white flowers and an exceptionally long blooming period. It can also withstand heat and humidity, making it perfect for growing in many climates. Its easy care also makes it a great choice for gardeners of all levels. The uniquely bright yellow color of its variegated foliage adds both depth and dimension to the garden and its fast growing habit means you will be enjoying it in no time!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/401_abelia_grandiflora_hopleys_miss_lemon/og/24864929776_d7cf2968b6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/401_abelia_grandiflora_hopleys_miss_lemon/regular/24864929776_d7cf2968b6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/401_abelia_grandiflora_hopleys_miss_lemon/medium/24864929776_d7cf2968b6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/401_abelia_grandiflora_hopleys_miss_lemon/small/24864929776_d7cf2968b6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/401_abelia_grandiflora_hopleys_miss_lemon/thumbnail/24864929776_d7cf2968b6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 424,
+    "common_name": "Spanish fir",
+    "scientific_name": [
+        "Abies pinsapo 'Horstmann'"
+    ],
+    "other_name": [],
+    "family": "Pinaceae",
+    "origin": [
+        "Spain"
+    ],
+    "type": "Needled evergreen",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=424&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=424&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=424&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Spanish fir (Abies pinsapo 'Horstmann') is an amazing species of tree, native to the mountainous regions of Southern Spain. Its dense foliage of graceful, dark-green needles provides a striking backdrop to any setting. Its slower growth rate make it an ideal fit for gardens or parks with limited space. It is also highly resistant to pests, meaning it will stay healthy and vibrant with minimal care. Its rich, orange-brown bark provides further aesthetic appeal. The Spanish fir is one of the toughest conifers available and is well-suited to difficult growing conditions, making it a great choice for gardeners with challenging landscapes.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/424_abies_pinsapo_horstmann/og/1508px-Abies_pinsapo_27Horstmann27_-_Oregon_Garden_-_Silverton2C_Oregon_-_DSC00267.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/424_abies_pinsapo_horstmann/regular/1508px-Abies_pinsapo_27Horstmann27_-_Oregon_Garden_-_Silverton2C_Oregon_-_DSC00267.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/424_abies_pinsapo_horstmann/medium/1508px-Abies_pinsapo_27Horstmann27_-_Oregon_Garden_-_Silverton2C_Oregon_-_DSC00267.jpg",
+        "small_url": "https://perenual.com/storage/species_image/424_abies_pinsapo_horstmann/small/1508px-Abies_pinsapo_27Horstmann27_-_Oregon_Garden_-_Silverton2C_Oregon_-_DSC00267.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/424_abies_pinsapo_horstmann/thumbnail/1508px-Abies_pinsapo_27Horstmann27_-_Oregon_Garden_-_Silverton2C_Oregon_-_DSC00267.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,132 @@
+{
+    "id": 497,
+    "common_name": "yarrow",
+    "scientific_name": [
+        "Achillea (Summer Pastels Group)"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Europe",
+        "North Africa",
+        "Western Asia",
+        "North America"
+    ],
+    "type": "Herb",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=497&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=497&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "white-yellow"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=497&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Wide range of pastel colors",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "pink",
+        "peach"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Yarrow (Achillea (Summer Pastels Group)) is an amazing perennial wildflower. Its cheery, bright pink, yellow, lavender, and peach flowers bring color to gardens throughout summer and into the fall. Its foliage is low-growing, feathery and finely-cut. Yarrow is easy to care for and thrives in sunny spots and is highly drought tolerant. Not only is it ornamental, it is also beneficial to pollinators like butterflies and bees. Its aroma can help calm by releasing tension, reducing inflammation, and deepening sleep as well. Yarrow is an amazing and versatile wildflower perfect for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/497_achillea_summer_pastels_group/og/52382084735_177f5783b5_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/497_achillea_summer_pastels_group/regular/52382084735_177f5783b5_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/497_achillea_summer_pastels_group/medium/52382084735_177f5783b5_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/497_achillea_summer_pastels_group/small/52382084735_177f5783b5_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/497_achillea_summer_pastels_group/thumbnail/52382084735_177f5783b5_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,129 @@
+{
+    "id": 430,
+    "common_name": "koa",
+    "scientific_name": [
+        "Acacia koa"
+    ],
+    "other_name": [],
+    "family": "Fabaceae",
+    "origin": [
+        "Hawaii"
+    ],
+    "type": "Tree",
+    "dimension": "50.00 to 80.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 50,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=430&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=430&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "6"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "gray"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "silver-gray"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "silver-gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=430&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "black"
+    ],
+    "harvest_season": null,
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Koa (Acacia koa) is an amazing Hawaiian tree species that is known for its beautiful and unique appearance. Grown for its dark green foliage and sweetly scented yellow flowers, Koa is a highly valued species that can be found throughout the Hawaiian Islands. Its wood is known for its deep, warm tones and is often used in furniture, musical instruments and woodworking. Its wood is also highly resilient, rot-resistant and fire resistant, making it a great choice for outdoor use and landscaping. Koa is an incredibly versatile species that adds unique character to any location and is a must-have in any Hawaiian garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/430_acacia_koa/og/52457570805_4edbb5b5c3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/430_acacia_koa/regular/52457570805_4edbb5b5c3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/430_acacia_koa/medium/52457570805_4edbb5b5c3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/430_acacia_koa/small/52457570805_4edbb5b5c3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/430_acacia_koa/thumbnail/52457570805_4edbb5b5c3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

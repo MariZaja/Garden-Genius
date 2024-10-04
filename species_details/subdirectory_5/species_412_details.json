@@ -1,0 +1,140 @@
+{
+    "id": 412,
+    "common_name": "sunset huskmallow",
+    "scientific_name": [
+        "Abelmoschus manihot"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Southeastern Asia"
+    ],
+    "type": "Herb",
+    "dimension": "4.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Division",
+        "Layering Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=412&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=412&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "Sunset",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "pistils",
+            "color": [
+                "red-yellow"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "pistil",
+            "color": [
+                "yellow-red"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=412&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pale yellow with maroon eye",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Sunset Huskmallow (Abelmoschus manihot) is an amazing plant species! This fast-growing, tropical perennial produces beautiful orange-yellow flowers that turn a deeper orange shade in the evenings. Its rich foliage provides a lush backdrop and its dye-like flowers are hardy and long-lasting. Even better, Sunset Huskmallow is easy to care for and can tolerate a wide variety of soil types and climates. With its low-maintenance nature, bright blooms, and vibrant foliage, Sunset Huskmallow is a fantastic addition to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/412_abelmoschus_manihot/og/14884640072_2e21234175_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/412_abelmoschus_manihot/regular/14884640072_2e21234175_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/412_abelmoschus_manihot/medium/14884640072_2e21234175_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/412_abelmoschus_manihot/small/14884640072_2e21234175_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/412_abelmoschus_manihot/thumbnail/14884640072_2e21234175_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

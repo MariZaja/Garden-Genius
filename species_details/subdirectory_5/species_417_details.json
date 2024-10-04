@@ -1,0 +1,144 @@
+{
+    "id": 417,
+    "common_name": "momi fir",
+    "scientific_name": [
+        "Abies firma"
+    ],
+    "other_name": [],
+    "family": "Pinaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Needled evergreen",
+    "dimension": "40.00 to 60.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=417&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=417&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "dark-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "Branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=417&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Momi Fir (Abies Firma) is an incredible coniferous tree native to Japan that grows best in cool, moist climates. It is an evergreen conifer, meaning it has beautifully soft needles that don't fall off each winter and offer a cozy, wintery feel to any garden. The Momi Fir can reach heights of up to 45 feet, and with its dense, compact shape, it provides a wonderful privacy and wind-protectant barrier for any home. Its bark is mottled silvery-gray and its needles range from a dark blue-green to silvery-blue. It is a great option for container gardens, as it is relatively slow growing and can be pruned to maintain size and shape. Its beauty, hardiness, and adaptability make the Momi Fir an amazing ornamental tree.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/417_abies_firma/og/49284511967_369192470b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/417_abies_firma/regular/49284511967_369192470b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/417_abies_firma/medium/49284511967_369192470b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/417_abies_firma/small/49284511967_369192470b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/417_abies_firma/thumbnail/49284511967_369192470b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

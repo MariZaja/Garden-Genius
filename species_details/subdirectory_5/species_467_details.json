@@ -1,0 +1,145 @@
+{
+    "id": 467,
+    "common_name": "bigtooth maple",
+    "scientific_name": [
+        "Acer saccharum subsp. grandidentatum"
+    ],
+    "other_name": [
+        "Hard Maple",
+        "Rock Maple",
+        "Hard Maple",
+        "Bird's Eye Maple",
+        "Curly Maple",
+        "Sweet Maple",
+        "Northern Sugar Maple",
+        "Head Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "United States",
+        "Canada"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Budding"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=467&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=467&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown-red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "red-pink"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=467&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sand",
+        " Loam",
+        " Humus Enriched"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow|Green/Brown",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The bigtooth maple (Acer saccharum subsp. grandidentatum) is an amazing species of maple tree that many of us admire. It stands out with its beautiful, grand, and wavy leaves which have very distinct, sharp teeth around the edge. These leaves are a bright and vibrant green in the summer and then transition to a unique yellow, red, and orange during autumn. Its bark has a unique texture, which can range from a deep reddish-brown to greyish-white and comes in small scales that can add visual interest. In addition to its striking visual attributes, the bigtooth maple is also very hardy and highly drought tolerant. This makes it an ideal choice for a variety of landscaping and gardening projects.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/467_acer_saccharum_subsp_grandidentatum/og/6431690699_b0b58f4dc5_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/467_acer_saccharum_subsp_grandidentatum/regular/6431690699_b0b58f4dc5_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/467_acer_saccharum_subsp_grandidentatum/medium/6431690699_b0b58f4dc5_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/467_acer_saccharum_subsp_grandidentatum/small/6431690699_b0b58f4dc5_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/467_acer_saccharum_subsp_grandidentatum/thumbnail/6431690699_b0b58f4dc5_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

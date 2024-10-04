@@ -1,0 +1,111 @@
+{
+    "id": 463,
+    "common_name": "red maple",
+    "scientific_name": [
+        "Acer rubrum 'Karpick'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Tree",
+    "dimension": "40.00 to 50.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 40,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=463&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=463&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "May",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=463&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Maple (Acer rubrum 'Karpick') is an absolutely amazing plant species because of its vibrant red foliage and its ability to adapt to a variety of climates. While most maple trees are known for their seasonal foliage change of red, yellow, and green foliage, the Red Maple keeps its gorgeous red leaves throughout the entire year. This makes it a great option for landscapes that need a splash of colour all year round. Moreover, the tree\u2019s hardiness and adaptability allows it to thrive in a wide range of soil and climate combinations, making it a perfect choice for home gardens. As an added bonus, the tree is easy to maintain as well. With its vibrant red foliage, adaptability, and ease of care, the Red Maple is an amazing gift for any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/463_acer_rubrum_karpick/og/52578261528_ea68268200_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/463_acer_rubrum_karpick/regular/52578261528_ea68268200_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/463_acer_rubrum_karpick/medium/52578261528_ea68268200_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/463_acer_rubrum_karpick/small/52578261528_ea68268200_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/463_acer_rubrum_karpick/thumbnail/52578261528_ea68268200_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

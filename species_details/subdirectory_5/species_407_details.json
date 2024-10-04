@@ -1,0 +1,108 @@
+{
+    "id": 407,
+    "common_name": "fragrant abelia",
+    "scientific_name": [
+        "Abelia mosanensis 'SMNAMDS' SWEET EMOTION"
+    ],
+    "other_name": [],
+    "family": "Caprifoliaceae",
+    "origin": [
+        "South Korea"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "5.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 5,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=407&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=407&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=407&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red-pink and white bicolor",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Fragrant Abelia (Abelia mosanensis 'SMNAMDS' SWEET EMOTION) is an amazing plant species that is often used for ornamental purposes in landscapes and gardens. It stands out with its fragrant ivory white blossoms that bloom throughout the spring and summer. This species is also highly resistant to harsh climates and common deer. Its dark green foliage is adorned with reddish hues in the fall and its evergreen form provides year round renewal. Its low growing habit and modest size make it the perfect companion for a number of different plants. Fragrant Abelia is truly an amazing plant that should be part of any landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/407_abelia_mosanensis_smnamds_sweet_emotion/og/715px-Abelia_mosanensis_2015-05-29_OB_335.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/407_abelia_mosanensis_smnamds_sweet_emotion/regular/715px-Abelia_mosanensis_2015-05-29_OB_335.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/407_abelia_mosanensis_smnamds_sweet_emotion/medium/715px-Abelia_mosanensis_2015-05-29_OB_335.jpg",
+        "small_url": "https://perenual.com/storage/species_image/407_abelia_mosanensis_smnamds_sweet_emotion/small/715px-Abelia_mosanensis_2015-05-29_OB_335.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/407_abelia_mosanensis_smnamds_sweet_emotion/thumbnail/715px-Abelia_mosanensis_2015-05-29_OB_335.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,140 @@
+{
+    "id": 477,
+    "common_name": "fern-leaf yarrow",
+    "scientific_name": [
+        "Achillea filipendulina 'Gold Plate'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Central",
+        "west Asia"
+    ],
+    "type": "Herb",
+    "dimension": "4.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=477&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=477&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=477&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Rocky ",
+        " gravelly ",
+        " dry"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Rabbit resistant",
+        " Drought resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Fern-leaf yarrow (Achillea filipendulina 'Gold Plate') is an amazing plant that is great for gardens. It has beautiful yellow flattened flowerheads with lush fern-like foliage. It is also quite low-maintenance and drought tolerant, requiring very little care once established in a garden. Its blooms appear from late spring into summer, providing color and texture for months on end. It's easy to see why this plant has become so popular these days! It is an excellent choice for dry spots, rock gardens or as an edging plant along pathways. Its bright yellow petals are sure to bring joy and beauty to any garden or landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/477_achillea_filipendulina_gold_plate/og/9216112258_9174c74775_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/477_achillea_filipendulina_gold_plate/regular/9216112258_9174c74775_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/477_achillea_filipendulina_gold_plate/medium/9216112258_9174c74775_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/477_achillea_filipendulina_gold_plate/small/9216112258_9174c74775_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/477_achillea_filipendulina_gold_plate/thumbnail/9216112258_9174c74775_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

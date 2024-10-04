@@ -1,0 +1,150 @@
+{
+    "id": 444,
+    "common_name": "trident maple",
+    "scientific_name": [
+        "Acer buergerianum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Eastern China",
+        "Japan"
+    ],
+    "type": "Tree",
+    "dimension": "20.00 to 30.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=444&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=444&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-brown",
+                "white-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "pink-yellow",
+                "green-yellow-orange",
+                "green-orange",
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "seeds",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "white-brown",
+                "gray-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=444&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Trident Maple is one of the most amazing plants around. Its bright green shoots and three-lobed leaves make it stand out among the rest. It's ideal for creating a grand statement in any landscape. Plus, the vibrant yellow and red color of the leaves in the fall further add to its beauty.\n\nAn adaptable species, it can tolerate almost any soil condition and full sun to light shade. Plus, its rapid growth rate and an ability to withstand drought can make it the perfect choice for urban landscapes. Trident Maple is also a great choice for creating a screen in a yard or garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/444_acer_buergerianum/og/50064604842_abf376d0cb_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/444_acer_buergerianum/regular/50064604842_abf376d0cb_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/444_acer_buergerianum/medium/50064604842_abf376d0cb_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/444_acer_buergerianum/small/50064604842_abf376d0cb_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/444_acer_buergerianum/thumbnail/50064604842_abf376d0cb_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

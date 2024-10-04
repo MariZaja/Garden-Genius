@@ -1,0 +1,129 @@
+{
+    "id": 442,
+    "common_name": "bear's breeches",
+    "scientific_name": [
+        "Acanthus 'Summer Beauty'"
+    ],
+    "other_name": [],
+    "family": "Acanthaceae",
+    "origin": [
+        "Greece"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=442&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=442&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "June",
+        "July",
+        "August",
+        "August",
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=442&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy white subtended by purple bracts",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Acanthus 'Summer Beauty' is an amazing perennial flower commonly known as bear\u2019s breeches. This unique and eye-catching plant can be a great addition to any flower garden. It produces long, spiny, dark green foliage with spikes of white and pink flowers. This effective combination provides a beautiful backdrop for any garden. The foliage of this plant is evergreen in most climates and makes it great for drought resistance. Once established, bear\u2019s breeches are low-maintenance and will thrive for years to come. It is also great for attracting pollinators to your garden and will put on a show of beautiful flowers from spring until fall.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/442_acanthus_summer_beauty/og/42972669991_4354b8fd75_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/442_acanthus_summer_beauty/regular/42972669991_4354b8fd75_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/442_acanthus_summer_beauty/medium/42972669991_4354b8fd75_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/442_acanthus_summer_beauty/small/42972669991_4354b8fd75_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/442_acanthus_summer_beauty/thumbnail/42972669991_4354b8fd75_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

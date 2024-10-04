@@ -1,0 +1,124 @@
+{
+    "id": 441,
+    "common_name": "bear's breeches",
+    "scientific_name": [
+        "Acanthus spinosus"
+    ],
+    "other_name": [],
+    "family": "Acanthaceae",
+    "origin": [
+        "Mediterranean"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=441&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=441&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green-purple"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "purple"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=441&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Pink - mauve",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bear's breeches (Acanthus spinosus) is an amazing species of perennial plant for many reasons. Its strikingly tall inflorescence of purple and white flowers is remarkable. Its large glossy, spiny foliage is equally eye catching, adding bold architectural structure to gardens. The flowers are a favourite of pollinators, especially bees, creating a unique atmosphere when full of buzzing. During autumn, its foliage turns to shades of yellow and orange creating a warm and inviting ambience. Perfect for the front of beds and borders, the bear's breeches is a truly remarkable plant.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/441_acanthus_spinosus/og/9616045340_ca0c6f0614_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/441_acanthus_spinosus/regular/9616045340_ca0c6f0614_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/441_acanthus_spinosus/medium/9616045340_ca0c6f0614_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/441_acanthus_spinosus/small/9616045340_ca0c6f0614_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/441_acanthus_spinosus/thumbnail/9616045340_ca0c6f0614_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

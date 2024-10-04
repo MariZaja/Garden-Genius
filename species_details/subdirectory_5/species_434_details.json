@@ -1,0 +1,116 @@
+{
+    "id": 434,
+    "common_name": "Jacob's coat",
+    "scientific_name": [
+        "Acalypha wilkesiana"
+    ],
+    "other_name": [],
+    "family": "Euphorbiaceae",
+    "origin": [
+        "Pacific Islands"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=434&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=434&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-orange-red-pink"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=434&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Reddish-pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Jacob's Coat (Acalypha wilkesiana) is an amazing foliage plant with colorful leaves that will make a bold statement in your garden. Its leaves emerge in the spring with attractive shades of green and red, and turn pink, purple, yellow, and even silver as the season progresses. The plant itself is easy to care for, requiring minimal watering and very little pruning. In addition, it is a hardy plant and is nearly immune to pests and disease problems. If you want to make your garden stand out, consider planting a Jacob's Coat! Its multi-colored leaves will be sure to garner attention and admiration.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/og/24945289366_5035e5d0a9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/regular/24945289366_5035e5d0a9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/medium/24945289366_5035e5d0a9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/small/24945289366_5035e5d0a9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/thumbnail/24945289366_5035e5d0a9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

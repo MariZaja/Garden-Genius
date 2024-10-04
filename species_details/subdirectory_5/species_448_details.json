@@ -1,0 +1,152 @@
+{
+    "id": 448,
+    "common_name": "snakebark maple",
+    "scientific_name": [
+        "Acer capillipes"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Tree",
+    "dimension": "30.00 to 40.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 30,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=448&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=448&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "gray"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "blooms",
+            "color": [
+                "light-green"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown",
+                "brown-green",
+                "green-gray"
+            ]
+        },
+        {
+            "part": "seeds",
+            "color": [
+                "green-pink"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=448&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish white",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The snakebark maple (Acer capillipes) is an amazing tree species with many desirable features. From its bark which looks like snakeskin, to its lush green foliage in the summer, it is an eye-catching tree that is both beautiful and distinct. This tree has an upright, oval shape with branches that stop growing upward once they reach the maximum height, creating an umbrella-like structure. Snakebark maple is also a fast-growing tree, which means you can get the desired look quickly. Lastly, its red fall foliage is a beautiful sight and makes it a great addition to any garden or landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/448_acer_capillipes/og/26770321825_d1a6cc2fee_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/448_acer_capillipes/regular/26770321825_d1a6cc2fee_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/448_acer_capillipes/medium/26770321825_d1a6cc2fee_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/448_acer_capillipes/small/26770321825_d1a6cc2fee_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/448_acer_capillipes/thumbnail/26770321825_d1a6cc2fee_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

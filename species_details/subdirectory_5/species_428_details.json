@@ -1,0 +1,112 @@
+{
+    "id": 428,
+    "common_name": "flowering-maple",
+    "scientific_name": [
+        "Abutilon pictum 'Gold Dust'"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Brazil"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "10.00 to 15.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 10,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Stem Propagation",
+        "Root Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=428&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=428&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=428&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Orange with red veins",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The 'Gold Dust' variety of flowering-maple is an amazing example of a unique, striking ornamental. The rounded green leaves are generously dusted with gold highlights, making the foliage a source of interest in its own right. In summer, flowers resembling small orange bells appear in abundance, adding to the landscape. Unlike many flowering plants, this variety of flowering-maple is forgiving of colder climes and can be grown in zone 7, making it ideal for a variety of landscaping settings. This hardy species is easily maintained with a simple pruning and can usually be seen showing off its stunning foliage and flowers for several years.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/og/Redvein_Abutilon.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/regular/Redvein_Abutilon.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/medium/Redvein_Abutilon.jpg",
+        "small_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/small/Redvein_Abutilon.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/thumbnail/Redvein_Abutilon.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

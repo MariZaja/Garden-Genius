@@ -1,0 +1,125 @@
+{
+    "id": 411,
+    "common_name": "okra",
+    "scientific_name": [
+        "Abelmoschus esculentus 'Baby Bubba'"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "India",
+        "Ethiopia",
+        "Sudan",
+        "Nigeria",
+        "Somalia",
+        "Pakistan",
+        "Bangladesh",
+        "Yemen",
+        "Egypt"
+    ],
+    "type": "Vegetable",
+    "dimension": "1.00 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=411&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=411&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "fruit",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "colored"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "August",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=411&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Light yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Okra, with the scientific name Abelmoschus esculentus 'Baby Bubba', is an amazing plant species that can bring a unique texture and flavor to dishes. Its pods grow quickly, have a superb nutty taste, and are surprisingly tender. They are also extremely versatile, and can be used in a wide variety of recipes such as soups, stews, gumbos, pickles, and even fried. Its thick, slimy texture helps to thicken soups and sauces. Growing okra is easy and can be done in almost any growing region. Its pods are full of antioxidants, vitamins, and minerals, which means that you can enjoy its flavor while getting a healthy boost. Not to mention, its attractive flowers add a decorative element to the garden. There is no doubt why Baby Bubba okra is an amazing plant species.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/411_abelmoschus_esculentus_baby_bubba/og/52333641227_4d57f05922_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/411_abelmoschus_esculentus_baby_bubba/regular/52333641227_4d57f05922_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/411_abelmoschus_esculentus_baby_bubba/medium/52333641227_4d57f05922_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/411_abelmoschus_esculentus_baby_bubba/small/52333641227_4d57f05922_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/411_abelmoschus_esculentus_baby_bubba/thumbnail/52333641227_4d57f05922_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

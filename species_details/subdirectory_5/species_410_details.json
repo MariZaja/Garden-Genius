@@ -1,0 +1,140 @@
+{
+    "id": 410,
+    "common_name": "okra",
+    "scientific_name": [
+        "Abelmoschus esculentus"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Old World Tropics"
+    ],
+    "type": "Vegetable",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Annual",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "11"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=410&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=410&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "dark-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "pistils",
+            "color": [
+                "black"
+            ]
+        },
+        {
+            "part": "fruit",
+            "color": [
+                "green",
+                "light-green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=410&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow with purple center",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Okra (Abelmoschus esculentus) is an amazing plant - its pods are an incredible source of nutrients and they have a unique, delicious flavor that is unlike any other vegetable. Okra is easy to grow and its delicate flowers are an eye-catching sight in the garden. It is also full of antioxidants and vitamin C, making it a great choice for those wanting to improve their health and wellbeing. Moreover, it has a high content of dietary fiber, which helps to keep your digestive system in check. Okra is truly amazing - a versatile and nutritious vegetable that tastes great, too!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/410_abelmoschus_esculentus/og/48879233903_b29f90fefd_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/410_abelmoschus_esculentus/regular/48879233903_b29f90fefd_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/410_abelmoschus_esculentus/medium/48879233903_b29f90fefd_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/410_abelmoschus_esculentus/small/48879233903_b29f90fefd_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/410_abelmoschus_esculentus/thumbnail/48879233903_b29f90fefd_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

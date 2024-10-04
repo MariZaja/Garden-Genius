@@ -1,0 +1,126 @@
+{
+    "id": 437,
+    "common_name": "bear's breeches",
+    "scientific_name": [
+        "Acanthus mollis"
+    ],
+    "other_name": [],
+    "family": "Acanthaceae",
+    "origin": [
+        "Southern Europe",
+        "northwestern Africa"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=437&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=437&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=437&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Slugs",
+        "snails",
+        "  Pest resistant",
+        " Disease resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White (sometimes pink)",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "brown",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bear's Breeches (Acanthus mollis) is an amazing plant species that will bring a burst of color to your garden. It's an architectural showstopper with its long, glossy green foliage lined with spiky, white-tipped leaves, and tall flower spikes of white, hooded flowers with purple tips. Its leaves are upright, kidney-shaped and vigorous, often reaching 3 feet in height. The flowers are quite impressive as well, making a cone-like shape at the top of the plant and a subtle, sweet scent that can be detected from afar. Though it needs some extra care, the allure of Bear's Breeches makes it worth it in the end!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/437_acanthus_mollis/og/49901521577_89ebb82e81_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/437_acanthus_mollis/regular/49901521577_89ebb82e81_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/437_acanthus_mollis/medium/49901521577_89ebb82e81_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/437_acanthus_mollis/small/49901521577_89ebb82e81_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/437_acanthus_mollis/thumbnail/49901521577_89ebb82e81_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

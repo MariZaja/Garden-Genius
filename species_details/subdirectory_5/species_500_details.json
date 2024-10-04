@@ -1,0 +1,105 @@
+{
+    "id": 500,
+    "common_name": "woolly yarrow",
+    "scientific_name": [
+        "Achillea tomentosa 'Aurea'"
+    ],
+    "other_name": [],
+    "family": "Asteraceae",
+    "origin": [
+        "Central Asia",
+        "Caucasus",
+        "Iran",
+        "Turkey",
+        "Afghanistan",
+        "Pakistan"
+    ],
+    "type": "Herb",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=500&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=500&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=500&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Woolly yarrow (Achillea tomentosa 'Aurea') is an amazing perennial flower that is a must-have for your garden. The bright yellow flowers are topped with fuzzy, wool-like foliage that make it stand out from the crowd. Its sturdy stems and long-lasting blooms make it the perfect choice for a long-lasting garden display. Its foliage is deer and rabbit resistant and its drought tolerant, meaning it does well in dry conditions and can tolerate various levels of sun and shade. Its attractive flower heads and bushy habit add texture and interest to layers of your garden. Woolly yarrow will make your garden vibrant and beautiful throughout the season.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/500_achillea_tomentosa_aurea/og/2560px-Achillea_tomentosa1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/500_achillea_tomentosa_aurea/regular/2560px-Achillea_tomentosa1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/500_achillea_tomentosa_aurea/medium/2560px-Achillea_tomentosa1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/500_achillea_tomentosa_aurea/small/2560px-Achillea_tomentosa1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/500_achillea_tomentosa_aurea/thumbnail/2560px-Achillea_tomentosa1.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

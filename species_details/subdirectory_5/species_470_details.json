@@ -1,0 +1,134 @@
+{
+    "id": 470,
+    "common_name": "shantung maple",
+    "scientific_name": [
+        "Acer truncatum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Northern China",
+        "Manchuria",
+        "Korea"
+    ],
+    "type": "Tree",
+    "dimension": "20.00 to 25.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 20,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=470&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=470&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "petiole",
+            "color": [
+                "light-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=470&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The shantung maple, or Acer truncatum, is a fast-growing tree native to parts of China and Korea. Its brilliantly bright red-orange foliage makes it stand out, especially in autumn when its leaves turn vibrant shades of red and orange. It is a highly adaptable tree that can tolerate heat, severe cold, and drought. It can even handle moderate amounts of salt and air pollution. With its dense, upright growth and small size, it is an excellent choice as a shade tree or for a privacy screen. The shantung maple is a low maintenance tree that is sure to make a stunning addition to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/470_acer_truncatum/og/40480028000_557e582fb3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/470_acer_truncatum/regular/40480028000_557e582fb3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/470_acer_truncatum/medium/40480028000_557e582fb3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/470_acer_truncatum/small/40480028000_557e582fb3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/470_acer_truncatum/thumbnail/40480028000_557e582fb3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
