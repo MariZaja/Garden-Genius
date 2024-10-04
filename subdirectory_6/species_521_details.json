@@ -1,0 +1,100 @@
+{
+    "id": 521,
+    "common_name": "bugbane",
+    "scientific_name": [
+        "Actaea 'Chocoholic'"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=521&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=521&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "part shade",
+        "full shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=521&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Mauve-pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "purple",
+        "black"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugbane (Actaea 'Chocoholic') is an amazing plant species! With its stunning foliage and its incredible blooms, it is an eye-catching addition to any garden. The deep purple leaves and their distinctive spotted patterns provide an interesting backdrop to its creamy white flowers. This variety of bugbane produces an impressive show of masses of small, fragrant flowers throughout the summer. Plus, its dark chocolate-scented aromatic foliage is sure to draw appreciative comments from garden visitors. Bugbane is a great choice for any garden, making it an amazing plant species!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/521_actaea_chocoholic/og/6190356394_73a2ed90f9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/521_actaea_chocoholic/regular/6190356394_73a2ed90f9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/521_actaea_chocoholic/medium/6190356394_73a2ed90f9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/521_actaea_chocoholic/small/6190356394_73a2ed90f9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/521_actaea_chocoholic/thumbnail/6190356394_73a2ed90f9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

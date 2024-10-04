@@ -1,0 +1,118 @@
+{
+    "id": 513,
+    "common_name": "sweet flag",
+    "scientific_name": [
+        "Acorus calamus"
+    ],
+    "other_name": [
+        "Single Vein Sweet Flag"
+    ],
+    "family": "Acoraceae",
+    "origin": [
+        "North America",
+        "Asia"
+    ],
+    "type": "Rush or Sedge",
+    "dimension": "2.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Root Cutting",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=513&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=513&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=513&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering (not showy)",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Sweet Flag (Acorus calamus) is an amazing plant species. with its interesting, sword-shaped leaves and intriguing, sweet fragrant flowers, it's sure to draw the eye! This plant does more than just look good, however; it's also incredibly beneficial for a variety of conditions. Sweet Flag has anti-inflammatory and sedative properties, and can be used to treat myalgia, rheumatoid arthritis, and various respiratory ailments. Its sedative and carminative properties make it a great choice for soothing digestive issues. Sweet Flag is a hardy plant, thriving in wet soils, and a natural mosquito repellent, making it a great addition to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/513_acorus_calamus/og/3621384433_8dcf07e973_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/513_acorus_calamus/regular/3621384433_8dcf07e973_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/513_acorus_calamus/medium/3621384433_8dcf07e973_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/513_acorus_calamus/small/3621384433_8dcf07e973_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/513_acorus_calamus/thumbnail/3621384433_8dcf07e973_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

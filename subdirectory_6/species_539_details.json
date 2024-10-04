@@ -1,0 +1,125 @@
+{
+    "id": 539,
+    "common_name": "baobab",
+    "scientific_name": [
+        "Adansonia digitata"
+    ],
+    "other_name": [],
+    "family": "Malvaceae",
+    "origin": [
+        "Subsaharan Africa"
+    ],
+    "type": "Tree",
+    "dimension": "65.00 to 80.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 65,
+        "max_value": 80,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Budding"
+    ],
+    "hardiness": {
+        "min": "10",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=539&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=539&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown",
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-brown",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "August",
+        "September",
+        "October"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=539&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The baobab (Adansonia digitata) is an amazing species of plant for many reasons. It is an iconic tree native to Africa, Madagascar, and Arabia, and can live for centuries. It has an extremely thick trunk, which can reach up to 25 feet wide, and it can store up to 200,000 gallons of water. Baobab trees produce edible fruits, and are a source of nutrition for wildlife. Its branches spread wide and provide shade and shelter. In addition to its practical uses, baobabs are aesthetically stunning with its gnarled branches and leaves. Its unique shape provides an eye-catching addition to any landscape. It is truly a remarkable species.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/539_adansonia_digitata/og/52185616677_5e7ccc0374_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/539_adansonia_digitata/regular/52185616677_5e7ccc0374_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/539_adansonia_digitata/medium/52185616677_5e7ccc0374_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/539_adansonia_digitata/small/52185616677_5e7ccc0374_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/539_adansonia_digitata/thumbnail/52185616677_5e7ccc0374_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

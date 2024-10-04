@@ -1,0 +1,134 @@
+{
+    "id": 535,
+    "common_name": "hardy kiwi vine",
+    "scientific_name": [
+        "Actinidia arguta 'Issai'"
+    ],
+    "other_name": [],
+    "family": "Actinidiaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Fruit",
+    "dimension": "12.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 12,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=535&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=535&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "pink-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green-colored"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=535&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Greenish-white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Hardy Kiwi Vine (Actinidia arguta 'Issai') is an amazing plant. It is hardy and can survive temperatures up to -25\u00b0F, making it ideal for colder climates. The attractive white and yellow flowers bloom in the spring, making it an attractive addition to any garden. The fruits of the Hardy Kiwi Vine are small, green, and edible. They are incredibly sweet and full of vitamins and minerals, making them a nutritious snack. The vine is also self-fertile, so you don't need to worry about having separate male and female plants. Hardy Kiwi Vines are easy to grow, fast growing, and very low maintenance. They make a wonderful statement piece for any garden or landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/535_actinidia_arguta_issai/og/34451388751_202d8a0677_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/535_actinidia_arguta_issai/regular/34451388751_202d8a0677_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/535_actinidia_arguta_issai/medium/34451388751_202d8a0677_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/535_actinidia_arguta_issai/small/34451388751_202d8a0677_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/535_actinidia_arguta_issai/thumbnail/34451388751_202d8a0677_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

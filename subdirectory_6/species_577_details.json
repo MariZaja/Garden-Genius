@@ -1,0 +1,117 @@
+{
+    "id": 577,
+    "common_name": "lily of the Nile",
+    "scientific_name": [
+        "Agapanthus 'Kingston Blue'"
+    ],
+    "other_name": [],
+    "family": "Amaryllidaceae",
+    "origin": [
+        "South Africa"
+    ],
+    "type": "Flower",
+    "dimension": "1.50 to 2.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1.5,
+        "max_value": 2,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Birds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "7",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=577&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=577&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue-violet"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=577&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Lily of the Nile is a stunningly beautiful flowering plant with vibrant blue flowers. Its flowers are clustered in round umbels on long flowering stems and are adored by pollinators like bees and hummingbirds. It's a low-maintenance, drought-resistant perennial with thick strap leaves that adds a structural and structural beauty to any garden. Its hardy rootstock and fast growth rate makes it ideal for landscaping where a low-maintenance yet exotic beauty is needed. It thrives in full sun and moderate temperature, so it is perfect for gardens in the southern United States such as Oklahoma and Texas. The dark green foliage and bold flowering umbels make it an amazing addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/577_agapanthus_kingston_blue/og/37273128026_faa25144b4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/577_agapanthus_kingston_blue/regular/37273128026_faa25144b4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/577_agapanthus_kingston_blue/medium/37273128026_faa25144b4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/577_agapanthus_kingston_blue/small/37273128026_faa25144b4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/577_agapanthus_kingston_blue/thumbnail/37273128026_faa25144b4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

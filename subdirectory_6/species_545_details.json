@@ -1,0 +1,119 @@
+{
+    "id": 545,
+    "common_name": "Northern maidenhair fern",
+    "scientific_name": [
+        "Adiantum pedatum"
+    ],
+    "other_name": [
+        "Maidenhair Fern"
+    ],
+    "family": "Pteridaceae",
+    "origin": [
+        "North America",
+        "Asia"
+    ],
+    "type": "Fern",
+    "dimension": "1.00 to 2.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 2.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Spore Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=545&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=545&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part sun/part shade",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=545&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Scale insects",
+        "  Deer resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Northern maidenhair fern (Adiantum pedatum) is truly amazing. It is native to temperate and subarctic climates, making it an extremely hardy plant. It has delicate, bluish-black fronds that cascade in a fan shape, with soft fur-like stalks. This plant requires a great deal of moisture and delicate handling, making it a challenge to keep happy. However, its reward is worth the effort; when in its prime, the Northern maidenhair fern is a beautiful sight to behold. Its lacy leaves are the perfect accent for many gardens, and its ability to thrive in challenging conditions makes it a reliable and resilient companion for any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/545_adiantum_pedatum/og/51419830961_2a163c78cb_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/545_adiantum_pedatum/regular/51419830961_2a163c78cb_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/545_adiantum_pedatum/medium/51419830961_2a163c78cb_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/545_adiantum_pedatum/small/51419830961_2a163c78cb_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/545_adiantum_pedatum/thumbnail/51419830961_2a163c78cb_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,142 @@
+{
+    "id": 540,
+    "common_name": "desert rose",
+    "scientific_name": [
+        "Adenium obesum"
+    ],
+    "other_name": [],
+    "family": "Apocynaceae",
+    "origin": [
+        "Tropical Africa",
+        "Arabian Peninsula"
+    ],
+    "type": "Broadleaf evergreen",
+    "dimension": "3.00 to 9.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 9,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "11",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=540&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=540&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "10"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "pink-white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=540&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": true,
+    "indoor": true,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red, rose or pink with creamy white throat",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "gray",
+        "gray"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The desert rose is an amazing plant species that adds vibrant, flowering color to any space. This drought-tolerant succulent requires minimal water and a sunny, dry environment, making it ideal for most desert and dry climate gardens. Its showy blooms range in color from hot pink and vibrant red to stunning white and yellow shades. The striking ombre of the adenium obesum's swollen base and graceful, slender stems make it a true stunner. It's also highly toxin resistant and can handle a wide range of temperatures and environmental conditions. No wonder it's quickly becoming one of the most popular flowers around!",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/540_adenium_obesum/og/9244335137_6d662ed77c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/540_adenium_obesum/regular/9244335137_6d662ed77c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/540_adenium_obesum/medium/9244335137_6d662ed77c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/540_adenium_obesum/small/9244335137_6d662ed77c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/540_adenium_obesum/thumbnail/9244335137_6d662ed77c_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

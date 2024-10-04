@@ -1,0 +1,125 @@
+{
+    "id": 564,
+    "common_name": "bottlebrush buckeye",
+    "scientific_name": [
+        "Aesculus parviflora"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "Southeastern United States"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "8.00 to 12.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 8,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=564&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=564&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=564&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White with red anthers",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 1,
+    "description": "The bottlebrush buckeye is a rare, eye-catching ornamental shrub known for its spectacular clusters of white flowers. This deciduous shrub grows in a rounded shape and is suitable for any garden setting. Its clusters of upright white spikes stand out against the glossy deep green leaves. These blooms appear in late spring and are often followed by showy clusters of red buckeyes. This shrub is also known for its drought tolerance, making it perfect for the dry climates where it is typically found. Bottlebrush buckeye is an amazing plant species, combining stunning foliage and flower with an ability to adapt to any environment.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/564_aesculus_parviflora/og/51332285418_685fd98bc9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/564_aesculus_parviflora/regular/51332285418_685fd98bc9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/564_aesculus_parviflora/medium/51332285418_685fd98bc9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/564_aesculus_parviflora/small/51332285418_685fd98bc9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/564_aesculus_parviflora/thumbnail/51332285418_685fd98bc9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

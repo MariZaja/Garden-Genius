@@ -1,0 +1,133 @@
+{
+    "id": 555,
+    "common_name": "red horse chestnut",
+    "scientific_name": [
+        "Aesculus carnea 'Briotii'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+        "France"
+    ],
+    "type": "Tree",
+    "dimension": "25.00 to 35.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 25,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=555&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=555&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stem",
+            "color": [
+                "pink",
+                "green-red"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink-yellow",
+                "yellow-pink-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "gray"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=555&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 1,
+    "description": "The Red Horse Chestnut (Aesculus carnea 'Briotii') is a stunning shrub to behold in any landscape. It is incredibly reliable and hardy, able to tolerate a wide range of weather conditions and soil types. In spring and early summer, the shrub is adorned with clusters of striking red blossoms, adding a vibrant display to any garden. Growing to a height of up to 10 feet, this might be a smaller variety than the common Horse Chestnut, but the deep red color sets it apart and makes it more eye-catching. It is an amazing addition to any garden and a great way to add a bold pop of color year-round.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/555_aesculus_carnea_briotii/og/43379296790_f249c1fba7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/555_aesculus_carnea_briotii/regular/43379296790_f249c1fba7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/555_aesculus_carnea_briotii/medium/43379296790_f249c1fba7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/555_aesculus_carnea_briotii/small/43379296790_f249c1fba7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/555_aesculus_carnea_briotii/thumbnail/43379296790_f249c1fba7_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

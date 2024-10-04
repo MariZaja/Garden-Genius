@@ -1,0 +1,114 @@
+{
+    "id": 544,
+    "common_name": "rough maidenhair fern",
+    "scientific_name": [
+        "Adiantum hispidulum"
+    ],
+    "other_name": [],
+    "family": "Pteridaceae",
+    "origin": [
+        "Eastern Africa",
+        "Asia"
+    ],
+    "type": "Fern",
+    "dimension": "1.00 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 1,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Spore Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=544&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=544&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=544&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Rough Maidenhair Fern is an amazing plant species due to its unique appearance. It is the only species belonging to the Adiantum genus that has a thicker, upright habit. The evergreen plant grows up to three feet high, with a thick clump of stems and light-green fronds providing eye-catching contrast in the garden. It also holds its foliage throughout the winter, allowing for much-needed structure during the season's snow and frost. The slender, lacy fronds are further enhanced by its unique textured veins on their undersides. The Rough Maidenhair Fern is tolerant of a range of soils and temperatures, making it an ideal choice for both gardeners and landscapers.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/544_adiantum_hispidulum/og/50608477431_5f3bb0a767_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/544_adiantum_hispidulum/regular/50608477431_5f3bb0a767_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/544_adiantum_hispidulum/medium/50608477431_5f3bb0a767_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/544_adiantum_hispidulum/small/50608477431_5f3bb0a767_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/544_adiantum_hispidulum/thumbnail/50608477431_5f3bb0a767_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

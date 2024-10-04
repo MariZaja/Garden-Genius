@@ -1,0 +1,142 @@
+{
+    "id": 589,
+    "common_name": "anise hyssop",
+    "scientific_name": [
+        "Agastache foeniculum"
+    ],
+    "other_name": [
+        "giant hyssop",
+        "Giant Hyssop",
+        "Fragrant Giant Hyssop",
+        "Blue Giant Hyssop"
+    ],
+    "family": "Lamiaceae",
+    "origin": [
+        "Northern North America"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=589&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=589&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "lavender-blue"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=589&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Sandy Loamy Clay Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Root rot",
+        "  Pest resistant",
+        " Disease resistant",
+        " Deer resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Lavender to purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Anise hyssop (Agastache foeniculum) is a fantastically versatile perennial herb. It is an edible, hardy plant that can be used as both an ornamental or culinary herb. It leaves have a strong flavor of both licorice and anise, and are delicious in sauces and soups. The beautiful blooms are a wonderful addition to any garden, in shades of pink, purple, and white. The bees and other pollinators love the sweet nectar that can be found in the flowers. Furthermore, this plant is known for its ability to attract beneficial insects and repel pests, making it a great choice for the organic gardener. Anise hyssop is an amazing plant that adds beauty and flavor to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/589_agastache_foeniculum/og/9497142760_cc4468f21d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/589_agastache_foeniculum/regular/9497142760_cc4468f21d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/589_agastache_foeniculum/medium/9497142760_cc4468f21d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/589_agastache_foeniculum/small/9497142760_cc4468f21d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/589_agastache_foeniculum/thumbnail/9497142760_cc4468f21d_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

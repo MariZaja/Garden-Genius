@@ -1,0 +1,124 @@
+{
+    "id": 543,
+    "common_name": "maidenhair fern",
+    "scientific_name": [
+        "Adiantum capillus-veneris"
+    ],
+    "other_name": [
+        "Southern Maidenhair",
+        "Venus' Hair Fern",
+        "Venus' Hair Fern"
+    ],
+    "family": "Pteridaceae",
+    "origin": [
+        "Temperate and tropical regions worldwide"
+    ],
+    "type": "Fern",
+    "dimension": "0.75 to 1.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1.5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Spore Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=543&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=543&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=543&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Clay",
+        " Sand"
+    ],
+    "growth_rate": null,
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": true,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "bronze",
+        "green",
+        "red"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The maidenhair fern (Adiantum capillus-veneris) is a beautiful and unique species of fern with feathery, wispy fronds that give an air of delicacy and grace to any space. Its elegant fronds are complemented by lovely fan-like foliage made up of numerous small leaflets, giving it an exquisite lacy appearance that adds beauty to any garden. Its hardy nature also makes it a great choice for those looking for something that can tolerate a variety of temperatures, thriving in colder climates despite its tropical look. It's an amazing plant species that's sure to be a stunning addition to any outdoor area.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/og/49636882698_cb4fa4c685_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/regular/49636882698_cb4fa4c685_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/medium/49636882698_cb4fa4c685_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/small/49636882698_cb4fa4c685_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/thumbnail/49636882698_cb4fa4c685_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

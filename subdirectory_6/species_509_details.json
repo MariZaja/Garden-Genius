@@ -1,0 +1,131 @@
+{
+    "id": 509,
+    "common_name": "climbing monk's hood",
+    "scientific_name": [
+        "Aconitum hemsleyanum"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Central and western China"
+    ],
+    "type": "Vine",
+    "dimension": "6.00 to 10.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 6,
+        "max_value": 10,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=509&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=509&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "white-blue"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=509&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue to violet",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Climbing Monk's Hood (Aconitum hemsleyanum) is an amazing climber with beautiful deep violet-blue flowers. This hardy perennial thrives in partially shady areas and can quickly cover walls and fences with its vigorous tendrils of foliage, forming an impressive display. Its foliage is also a great source of contrast against brighter colors, providing a touch of subtle drama. For additional charm and interest, its large, rounded flowers are sometimes marked with a distinctive white eye, adding elegance to any outdoor space. With its attractive foliage, an attractive and enchanting blossom, and its ease of growth, Climbing Monk's Hood is an ideal addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/509_aconitum_hemsleyanum/og/6166179411_f2598d51ec_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/509_aconitum_hemsleyanum/regular/6166179411_f2598d51ec_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/509_aconitum_hemsleyanum/medium/6166179411_f2598d51ec_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/509_aconitum_hemsleyanum/small/6166179411_f2598d51ec_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/509_aconitum_hemsleyanum/thumbnail/6166179411_f2598d51ec_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

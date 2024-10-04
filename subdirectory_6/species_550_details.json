@@ -1,0 +1,130 @@
+{
+    "id": 550,
+    "common_name": "bishop's weed",
+    "scientific_name": [
+        "Aegopodium podagraria 'Variegatum'"
+    ],
+    "other_name": [
+        "bishop's weed",
+        "Bishop's Goutweed"
+    ],
+    "family": "Apiaceae",
+    "origin": [
+        "Europe",
+        "Garden origin"
+    ],
+    "type": "Herb",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=550&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=550&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-white"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=550&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Acidic",
+        " Humus rich",
+        " Rocky ",
+        " gravelly ",
+        " dry",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Bishop's Weed is an amazing plant that is known for its beauty, hardiness, and easy-care nature. Its variegated foliage of bright green and white makes it a standout in any garden. This low-maintenance perennial will grow in partial sun to full shade and requires little upkeep. It can spread aggressively, covering large areas of ground with its beautiful foliage. Not only does Bishop's Weed offer great groundcover, it also has anti-inflammatory and diuretic properties and many medicinal uses. With its attractive foliage and ability to thrive in a variety of environments, it's no wonder that Bishop's Weed is a popular garden plant.",
+    "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/550_aegopodium_podagraria_variegatum/og/34713982780_3954944e69_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,106 @@
+{
+    "id": 591,
+    "common_name": "dwarf hybrid hyssop",
+    "scientific_name": [
+        "Agastache KUDOS RED"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "Herb",
+    "dimension": "0.75 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.75,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "10"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=591&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=591&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=591&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "red",
+        "burgundy"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Dwarf hybrid hyssop, or Agastache KUDOS RED, is an amazing plant species due to its unique coloring, texture, and growth rate. The flowers are a vibrant red-purple and boast a sweet, honey-like aroma. Its small size and mounded shape make it an ideal choice for smaller gardens. This plant grows quickly and blooms consistently throughout the year. It has low water requirements and is winter hardy in areas with cold climate. Agastache KUDOS RED is an eye-catching, easy to care for choice for any garden!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/591_agastache_kudos_red/og/1365px-Agastache_27Kudos_Mandarin27_02.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/591_agastache_kudos_red/regular/1365px-Agastache_27Kudos_Mandarin27_02.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/591_agastache_kudos_red/medium/1365px-Agastache_27Kudos_Mandarin27_02.jpg",
+        "small_url": "https://perenual.com/storage/species_image/591_agastache_kudos_red/small/1365px-Agastache_27Kudos_Mandarin27_02.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/591_agastache_kudos_red/thumbnail/1365px-Agastache_27Kudos_Mandarin27_02.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

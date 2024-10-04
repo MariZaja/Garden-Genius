@@ -1,0 +1,128 @@
+{
+    "id": 597,
+    "common_name": "giant hyssop",
+    "scientific_name": [
+        "Agastache rugosa 'Honey Bee Blue'"
+    ],
+    "other_name": [],
+    "family": "Lamiaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 3.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 3,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=597&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=597&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "blue-violet"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August",
+        "February",
+        "March",
+        "April",
+        "August",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=597&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Giant hyssop (Agastache rugosa 'Honey Bee Blue') is an amazingly beautiful specimen with its brightly colored blue blooms. This plant is a great choice for sunny landscapes, as it prefers 8 hours of direct sunlight a day. It will bloom from midsummer through early fall, delighting you with its sweet honey-scented flowers. Not only is it a pollinator magnet, but its attractive foliage is deer resistant and attractive when planted in masses. Its blooms are attractive to a wide range of pollinators, making it a great addition to any garden. Its long-lasting blooms and pleasing smell make it an excellent and satisfying addition for any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/597_agastache_rugosa_honey_bee_blue/og/51318682563_98b71628e7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/597_agastache_rugosa_honey_bee_blue/regular/51318682563_98b71628e7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/597_agastache_rugosa_honey_bee_blue/medium/51318682563_98b71628e7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/597_agastache_rugosa_honey_bee_blue/small/51318682563_98b71628e7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/597_agastache_rugosa_honey_bee_blue/thumbnail/51318682563_98b71628e7_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

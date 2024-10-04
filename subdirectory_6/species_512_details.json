@@ -1,0 +1,98 @@
+{
+    "id": 512,
+    "common_name": "monkshood",
+    "scientific_name": [
+        "Aconitum volubile"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Eastern Asia"
+    ],
+    "type": "Vine",
+    "dimension": "8.00 to 12.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 8,
+        "max_value": 12,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=512&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=512&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=512&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Purple",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Monkshood (Aconitum volubile) is an amazing plant species whose remarkable beauty and powerful chemistry has been intriguing humans for thousands of years. It's striking blue-violet flowers, often times featuring a hood-like shape, grow densely along tall stalks in mid-summer, making it a unique addition to any garden. Its active ingredient, aconite, has been used medicinally for centuries and acts as a sedative and an analgesic. Its toxic properties make it ideal for its use as a natural insecticide, as well as an antidote to certain poisons. Its mysterious characteristics make Monkshood a must-have plant species for anyone looking for a unique and captivating piece of nature in their home.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/512_aconitum_volubile/og/51809062968_f4ded6dffd_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/512_aconitum_volubile/regular/51809062968_f4ded6dffd_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/512_aconitum_volubile/medium/51809062968_f4ded6dffd_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/512_aconitum_volubile/small/51809062968_f4ded6dffd_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/512_aconitum_volubile/thumbnail/51809062968_f4ded6dffd_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

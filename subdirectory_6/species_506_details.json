@@ -1,0 +1,125 @@
+{
+    "id": 506,
+    "common_name": "azure monkshood",
+    "scientific_name": [
+        "Aconitum carmichaelii 'Arendsii'"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Herb",
+    "dimension": "2.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 2,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=506&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=506&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flowers",
+            "color": [
+                "white-blue"
+            ]
+        },
+        {
+            "part": "buds",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=506&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Azure blue",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Azure Monkshood (Aconitum carmichaelii 'Arendsii') is a beautiful and unique species of flower. Its electric blue blooms, which show off its vibrant color and unique shape, appear briefly every summer and often last for much longer. It is easy to maintain, and its low-maintenance nature makes it a great addition to anyone's garden. The bright yellow central ball adds a touch of sunshine to any setting, making it a great contrast against its deep purple buds. This species is also well known for its ability to attract butterflies and other pollinators during its blooming season. Azure Monkshood is truly a remarkable and stunning flower.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/506_aconitum_carmichaelii_arendsii/og/51585221643_efcbab382f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/506_aconitum_carmichaelii_arendsii/regular/51585221643_efcbab382f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/506_aconitum_carmichaelii_arendsii/medium/51585221643_efcbab382f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/506_aconitum_carmichaelii_arendsii/small/51585221643_efcbab382f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/506_aconitum_carmichaelii_arendsii/thumbnail/51585221643_efcbab382f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

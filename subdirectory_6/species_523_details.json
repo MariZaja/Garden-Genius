@@ -1,0 +1,127 @@
+{
+    "id": 523,
+    "common_name": "bugbane",
+    "scientific_name": [
+        "Actaea matsumurae 'White Pearl'"
+    ],
+    "other_name": [],
+    "family": "Ranunculaceae",
+    "origin": [
+        "Japan"
+    ],
+    "type": "Shrub",
+    "dimension": "3.00 to 4.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 4,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=523&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=523&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "blooms",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "green"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "part shade",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=523&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "silver",
+        "green",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bugbane, scientific name Actaea matsumurae 'White Pearl', is an amazing plant species. It produces delicate sprays of lacy, white flowers on tall, unbranched stems every summer. These flowers are versatile and can be used in beds and borders, as well as in rock gardens and woodland settings. The plant has attractive foliage in the form of deeply-cut, dark green leaves, which contrast nicely with its white flowers. The best part of this species is its fragrant blooms, which attract butterflies and other pollinators. In other words, bugbane is an awesome plant, not only because of its beautiful blooms, but also because of its versatility and charming scent.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/523_actaea_matsumurae_white_pearl/og/9654734200_8618f88c8f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/523_actaea_matsumurae_white_pearl/regular/9654734200_8618f88c8f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/523_actaea_matsumurae_white_pearl/medium/9654734200_8618f88c8f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/523_actaea_matsumurae_white_pearl/small/9654734200_8618f88c8f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/523_actaea_matsumurae_white_pearl/thumbnail/9654734200_8618f88c8f_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

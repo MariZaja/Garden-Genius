@@ -1,0 +1,133 @@
+{
+    "id": 537,
+    "common_name": "variegated kiwi vine",
+    "scientific_name": [
+        "Actinidia kolomikta"
+    ],
+    "other_name": [],
+    "family": "Actinidiaceae",
+    "origin": [
+        "Temperate eastern Asia"
+    ],
+    "type": "Vine",
+    "dimension": "15.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 15,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Greenwood Cuttings",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=537&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=537&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "brown-red",
+                "red-green"
+            ]
+        },
+        {
+            "part": "fruit",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "white-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=537&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Alkaline",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "purple",
+        "pink",
+        "white"
+    ],
+    "edible_leaf": true,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The variegated kiwi vine (Actinidia kolomikta) is an amazing plant species known for its beauty and hardiness. It produces long, trailing stems covered with green and cream-colored leaves, providing a unique and captivating look to any garden. The vine is incredibly easy to care for, withstanding temperatures down to -20 degrees Fahrenheit, while also thriving in a variety of lighting conditions. As a deciduous climber, it will remain a vibrant green in the warmer months and rich red in the cool. It's a perfect choice for a small trellis or a larger arbor, and can be trained to fit any desired space. With its vibrant coloring, easy maintenance and cold hardiness, the variegated kiwi vine is an amazing addition to any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/537_actinidia_kolomikta/og/51490517809_fc47df43b2_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/537_actinidia_kolomikta/regular/51490517809_fc47df43b2_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/537_actinidia_kolomikta/medium/51490517809_fc47df43b2_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/537_actinidia_kolomikta/small/51490517809_fc47df43b2_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/537_actinidia_kolomikta/thumbnail/51490517809_fc47df43b2_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

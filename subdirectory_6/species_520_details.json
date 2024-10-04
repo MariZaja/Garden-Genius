@@ -1,0 +1,128 @@
+{
+    "id": 520,
+    "common_name": "grassy-leaved sweet flag",
+    "scientific_name": [
+        "Acorus gramineus 'Variegatus'"
+    ],
+    "other_name": [
+        "variegated Japanese flag"
+    ],
+    "family": "Acoraceae",
+    "origin": [
+        "Garden origin"
+    ],
+    "type": "Grass",
+    "dimension": "0.50 to 1.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.5,
+        "max_value": 1,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=520&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=520&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-white",
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "beige"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=520&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Bog"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Grassy-leaved Sweet Flag (Acorus gramineus 'Variegatus') is an amazing plant species for many reasons. Its leaves are variegated and are reminiscent of a rich green grass in appearance. Its flowering stems reach up to 2 feet and bear golden-yellow, bottlebrush-like spikes, making it a showy focal point in the garden. Grassy-leaved Sweet Flag is also very hardy and can tolerate a variety of soil and water conditions, making it an ideal choice for areas where other plants may struggle. Plus, its fragrant, strap-like leaves release a lovely sweet vanilla-like scent when crushed, making it the perfect feature for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/520_acorus_gramineus_variegatus/og/5023687658_c7e24a88ca_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/520_acorus_gramineus_variegatus/regular/5023687658_c7e24a88ca_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/520_acorus_gramineus_variegatus/medium/5023687658_c7e24a88ca_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/520_acorus_gramineus_variegatus/small/5023687658_c7e24a88ca_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/520_acorus_gramineus_variegatus/thumbnail/5023687658_c7e24a88ca_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

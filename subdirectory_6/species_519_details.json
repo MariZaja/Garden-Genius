@@ -1,0 +1,99 @@
+{
+    "id": 519,
+    "common_name": "grassy-leaved sweet flag",
+    "scientific_name": [
+        "Acorus gramineus 'Pusillus Minimus Aureus'"
+    ],
+    "other_name": [],
+    "family": "Acoraceae",
+    "origin": [
+        "Japan",
+        "China",
+        "Korea",
+        "Taiwan"
+    ],
+    "type": "Grass",
+    "dimension": "0.25 to 0.50 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 0.25,
+        "max_value": 0.5,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [],
+    "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Rhizome Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "7"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=519&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=519&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "2-3",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=519&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Low",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow green",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Grassy-leaved sweet flag (Acorus gramineus 'Pusillus Minimus Aureus') is an amazing plant species. It features glossy golden leaves and a mounding, vase-shaped growth habit. The edges of the leaves display an eye-catching yellow-green border. Its fragrant foliage fills the air with a sweet, cinnamony scent, adding a touch of luxury to outdoor living spaces. The plant is drought-tolerant and easy to maintain, making it perfect for residential gardens. Furthermore, it's a great choice for taking a walk-in the rain, providing a cheerful and cheerful backdrop regardless of weather conditions. With its unique, vibrant colors and welcoming aroma, Grassy-leaved sweet flag is an ideal way to add a jaw-dropping beauty to the garden.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,119 @@
+{
+    "id": 527,
+    "common_name": "black cohosh",
+    "scientific_name": [
+        "Actaea racemosa"
+    ],
+    "other_name": [
+        "Bugbane",
+        "Black Snakeroot",
+        "Fairy Candles",
+        "Black Bugbane",
+        "Black Snakeroot",
+        "Fairy Candles",
+        "Black Bugbane"
+    ],
+    "family": "Ranunculaceae",
+    "origin": [
+        "North America"
+    ],
+    "type": "Herb",
+    "dimension": "4.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 4,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Herbaceous Perennial",
+    "attracts": [
+        "Butterflies"
+    ],
+    "propagation": [
+        "Cutting",
+        "Division",
+        "Root Cutting",
+        "Seed Propagation",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=527&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=527&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=527&key=sk-fAZY66f316387ceed6987",
+    "soil": [
+        "Loam",
+        " Humus Enriched"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Black cohosh (Actaea racemosa) is an amazing species, native to North America with many remarkable qualities. The deep and intricate root system of black cohosh is highly valued for medicinal purposes, most notably its ability to help aid and regulate a woman\u2019s menstrual cycle. Additionally, scientific studies indicate that black cohosh\u2019s anti-inflammatory, antispasmodic, analgesic, and anti-oxidant characteristics may be helpful in alleviating muscular and joint pain. The perennial herb grows up to two feet tall producing stunning white flowers and is often found growing in shaded areas. Overall, black cohoes is an amazing species praised for its medicinal uses and prized for its beauty.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/527_actaea_racemosa/og/28204469216_e9680ed0a4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/527_actaea_racemosa/regular/28204469216_e9680ed0a4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/527_actaea_racemosa/medium/28204469216_e9680ed0a4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/527_actaea_racemosa/small/28204469216_e9680ed0a4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/527_actaea_racemosa/thumbnail/28204469216_e9680ed0a4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

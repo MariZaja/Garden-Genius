@@ -1,0 +1,137 @@
+{
+    "id": 504,
+    "common_name": "paurotis palm",
+    "scientific_name": [
+        "Acoelorrhaphe wrightii"
+    ],
+    "other_name": [],
+    "family": "Arecaceae",
+    "origin": [
+        "Caribbean",
+        "Central America",
+        "Florida",
+        "Mexico",
+        "Colombia"
+    ],
+    "type": "Palm or Cycad",
+    "dimension": "15.00 to 20.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 15,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "9",
+        "max": "12"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=504&size=og&key=sk-fAZY66f316387ceed6987",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=504&size=og&key=sk-fAZY66f316387ceed6987'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "yellow-green",
+                "green",
+                "green-beige"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "yellow-green",
+                "green"
+            ]
+        },
+        {
+            "part": "trunks",
+            "color": [
+                "beige-brown",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=504&key=sk-fAZY66f316387ceed6987",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": true,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Creamy yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Paurotis Palm (Acoelorrhaphe wrightii) is an amazing plant species native to the Everglades of Florida. It's a low-maintenance palm that can grow up to 25 feet tall. Its leaves are spectacular - long, thin, and fan-shaped. They have a unique, silver-green color that creates truly beautiful landscapes. The Paurotis is a hardy plant that can tolerate a wide range of temperatures and drought. It's also salt-tolerant, making it perfect for coastal areas. With its easy growth and attractive appearance, the Paurotis Palm is a great choice for any landscaper looking to add a bit of tropical flair to their outdoor spaces.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/504_acoelorrhaphe_wrightii/og/24857511382_4d8a1ef1dc_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/504_acoelorrhaphe_wrightii/regular/24857511382_4d8a1ef1dc_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/504_acoelorrhaphe_wrightii/medium/24857511382_4d8a1ef1dc_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/504_acoelorrhaphe_wrightii/small/24857511382_4d8a1ef1dc_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/504_acoelorrhaphe_wrightii/thumbnail/24857511382_4d8a1ef1dc_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
