@@ -1,0 +1,129 @@
+{
+    "id": 376,
+    "common_name": "Pink Lady Apple",
+    "scientific_name": [
+        "Malus 'Pink Lady'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Australia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=376&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=376&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branch",
+            "color": [
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "pink-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February",
+        "December",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=376&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Pink Lady Apple is an amazing tree whose fruits cannot be matched. Its distinctive pinkish-blush skin houses a crisp, sweet-tart, juicy flavor. Its unique flavor is sourced from the balance between soluble sugars and acids, accented by its brightly colored skin. Pink Lady Apples sports a long storage life and can be enjoyed for up to 3 months after harvest. Its distinct color stands out for a variety of uses, from fresh snacking to adding interest to salads. The attractive look of this apple makes it a great choice for decorative uses such as centerpieces, wreaths and garlands, as well as baking. With its delectable flavor and eye-catching hue, the Pink Lady Apple is sure to be a crowd favorite.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/376_malus_pink_lady/og/25239912735_4801f32049_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/376_malus_pink_lady/regular/25239912735_4801f32049_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/376_malus_pink_lady/medium/25239912735_4801f32049_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/376_malus_pink_lady/small/25239912735_4801f32049_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/376_malus_pink_lady/thumbnail/25239912735_4801f32049_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

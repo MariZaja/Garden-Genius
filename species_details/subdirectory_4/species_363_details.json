@@ -1,0 +1,148 @@
+{
+    "id": 363,
+    "common_name": "Golden Delicious Apple",
+    "scientific_name": [
+        "Malus 'Golden Delicious'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=363&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=363&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "twig",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green",
+                "green"
+            ]
+        },
+        {
+            "part": "fruit",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "green-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=363&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Malus 'Golden Delicious' is a stunning variety of apple renowned for its crunchy, sweet flavor. It is the quintessential apple, and a favorite among many. The unique color of the skin, which ranges from a brilliant yellow to a soft orange, showcases the remarkable flavor and texture of the apple. This apple is also highly productive, so you can get more for your money. Whether you are making homemade apple pies, apple cider, or just enjoying a delicious snack, the Golden Delicious Apple is the perfect choice. It's a great way to add a fresh and delicious taste to any dish.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/363_malus_golden_delicious/og/49974806732_27600746d1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/363_malus_golden_delicious/regular/49974806732_27600746d1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/363_malus_golden_delicious/medium/49974806732_27600746d1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/363_malus_golden_delicious/small/49974806732_27600746d1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/363_malus_golden_delicious/thumbnail/49974806732_27600746d1_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

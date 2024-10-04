@@ -1,0 +1,124 @@
+{
+    "id": 314,
+    "common_name": "Coral Sun Golden Rain Tree",
+    "scientific_name": [
+        "Koelreuteria paniculata 'Coral Sun'"
+    ],
+    "other_name": [
+        "Varnish Tree",
+        "Pride of India"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Northern China",
+        "Korea",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=314&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=314&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "12"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=314&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Dieback",
+        " Root rot",
+        " Wilt",
+        "  Pest resistant",
+        " Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "yellow",
+        "orange",
+        "pink"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "coral"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Coral Sun Golden Rain Tree has earned its name due to the amazing orange-pink flowers that appear in late summer. Once established, this deciduous, hardy tree flourishes in full sun and is fairly drought tolerant. It also produces showy, bright yellow seed pods which keep the garden looking vibrant even during the summer season. With its stunning foliage and intricate blooms, the Coral Sun Golden Rain Tree is a beautiful addition to any garden, providing a great source of color, texture, and interest. Its easy maintenance and attractive form make it a great choice for those looking for a unique and eye-catching specimen tree.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/314_koelreuteria_paniculata_coral_sun/og/800px-Koelreuteria_paniculata_JPG1H.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/314_koelreuteria_paniculata_coral_sun/regular/800px-Koelreuteria_paniculata_JPG1H.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/314_koelreuteria_paniculata_coral_sun/medium/800px-Koelreuteria_paniculata_JPG1H.jpg",
+        "small_url": "https://perenual.com/storage/species_image/314_koelreuteria_paniculata_coral_sun/small/800px-Koelreuteria_paniculata_JPG1H.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/314_koelreuteria_paniculata_coral_sun/thumbnail/800px-Koelreuteria_paniculata_JPG1H.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

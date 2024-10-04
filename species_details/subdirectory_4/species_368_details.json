@@ -1,0 +1,141 @@
+{
+    "id": 368,
+    "common_name": "Jonagold Apple",
+    "scientific_name": [
+        "Malus 'Jonagold'"
+    ],
+    "other_name": [],
+    "family": "Rosaceae",
+    "origin": [
+        "Belgium",
+        "Netherlands",
+        "Luxembourg",
+        "Germany"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds",
+        " Hummingbirds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=368&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=368&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "pink-red"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "High",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=368&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Jonagold Apple is an amazing and delicious apple variety! It is one of the most popular and sought-after apple varieties in the world, due to its sweet and crisp texture. Its golden yellow and bright red skin is filled with white, crunchy flesh and sweet-tart apple flavor. It is great for eating fresh, cooked in pie or crisp, or dried. Jonagold apples are a great source of dietary fiber and vitamin C, making it a great choice for a healthy snack. Its flavor is so unforgettable that it is sure to satisfy any apple lover!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/368_malus_jonagold/og/3968289043_ec00297a19_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/368_malus_jonagold/regular/3968289043_ec00297a19_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/368_malus_jonagold/medium/3968289043_ec00297a19_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/368_malus_jonagold/small/3968289043_ec00297a19_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/368_malus_jonagold/thumbnail/3968289043_ec00297a19_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

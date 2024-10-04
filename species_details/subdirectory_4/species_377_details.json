@@ -1,0 +1,110 @@
+{
+    "id": 377,
+    "common_name": "Prairifire Flowering Crab",
+    "scientific_name": [
+        "Malus 'Prairifire'"
+    ],
+    "other_name": [
+        "Prairiefire",
+        "Prairie Fire",
+        "Prairefire"
+    ],
+    "family": "Rosaceae",
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds",
+        " Butterflies"
+    ],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=377&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=377&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=377&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Deep pinkish red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "purple",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Prairifire Flowering Crab (Malus 'Prairifire') is an amazing species of flowering crabapple. Its stunning bright pink flowers and deep red summer foliage makes for an eye-catching display. It has incredible disease resistance and is drought tolerant, making it perfect for gardens in a range of climates and settings. Prairifire Flowering Crab is very low-maintenance and blooms profusely in the spring, and with its relatively small stature it can fit into almost any garden. This small flowering tree is hardy and will bring wildlife into your garden with its colourful fruit in the late summer.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/377_malus_prairifire/og/10106223855_71b40e6586_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/377_malus_prairifire/regular/10106223855_71b40e6586_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/377_malus_prairifire/medium/10106223855_71b40e6586_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/377_malus_prairifire/small/10106223855_71b40e6586_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/377_malus_prairifire/thumbnail/10106223855_71b40e6586_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

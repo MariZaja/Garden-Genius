@@ -1,0 +1,113 @@
+{
+    "id": 307,
+    "common_name": "Carpathian English Walnut",
+    "scientific_name": [
+        "Juglans regia 'Carpathian'"
+    ],
+    "other_name": [
+        "Common Walnut",
+        "Persian Walnut"
+    ],
+    "family": "Juglandaceae",
+    "origin": [
+        "Europe",
+        "central Asia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=307&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=307&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "August",
+        "May",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=307&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellowish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Carpathian English Walnut is an amazing plant species because of its unique characteristics and unusual hardiness. This majestic tree can grow up to 35 feet tall and has a vibrant green foliage with glossy leaves that turn yellow in the fall. Its fragrant flowers give way to large round nuts, which are very popular in the culinary world. Its bark is a beautiful deep chocolate color and is often used for furniture and interior design. What makes this species of walnut truly special is its great resistance to disease and pests and its ability to thrive even in cold climates. The Carpathian English Walnut is definitely a stunning addition to any garden!",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/307_juglans_regia_carpathian/og/nut-walnut-walnut-tree-tree.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/307_juglans_regia_carpathian/regular/nut-walnut-walnut-tree-tree.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/307_juglans_regia_carpathian/medium/nut-walnut-walnut-tree-tree.jpg",
+        "small_url": "https://perenual.com/storage/species_image/307_juglans_regia_carpathian/small/nut-walnut-walnut-tree-tree.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/307_juglans_regia_carpathian/thumbnail/nut-walnut-walnut-tree-tree.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

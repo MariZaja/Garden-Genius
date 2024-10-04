@@ -1,0 +1,143 @@
+{
+    "id": 330,
+    "common_name": "Elizabeth Magnolia",
+    "scientific_name": [
+        "Magnolia 'Elizabeth'"
+    ],
+    "other_name": [],
+    "family": "Magnoliaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=330&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=330&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "white-yellow"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=330&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "High",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Elizabeth Magnolia is a stunning flowering tree that can bring elegance and beauty to any garden. Its large, white, fragrant blooms appear in early spring and light up the landscape with their exceptional charm. The attractive deep green, lustrous leaves turn a beautiful yellow-bronze in the autumn, adding to the tree's seasonal beauty. Growing to a height of up to 30 feet and with a wide, rounded crown, the Elizabeth Magnolia is an amazing species for any garden. Its hardy nature, low maintenance requirements, and exquisite flowers make it an outstanding addition to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/330_magnolia_elizabeth/og/47030569101_8ff0b0310a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/330_magnolia_elizabeth/regular/47030569101_8ff0b0310a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/330_magnolia_elizabeth/medium/47030569101_8ff0b0310a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/330_magnolia_elizabeth/small/47030569101_8ff0b0310a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/330_magnolia_elizabeth/thumbnail/47030569101_8ff0b0310a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

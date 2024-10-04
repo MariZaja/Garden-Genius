@@ -1,0 +1,124 @@
+{
+    "id": 364,
+    "common_name": "Golden Russet Apple",
+    "scientific_name": [
+        "Malus 'Golden Russet'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  18 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 18,
+        "max_value": 18,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Cleft Grafting Propagation",
+        "Whip Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=364&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=364&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "fruits",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "deep-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=364&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Russet Apple is truly a sight to behold! Not only is it a dazzling golden hue, it also has an exquisite flavor. The sweet, buttery taste with a slight tartness makes it perfect for eating raw, baking and cooking with. This versatile apple is also incredibly high in antioxidants and vitamin C, making it a great addition to any healthy diet. Despite its delicate appearance, it's known for having a robust texture, giving it great staying power when stored in the cooler months. If you're looking for an amazing, unique apple with good looks and great taste, the Golden Russet Apple is the one for you!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/364_malus_golden_russet/og/Malus_sylvestris_005.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/364_malus_golden_russet/regular/Malus_sylvestris_005.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/364_malus_golden_russet/medium/Malus_sylvestris_005.jpg",
+        "small_url": "https://perenual.com/storage/species_image/364_malus_golden_russet/small/Malus_sylvestris_005.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/364_malus_golden_russet/thumbnail/Malus_sylvestris_005.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

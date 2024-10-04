@@ -1,0 +1,128 @@
+{
+    "id": 319,
+    "common_name": "Sweet Gum",
+    "scientific_name": [
+        "Liquidambar styraciflua"
+    ],
+    "other_name": [
+        "American Sweet Gum"
+    ],
+    "family": "Altingiaceae",
+    "origin": [
+        "Eastern United States",
+        "Mexico"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=319&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=319&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=319&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange",
+        "brown"
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Sweet Gum Tree is amazing for its beautiful symmetrical canopy of star-shaped leaves, the shimmering abundance of spiky seedpods and its attractive bark. This landscaping favorite is a hardy and versatile tree, thriving in many types of soils and climates, and is resistant to many urban exposures. In fall, it adds a flame of color to any garden as it changes to shades of yellow, orange, and red. Its strong timber has been used for furniture, musical instruments, and even boat-building, and its sweet sap can be tapped and turned into syrup or used in medicine.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/319_liquidambar_styraciflua/og/52423149590_da255cc041_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/319_liquidambar_styraciflua/regular/52423149590_da255cc041_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/319_liquidambar_styraciflua/medium/52423149590_da255cc041_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/319_liquidambar_styraciflua/small/52423149590_da255cc041_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/319_liquidambar_styraciflua/thumbnail/52423149590_da255cc041_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

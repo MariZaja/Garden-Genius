@@ -1,0 +1,136 @@
+{
+    "id": 340,
+    "common_name": "Bracken's Brown Beauty Magnolia",
+    "scientific_name": [
+        "Magnolia grandiflora 'Bracken's Brown Beauty'"
+    ],
+    "other_name": [
+        "Bull Bay"
+    ],
+    "family": "Magnoliaceae",
+    "origin": [
+        "Southeastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=340&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=340&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "red-green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white",
+                "white-peach"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "red-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=340&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Diptera - true flies",
+        " Leaf miner insect",
+        " Stem borer insects"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "bronze",
+        "green",
+        "brown"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Bracken's Brown Beauty Magnolia is a magnificent sight for sore eyes. This stunning plant species is renowned for its captivating blooms with stunningly brown tinted petals that sprawl gracefully around its green foliage. The Bracken's Brown Beauty Magnolia also prides itself on its sturdy branches and drought resistant properties. It grows best in warm climates and will create a majestic environment that blooms magnificently throughout the year. This species is also particularly low maintenance, requiring minimal effort to keep its beauty intact. All in all, this breathtaking plant is truly a sight to behold.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/340_magnolia_grandiflora_brackens_brown_beauty/og/21530242714_d0662b679a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/340_magnolia_grandiflora_brackens_brown_beauty/regular/21530242714_d0662b679a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/340_magnolia_grandiflora_brackens_brown_beauty/medium/21530242714_d0662b679a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/340_magnolia_grandiflora_brackens_brown_beauty/small/21530242714_d0662b679a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/340_magnolia_grandiflora_brackens_brown_beauty/thumbnail/21530242714_d0662b679a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,141 @@
+{
+    "id": 387,
+    "common_name": "Zestar Apple",
+    "scientific_name": [
+        "Malus 'Zestar'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=387&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=387&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branch",
+            "color": [
+                "green-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "pink-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=387&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Malus 'Zestar' is an amazing apple variety that is easy to grow and perfect for the backyard gardener. It is a great snack apple that is sweet and juicy in flavour, with a hint of tartness. It is an early season variety that produces an abundance of large, red apples that are ready for harvest in late August. Zestar apples also have great disease resistance and store well, making them a great choice for both fresh eating and storage. They can be used for cooking and baking too, adding their unique flavour to recipes. Zestar apples are truly a gardeners dream.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/387_malus_zestar/og/6123001930_f9b7729ef4_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/387_malus_zestar/regular/6123001930_f9b7729ef4_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/387_malus_zestar/medium/6123001930_f9b7729ef4_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/387_malus_zestar/small/6123001930_f9b7729ef4_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/387_malus_zestar/thumbnail/6123001930_f9b7729ef4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

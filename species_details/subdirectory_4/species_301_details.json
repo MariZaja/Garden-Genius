@@ -1,0 +1,106 @@
+{
+    "id": 301,
+    "common_name": "Sunburst Honeylocust",
+    "scientific_name": [
+        "Gleditsia triacanthos 'Suncole'"
+    ],
+    "other_name": [],
+    "family": "Fabaceae",
+    "origin": [
+        "Central and eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=301&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=301&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=301&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Sunburst Honeylocust is an amazing tree, especially for its decorative appeal. This fast-growing tree has an oval canopy and beautiful, emerald green foliage that turns to yellow in the fall. Its small, fragrant yellow flowers burst forth in the summer, followed by the dark-colored seed pods that give it its name. It is an easy to care for tree and requires minimal pruning and fertilizing, making it a great choice for busy landscapers. Its deep, yellow-gold leaves and its readiness to thrive in many climates makes this an excellent choice for any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/301_gleditsia_triacanthos_suncole/og/Gleditsia_triacanthos_in_Donetsk_2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/301_gleditsia_triacanthos_suncole/regular/Gleditsia_triacanthos_in_Donetsk_2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/301_gleditsia_triacanthos_suncole/medium/Gleditsia_triacanthos_in_Donetsk_2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/301_gleditsia_triacanthos_suncole/small/Gleditsia_triacanthos_in_Donetsk_2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/301_gleditsia_triacanthos_suncole/thumbnail/Gleditsia_triacanthos_in_Donetsk_2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

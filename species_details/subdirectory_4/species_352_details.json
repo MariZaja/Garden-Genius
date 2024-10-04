@@ -1,0 +1,126 @@
+{
+    "id": 352,
+    "common_name": "Ambrosia Apple",
+    "scientific_name": [
+        "Malus 'Ambrosia'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Tissue Culture",
+        "Air Layering Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=352&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=352&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "fruits",
+            "color": [
+                "pink-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=352&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "yellow",
+        "pink"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Ambrosia Apple (Malus 'Ambrosia') is truly a remarkable species. Not only is it an excellent source of vitamins and minerals, but it's also one of the sweetest, juiciest apples you'll ever taste. Its crisp, rich flavor is quite unforgettable. And if you're into organic gardening, you'll find that this apple is easy to cultivate. Its golden-yellow skin is not only decorative but also disease-resistant and very hardy. The Ambrosia Apple is a great addition to any home garden; its beauty, flavor, and hardiness make it an excellent choice for any backyard orchard.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/352_malus_ambrosia/og/30356393327_b96daa22cb_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/352_malus_ambrosia/regular/30356393327_b96daa22cb_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/352_malus_ambrosia/medium/30356393327_b96daa22cb_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/352_malus_ambrosia/small/30356393327_b96daa22cb_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/352_malus_ambrosia/thumbnail/30356393327_b96daa22cb_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

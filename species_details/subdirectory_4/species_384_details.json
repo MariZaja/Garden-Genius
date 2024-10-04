@@ -1,0 +1,123 @@
+{
+    "id": 384,
+    "common_name": "Summerland Apple",
+    "scientific_name": [
+        "Malus 'Summerland'"
+    ],
+    "other_name": [
+        "Summerland MacIntosh Apple"
+    ],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=384&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=384&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "8"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=384&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Summerland Apple (Malus 'Summerland') is an amazing variety of apple that is sure to please. It is a medium-sized, crisp apple with a deep red skin and yellowish-green flesh. This apple is perfect for baking and snacking, as it has a sweet, mild flavor. It is also highly resistant to disease and insect damage and grows best in full sun. With a chill hour requirement of 600-800, this apple is well-suited for climates in the midwest and east coast of the United States. Whether eaten as a snack or used to make pies or applesauce, the Summerland Apple will not disappoint.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/384_malus_summerland/og/1280px-Malus_Galmac.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/384_malus_summerland/regular/1280px-Malus_Galmac.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/384_malus_summerland/medium/1280px-Malus_Galmac.jpg",
+        "small_url": "https://perenual.com/storage/species_image/384_malus_summerland/small/1280px-Malus_Galmac.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/384_malus_summerland/thumbnail/1280px-Malus_Galmac.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

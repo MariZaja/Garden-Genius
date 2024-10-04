@@ -1,0 +1,136 @@
+{
+    "id": 392,
+    "common_name": "Sourwood",
+    "scientific_name": [
+        "Oxydendron arboreum"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=392&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=392&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "gray",
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray",
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=392&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "maroon"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Sourwood, also known as Oxydendron arboreum, is a truly magnificent tree species. Not only is its foliage spectacular - with elliptic-ovate, glossy green leaves that turn to beautiful shades of orange and red in the autumn - but its flowers are equally show-stopping. Fragrant, creamy white blossoms appear in late summer and attract a host of pollinators, while its pendulous clusters of drupes provide food for birds and other animals. Its drought tolerance and resistance to disease make it an excellent choice for naturalizing, and its low, open branching habit adds aesthetic appeal to any garden. Sourwood is a tree that's worth seeking out!",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/392_oxydendron_arboreum/og/22511463730_9ffccbc95e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/392_oxydendron_arboreum/regular/22511463730_9ffccbc95e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/392_oxydendron_arboreum/medium/22511463730_9ffccbc95e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/392_oxydendron_arboreum/small/22511463730_9ffccbc95e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/392_oxydendron_arboreum/thumbnail/22511463730_9ffccbc95e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

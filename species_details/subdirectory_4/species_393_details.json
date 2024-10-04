@@ -1,0 +1,132 @@
+{
+    "id": 393,
+    "common_name": "Persian Parrotia",
+    "scientific_name": [
+        "Parrotia persica"
+    ],
+    "other_name": [
+        "Persian Ironwood",
+        "Persian ironwood"
+    ],
+    "family": "Hamamelidaceae",
+    "origin": [
+        "Northern Iran",
+        "Caucaus"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Hardwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=393&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=393&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green",
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "May"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=393&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Winter",
+    "flower_color": "Red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Persian Parrotia (Parrotia persica) is an amazing tree species native to northern Iran and Caucasia that is well suited for gardens, parks and urban settings. Its stunning bark, long-lasting flowers and unique fruits make it a strongly recommended tree for any garden or park. Apart from the beautiful exfoliating bark in shades of deep umber, the new season leaves of Persian Parrotia are a brilliant bronze and burgundy shade that matures to a glossy deep green. The small fruits in autumn are yellow or orange and provide food for birds; that combined with year-round interest make it a valuable species to have in your outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/393_parrotia_persica/og/50082932326_cf57855708_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/393_parrotia_persica/regular/50082932326_cf57855708_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/393_parrotia_persica/medium/50082932326_cf57855708_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/393_parrotia_persica/small/50082932326_cf57855708_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/393_parrotia_persica/thumbnail/50082932326_cf57855708_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

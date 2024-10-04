@@ -1,0 +1,147 @@
+{
+    "id": 310,
+    "common_name": "Rocky Mountain Juniper",
+    "scientific_name": [
+        "Juniperus scopulorum"
+    ],
+    "other_name": [
+        "Colorado Redcedar"
+    ],
+    "family": null,
+    "origin": [
+        "United States",
+        "Canada"
+    ],
+    "type": "tree",
+    "dimension": "Height:  50 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 50,
+        "max_value": 50,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Air Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=310&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=310&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green",
+                "yellow-green",
+                "dark-green"
+            ]
+        },
+        {
+            "part": "berries",
+            "color": [
+                "blue"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown",
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "dark-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=310&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Sandy Loamy Clay Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Rocky Mountain Juniper (Juniperus scopulorum) is an amazing evergreen coniferous shrub. Native to rocky, mountainous regions of western North America, it is an extremely hardy, low- maintenance plant. Its branches form a dense canopy of slender, steel-blue-green needle-like leaves and small, berry-like cones. Rocky Mountain Juniper can easily survive in windswept areas and tolerate drought, requiring little care once established. Its unique, attractive blue foliage is an eye-catching feature for any garden and this juniper's slow growth rate means it can be kept very small in containers, allowing for flexible placement. Whether you prefer it for its ornamental beauty or its low maintenance, Rocky Mountain Juniper is a great choice for any outdoor space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/310_juniperus_scopulorum/og/52135945052_215b8a8fbf_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/310_juniperus_scopulorum/regular/52135945052_215b8a8fbf_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/310_juniperus_scopulorum/medium/52135945052_215b8a8fbf_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/310_juniperus_scopulorum/small/52135945052_215b8a8fbf_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/310_juniperus_scopulorum/thumbnail/52135945052_215b8a8fbf_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

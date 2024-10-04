@@ -1,0 +1,150 @@
+{
+    "id": 318,
+    "common_name": "Bay Laurel",
+    "scientific_name": [
+        "Laurus nobilis"
+    ],
+    "other_name": [
+        "Sweet Bay",
+        "Bay Leaf"
+    ],
+    "family": "Lauraceae",
+    "origin": [
+        "Northern Africa",
+        "western Asia",
+        "southern Europe"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "8",
+        "max": "8"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=318&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=318&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May",
+        "September",
+        "October",
+        "November",
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=318&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Fungal leaf spot",
+        "  Pest resistant",
+        " Rabbit resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellowish-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "purple",
+        "black"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Bay Laurel (Laurus nobilis) is a hardy, evergreen shrub native to the Mediterranean. This versatile plant is well known for its culinary use as a flavorful herb, but it is also admired for its ornamental features. The glossy, dark green Bay Laurel leaves can be used fresh or dried for a range of culinary dishes. Additionally, it can make a great addition to any garden due to its beauty. The tree can grow up to 4 meters in height and its fragrant yellow flowers will attract pollinators. It is also incredibly easy to care for and can grow in a variety of climates. In conclusion, the Bay Laurel is an amazing plant species due to its unique flavors, ornamental features, and hardy nature.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/318_laurus_nobilis/og/24776239912_a8a8ce8368_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/318_laurus_nobilis/regular/24776239912_a8a8ce8368_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/318_laurus_nobilis/medium/24776239912_a8a8ce8368_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/318_laurus_nobilis/small/24776239912_a8a8ce8368_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/318_laurus_nobilis/thumbnail/24776239912_a8a8ce8368_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

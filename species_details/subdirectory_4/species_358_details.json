@@ -1,0 +1,110 @@
+{
+    "id": 358,
+    "common_name": "Cox's Orange Pippin Apple",
+    "scientific_name": [
+        "Malus 'Cox's Orange Pippin'"
+    ],
+    "other_name": [
+        "Cox Orange"
+    ],
+    "family": null,
+    "origin": [
+        "United Kingdom"
+    ],
+    "type": "tree",
+    "dimension": "Height:  24 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 24,
+        "max_value": 24,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=358&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=358&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "2"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=358&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Malus 'Cox's Orange Pippin' is an amazing and highly sought-after apple cultivar. It's known for its sweet, sharp and juicy flavour and brightly coloured fruits. It's one of the oldest cultivated apple varieties and has been grown in Britain since the early 1800s. This apple tree is distinguished by its upright and spreading habit, with short spurs and large, rounded green leaves. The Cox's Orange Pippin can produce large, bright orange fruits with yellow flesh and creamy-white juice. It's one of the most popular eating apples and is an excellent choice for pies, sauces and cider. Its delicate flavour and attractive shape make the Cox's Orange Pippin an unforgettable addition to any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/358_malus_coxs_orange_pippin/og/Cox_orange_renette2.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/358_malus_coxs_orange_pippin/regular/Cox_orange_renette2.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/358_malus_coxs_orange_pippin/medium/Cox_orange_renette2.jpg",
+        "small_url": "https://perenual.com/storage/species_image/358_malus_coxs_orange_pippin/small/Cox_orange_renette2.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/358_malus_coxs_orange_pippin/thumbnail/Cox_orange_renette2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

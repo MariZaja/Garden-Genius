@@ -1,0 +1,122 @@
+{
+    "id": 399,
+    "common_name": "abelia",
+    "scientific_name": [
+        "Abelia 'Edward Goucher'"
+    ],
+    "other_name": [],
+    "family": "Caprifoliaceae",
+    "origin": [
+        "China"
+    ],
+    "type": "Deciduous shrub",
+    "dimension": "3.00 to 5.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 5,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=399&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=399&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "green",
+                "red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "red-green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=399&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Lavender - pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Abelia 'Edward Goucher' is an amazing plant species, boasting bright variegated foliage, fragrant white flowers, and breathtaking red-purple stems. The leaves of 'Edward Goucher' are green with a creamy yellow edge, making it an eye-catching addition to any garden. During midsummer, the shrub becomes covered in fragrant white flowers that attract bees and hummingbirds. As the season advances, \u2018Edward Goucher\u2019s showy stems begin to turn a beautiful red-purple. This Abelia is a great choice for border planting, privacy hedges, and flowering shrubs. It's perfect for creating a standout look for any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/399_abelia_edward_goucher/og/4805869382_d949cbb13a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/399_abelia_edward_goucher/regular/4805869382_d949cbb13a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/399_abelia_edward_goucher/medium/4805869382_d949cbb13a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/399_abelia_edward_goucher/small/4805869382_d949cbb13a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/399_abelia_edward_goucher/thumbnail/4805869382_d949cbb13a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

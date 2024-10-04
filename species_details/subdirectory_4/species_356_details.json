@@ -1,0 +1,110 @@
+{
+    "id": 356,
+    "common_name": "Chehalis Apple",
+    "scientific_name": [
+        "Malus 'Chehalis'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=356&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=356&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=356&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Chehalis Apple is an amazing plant species, due to its great cold hardiness. Chehalis Apple is able to tolerate winter temperatures down to -25 F making it an excellent choice for colder climates. The plant bears medium-sized, yellow-green fruit with red blushes that are commonly used for juicing and cider. Its blossoms are an appealing pink-white shade and the branches are an attractive deep maroon shade. It is also very low maintenance, needing minimal pruning and can without difficulty go without water for extended periods. For gardeners looking for a hardy and attractive apple tree, Chehalis Apple is an excellent option.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/356_malus_chehalis/og/apple_garden_apfelernte_green_red_apple_tree_autumn_pick_food-689389.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/356_malus_chehalis/regular/apple_garden_apfelernte_green_red_apple_tree_autumn_pick_food-689389.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/356_malus_chehalis/medium/apple_garden_apfelernte_green_red_apple_tree_autumn_pick_food-689389.jpg",
+        "small_url": "https://perenual.com/storage/species_image/356_malus_chehalis/small/apple_garden_apfelernte_green_red_apple_tree_autumn_pick_food-689389.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/356_malus_chehalis/thumbnail/apple_garden_apfelernte_green_red_apple_tree_autumn_pick_food-689389.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

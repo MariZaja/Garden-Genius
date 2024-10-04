@@ -1,0 +1,118 @@
+{
+    "id": 305,
+    "common_name": "Pink Diamond Hydrangea (tree form)",
+    "scientific_name": [
+        "Hydrangea paniculata 'Pink Diamond (tree form)'"
+    ],
+    "other_name": [
+        "P.G. Hydrangea"
+    ],
+    "family": "Hydrangeaceae",
+    "origin": [
+        "Eastern and southern China",
+        "Japan",
+        "Sakhalin",
+        "Kuril Island"
+    ],
+    "type": "tree",
+    "dimension": "Height:  6 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 6,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Division"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=305&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=305&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "August",
+        "February",
+        "August",
+        "February"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=305&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Abiotic disorder",
+        " Fungal leaf spot",
+        " Mildew",
+        " Mold",
+        " Nematodes",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "pink",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Pink Diamond Hydrangea tree is one of the most majestic and stunning flowering trees. Its long-lasting, bright pink blooms adorn the tree from early summer through to autumn, providing a memorable and eye-catching display. Its showy clusters of flowers give the tree a wonderfully full and lush appearance, and its stunning hue is a sight to behold. Growing in a rounded and compact form, the Pink Diamond Hydrangea tree is a low maintenance, easy-care choice that will remain relatively compact if pruned regularly, making it perfect for smaller garden spaces.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

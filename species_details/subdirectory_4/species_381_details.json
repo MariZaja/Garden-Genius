@@ -1,0 +1,129 @@
+{
+    "id": 381,
+    "common_name": "Sentinel Flowering Crab",
+    "scientific_name": [
+        "Malus 'Sentinel'"
+    ],
+    "other_name": [
+        "Roseybloom",
+        "Crabapple"
+    ],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Cutting",
+        "Air Layering Propagation",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=381&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=381&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "twig",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "fruit",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "yellow-green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=381&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Sentinel Flowering Crab is a stunning ornamental tree sure to enhance any landscape. Its springtime show of blooms is truly breathtaking, boasting bright pinkish-white, 2-3 inch diameter flowers to greet the warmer seasons. The Sentinel\u2019s maroon colored bark and dark green foliage provide a beautiful contrast throughout the rest of the year. Adaptable and easy to care for, this heat and drought tolerant beauty is low maintenance and requires minimal pruning.It's also resistant to pests and diseases, perfect for gardens and cityscapes. Add it to your landscape and enjoy watching this conversation piece bloom for years to come.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/381_malus_sentinel/og/49409253573_b0a8bd2496_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/381_malus_sentinel/regular/49409253573_b0a8bd2496_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/381_malus_sentinel/medium/49409253573_b0a8bd2496_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/381_malus_sentinel/small/49409253573_b0a8bd2496_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/381_malus_sentinel/thumbnail/49409253573_b0a8bd2496_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

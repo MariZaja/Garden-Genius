@@ -1,0 +1,142 @@
+{
+    "id": 347,
+    "common_name": "Leonard Messel Magnolia",
+    "scientific_name": [
+        "Magnolia x loebneri 'Leonard Messel'"
+    ],
+    "other_name": [],
+    "family": "Magnoliaceae",
+    "origin": [
+        "Garden origin (M. kobus x M. stellata)"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=347&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=347&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "2"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "pink-purple",
+                "pink-white"
+            ]
+        },
+        {
+            "part": "pistil",
+            "color": [
+                "green-white"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green-red"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=347&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Showy, White, Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "pink"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Leonard Messel Magnolia is an amazing plant species that is sure to make any garden stand out. Its vibrant blooms vary in color throughout the season, with shades of pink and purple that range from hot pink to deep lilac, set against finely textured dark green foliage. Highly fragrant, this is a stunning deciduous tree that grows to approximately 18 feet tall and 15 feet wide, ideal for most gardens and landscapes. Best of all, this crop is relatively easy to care for, requiring minimal round-up of pests and diseases, and is drought-tolerant. With its striking color, fragrance, and ease of maintenance, Leonard Messel Magnolia is a must-have for all gardeners.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/347_magnolia_x_loebneri_leonard_messel/og/46116900715_8f58d82c01_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/347_magnolia_x_loebneri_leonard_messel/regular/46116900715_8f58d82c01_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/347_magnolia_x_loebneri_leonard_messel/medium/46116900715_8f58d82c01_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/347_magnolia_x_loebneri_leonard_messel/small/46116900715_8f58d82c01_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/347_magnolia_x_loebneri_leonard_messel/thumbnail/46116900715_8f58d82c01_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

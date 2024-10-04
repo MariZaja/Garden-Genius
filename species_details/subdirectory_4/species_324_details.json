@@ -1,0 +1,114 @@
+{
+    "id": 324,
+    "common_name": "Tuliptree",
+    "scientific_name": [
+        "Liriodendron tulipifera"
+    ],
+    "other_name": [
+        "Tulip Magnolia",
+        "Yellow Poplar",
+        "Whitewood"
+    ],
+    "family": "Magnoliaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  90 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 90,
+        "max_value": 90,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds",
+        " Hummingbirds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Grafting Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=324&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=324&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=324&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Loamy Humus"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        " Fungal leaf spot",
+        " Root rot"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow with orange band at petal bases",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "brown"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Tuliptree, also known as the Liriodendron tulipifera, is an amazing species of tree native to North America. It is an elegant tree with a straight trunk, impressive size, and lush foliage. Its most defining feature are its distinctive flowers. The tulips come in shades of yellow, orange, and green and are a sight to behold in any garden or landscape. It can also be used to create a beautiful privacy hedge with its fast growth rate. Lastly, you will benefit from the Tuliptree if you own a honey bee business due to its fragrant and abundant blooms that attract their pollinators.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/324_liriodendron_tulipifera/og/2048px-Liriodendron_tulipifera_tulip_close.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/324_liriodendron_tulipifera/regular/2048px-Liriodendron_tulipifera_tulip_close.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/324_liriodendron_tulipifera/medium/2048px-Liriodendron_tulipifera_tulip_close.jpg",
+        "small_url": "https://perenual.com/storage/species_image/324_liriodendron_tulipifera/small/2048px-Liriodendron_tulipifera_tulip_close.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/324_liriodendron_tulipifera/thumbnail/2048px-Liriodendron_tulipifera_tulip_close.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

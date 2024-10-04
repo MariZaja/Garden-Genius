@@ -1,0 +1,152 @@
+{
+    "id": 348,
+    "common_name": "Merrill Magnolia",
+    "scientific_name": [
+        "Magnolia x loebneri 'Merrill'"
+    ],
+    "other_name": [],
+    "family": "Magnoliaceae",
+    "origin": [
+        "Garden origin (M. kobus x M. stellata)"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=348&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=348&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "pink-white"
+            ]
+        },
+        {
+            "part": "twig",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "gray-brown",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "gray-brown",
+                "green-brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "white",
+                "white-pink"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=348&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Showy, White, Pink",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Merrill Magnolia is an amazing plant species due to its hardiness and striking beauty. It boasts an impressive variety of white and pinkish-lavender blooms in the springtime, delighting gardeners with its impressive visual display. This fast-growing variety of magnolia will reach heights of 12-15 feet at maturity and its evergreen foliage provides color throughout the year. The Merrill Magnolia is a very hardy variety and can withstand various adverse conditions such as drought and extreme temperatures. Plus, its beauty and ease of growth makes it a great choice for any garden.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/348_magnolia_x_loebneri_merrill/og/51928821369_9ec6298a22_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/348_magnolia_x_loebneri_merrill/regular/51928821369_9ec6298a22_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/348_magnolia_x_loebneri_merrill/medium/51928821369_9ec6298a22_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/348_magnolia_x_loebneri_merrill/small/51928821369_9ec6298a22_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/348_magnolia_x_loebneri_merrill/thumbnail/51928821369_9ec6298a22_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

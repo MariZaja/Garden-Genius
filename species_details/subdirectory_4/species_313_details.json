@@ -1,0 +1,157 @@
+{
+    "id": 313,
+    "common_name": "Golden Rain Tree",
+    "scientific_name": [
+        "Koelreuteria paniculata"
+    ],
+    "other_name": [
+        "Varnish Tree",
+        "Pride of India"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+        "Northern China",
+        "Korea",
+        "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  35 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 35,
+        "max_value": 35,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=313&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=313&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stems",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green",
+                "dark-green",
+                "green-orange"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow",
+                "white"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "Full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=313&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Dieback",
+        " Root rot",
+        " Wilt",
+        "  Pest resistant",
+        " Disease resistant",
+        " Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Summer",
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "yellow",
+        "orange",
+        "brown"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Rain Tree (Koelreuteria paniculata) is an amazing tree with a multitude of benefits. Not only is it visually stunning with its bright yellow blossoms and purple seed pods in the summertime, but it is also drought tolerant and pest-resistant. Its versatility allows it to adapt to any environment, providing ample shade and shelter for wildlife. It is a low-maintenance species and requires minimal pruning and fertilizer. Its steady growth rate and fire resistance make it a great choice for landscaping projects. The Golden Rain Tree brings a touch of vibrancy and natural beauty to any home or commercial space.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/313_koelreuteria_paniculata/og/52179977604_1257d15a3b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/313_koelreuteria_paniculata/regular/52179977604_1257d15a3b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/313_koelreuteria_paniculata/medium/52179977604_1257d15a3b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/313_koelreuteria_paniculata/small/52179977604_1257d15a3b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/313_koelreuteria_paniculata/thumbnail/52179977604_1257d15a3b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

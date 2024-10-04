@@ -1,0 +1,103 @@
+{
+    "id": 353,
+    "common_name": "Belle de Boskoop Apple",
+    "scientific_name": [
+        "Malus 'Belle de Boskoop'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Netherlands"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Tissue Culture",
+        "Air Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=353&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=353&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=353&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Belle de Boskoop Apple (Malus 'Belle de Boskoop') is an amazing tree species! It bears large, aromatic fruit that have a distinctive sweet-tart flavor. The apples are perfect for cooking, with a firm flesh that holds its shape well when baked. This robust and reliable tree is an excellent choice for home gardens, with the added bonus of providing beautiful blossoms in the spring. The apples can be eaten fresh or stored for months if kept in a cool, dark place. Its disease resistance helps it thrive in many parts of the world. This tree is adaptable and low maintenance, making it a great choice for anyone looking for a rewarding, delicious, and easy-to-grow tree.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/353_malus_belle_de_boskoop/og/337214c7b72a8b61ca79685f9ebe-1633146.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/353_malus_belle_de_boskoop/regular/337214c7b72a8b61ca79685f9ebe-1633146.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/353_malus_belle_de_boskoop/medium/337214c7b72a8b61ca79685f9ebe-1633146.jpg",
+        "small_url": "https://perenual.com/storage/species_image/353_malus_belle_de_boskoop/small/337214c7b72a8b61ca79685f9ebe-1633146.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/353_malus_belle_de_boskoop/thumbnail/337214c7b72a8b61ca79685f9ebe-1633146.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,126 @@
+{
+    "id": 400,
+    "common_name": "glossy abelia",
+    "scientific_name": [
+        "Abelia grandiflora"
+    ],
+    "other_name": [],
+    "family": "Caprifoliaceae",
+    "origin": [],
+    "type": "Deciduous shrub",
+    "dimension": "3.00 to 6.00 feet",
+    "dimensions": {
+        "type": null,
+        "min_value": 3,
+        "max_value": 6,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Cutting",
+        "Layering Propagation",
+        "Grafting Propagation",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "9"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=400&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=400&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "stems",
+            "color": [
+                "red"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "red-green",
+                "green",
+                "dark-green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "pink-white"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=400&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White/flushed pink",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Glossy Abelia is an amazing ornamental shrub, ideal for adding beauty and structure to your garden. With glossy, deep-green oval leaves, it is fast-growing and has showy, fragrant flowers in shades of pink from late spring to mid-summer. Its tough, durable and drought tolerant evergreen foliage provides a colourful backdrop for beds and borders all year round. The blooms also attract bees and other beneficial pollinators. Growing between 3-6 feet tall and wide, it makes an ideal low-maintenance addition to any landscape. This easy-care and versatile shrub also makes a stunning addition to containers and a beautiful border or hedge.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/400_abelia_grandiflora/og/52152430649_8d9ddd2cf5_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/400_abelia_grandiflora/regular/52152430649_8d9ddd2cf5_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/400_abelia_grandiflora/medium/52152430649_8d9ddd2cf5_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/400_abelia_grandiflora/small/52152430649_8d9ddd2cf5_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/400_abelia_grandiflora/thumbnail/52152430649_8d9ddd2cf5_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

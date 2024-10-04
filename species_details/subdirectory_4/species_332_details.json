@@ -1,0 +1,113 @@
+{
+    "id": 332,
+    "common_name": "Golden Gift Magnolia",
+    "scientific_name": [
+        "Magnolia 'Golden Gift'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=332&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=332&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "2"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "March",
+        "April",
+        "May",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=332&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "gold",
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Gift Magnolia is a stunning and truly unique species of tree. Its show-stopping golden flowers, when blooming, are sure to put on a memorable display. The foliage is a deep, velvety green, which makes for a dramatic contrast to other varieties of magnolia. This species is also very low maintenance, not requiring any pruning or shaping. It is very prolific in terms of flowering and can bring a welcome splash of vibrancy to any garden. The unique flower shape also makes this an excellent selection for floral arrangements. Ultimately, the Golden Gift Magnolia is an amazing species that has show-stopping flowers and low maintenance requirements, making it the perfect welcoming sight in any garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/332_magnolia_golden_gift/og/2560px-Yellow_magnolia.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/332_magnolia_golden_gift/regular/2560px-Yellow_magnolia.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/332_magnolia_golden_gift/medium/2560px-Yellow_magnolia.jpg",
+        "small_url": "https://perenual.com/storage/species_image/332_magnolia_golden_gift/small/2560px-Yellow_magnolia.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/332_magnolia_golden_gift/thumbnail/2560px-Yellow_magnolia.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

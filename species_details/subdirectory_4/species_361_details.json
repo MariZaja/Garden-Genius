@@ -1,0 +1,112 @@
+{
+    "id": 361,
+    "common_name": "Elstar Apple",
+    "scientific_name": [
+        "Malus 'Elstar'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Netherlands"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=361&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=361&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "August",
+        "June",
+        "July",
+        "August"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=361&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "gold",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Elstar Apple is a highly sought-after variety of Malus. It has a pleasant and sweet taste, and is full of crisp and juicy flesh. Its skin is a rich yellow colour with a distinctive reddish-orange blush. It has a good disease resistance, making it an ideal choice for home orchards. Elstar Apples are an excellent choice for making pies, cider and jams, as their sugar and acid content provide balance for perfect flavour. They also make great snacking apples, juicy and slightly tart. Elstars are a great choice for those looking for an all-around flavourful, disease-resistant apple.",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/361_malus_elstar/og/garden-apple-tree-fruit-harvest.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/361_malus_elstar/regular/garden-apple-tree-fruit-harvest.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/361_malus_elstar/medium/garden-apple-tree-fruit-harvest.jpg",
+        "small_url": "https://perenual.com/storage/species_image/361_malus_elstar/small/garden-apple-tree-fruit-harvest.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/361_malus_elstar/thumbnail/garden-apple-tree-fruit-harvest.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

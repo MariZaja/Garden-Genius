@@ -1,0 +1,143 @@
+{
+    "id": 388,
+    "common_name": "Dawn Redwood",
+    "scientific_name": [
+        "Metasequoia glyptostroboides"
+    ],
+    "other_name": [],
+    "family": "Cupressaceae",
+    "origin": [
+        "Central and western China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  90 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 90,
+        "max_value": 90,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Hardwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=388&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=388&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "Dawn",
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown",
+                "gray-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green-yellow",
+                "green"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=388&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant",
+        " Deer resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Dawn Redwood is an amazing plant species both for its beauty and its history. Native to southwest China, the Dawn Redwood was thought to be extinct until it was discovered in 1941. It is part of the Redwood family and looks similar to its relatives but is distinguished by its deciduous, fern-like leaves. It has become an increasingly popular landscaping tree. It is disease and insect resistant and is known to be both fast-growing and long-lived. Its beauty is unmatched, with a rich reddish-brown bark, rusty-colored foliage, and a pyramidal shape with a narrowly tapered top. Its unique industrial and cultural history provides a wonderful and unexpected surprise for any observer.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/388_metasequoia_glyptostroboides/og/52302475270_e70a77b14e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/388_metasequoia_glyptostroboides/regular/52302475270_e70a77b14e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/388_metasequoia_glyptostroboides/medium/52302475270_e70a77b14e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/388_metasequoia_glyptostroboides/small/52302475270_e70a77b14e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/388_metasequoia_glyptostroboides/thumbnail/52302475270_e70a77b14e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

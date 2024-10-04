@@ -1,0 +1,114 @@
+{
+    "id": 386,
+    "common_name": "Yellow Transparent Apple",
+    "scientific_name": [
+        "Malus 'Yellow Transparent'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Russia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  16 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 16,
+        "max_value": 16,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Cutting",
+        "Tissue Culture"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=386&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=386&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=386&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Malus 'Yellow Transparent' is an amazing plant species. It is a hardy variety of apple that bears large, yellow fruit that is incredibly sweet and juicy. The skin is very thin and almost see-through making it easy to spot when ripe and for harvesting. The yellow apples are sometimes used for cooking or for cider-making. This wonderful plant is not only aesthetically pleasing but also cold hardy and disease resistant, making it easy to maintain. The spectacular yellow fruit that it produces will bring both vibrant colour and tantalizing flavours to your garden.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/386_malus_yellow_transparent/og/799px-Weisser_Klarapfel_Freilichtmuseum_Roscheider_Hof_Frucht_H17.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/386_malus_yellow_transparent/regular/799px-Weisser_Klarapfel_Freilichtmuseum_Roscheider_Hof_Frucht_H17.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/386_malus_yellow_transparent/medium/799px-Weisser_Klarapfel_Freilichtmuseum_Roscheider_Hof_Frucht_H17.jpg",
+        "small_url": "https://perenual.com/storage/species_image/386_malus_yellow_transparent/small/799px-Weisser_Klarapfel_Freilichtmuseum_Roscheider_Hof_Frucht_H17.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/386_malus_yellow_transparent/thumbnail/799px-Weisser_Klarapfel_Freilichtmuseum_Roscheider_Hof_Frucht_H17.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

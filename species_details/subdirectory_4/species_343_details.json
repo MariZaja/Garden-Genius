@@ -1,0 +1,111 @@
+{
+    "id": 343,
+    "common_name": "Teddy Bear\u00ae Magnolia",
+    "scientific_name": [
+        "Magnolia grandiflora 'Southern Charm'"
+    ],
+    "other_name": [
+        "Bull Bay"
+    ],
+    "family": "Magnoliaceae",
+    "origin": [
+        "Southeastern United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=343&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=343&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "May",
+        "June",
+        "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=343&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Diptera - true flies",
+        " Leaf miner insect",
+        " Stem borer insects"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "White",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "pink",
+        "cream",
+        "white"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Teddy Bear\u00ae Magnolia tree is a stunning and unique species, boasting beautiful large white blooms and deep green foliage. It's a perfect choice for those looking for an eye-catching display in their gardens. Its moderate growth rate, compact size and drought tolerance make it an ideal candidate for urban landscapes or smaller gardens. The flowers emit a delicious vanilla fragrance, which is sweet and alluring. This tree is resistant to pests and diseases, and its glossy evergreen leaves help it stand out, even during winter. This distinctive species is perfect for making any garden or landscape come alive.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/343_magnolia_grandiflora_southern_charm/og/Magnolia_grandiflora_flower.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/343_magnolia_grandiflora_southern_charm/regular/Magnolia_grandiflora_flower.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/343_magnolia_grandiflora_southern_charm/medium/Magnolia_grandiflora_flower.jpg",
+        "small_url": "https://perenual.com/storage/species_image/343_magnolia_grandiflora_southern_charm/small/Magnolia_grandiflora_flower.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/343_magnolia_grandiflora_southern_charm/thumbnail/Magnolia_grandiflora_flower.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

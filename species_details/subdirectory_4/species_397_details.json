@@ -1,0 +1,131 @@
+{
+    "id": 397,
+    "common_name": "Columnar Norway Spruce",
+    "scientific_name": [
+        "Picea abies 'Cupressina'"
+    ],
+    "other_name": [
+        "Norwegian Spruce"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+        "Europe"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 60,
+        "max_value": 60,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "3",
+        "max": "3"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=397&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=397&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=397&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Galls",
+        " Mites",
+        " Stem borer insects",
+        "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": false,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Columnar Norway Spruce (Picea abies 'Cupressina') is an evergreen tree with a truly impressive form. Its tall, narrow spire-like shape gives this majestic tree extra visual appeal, as well as a more practical benefit: it doesn\u2019t require as much trimming or pruning as other tree varieties. Its dense needles make it perfect for privacy screens, hedges, or windbreakers. Its stout, columnar shape pairs well with other trees and plants of varying heights, making it an ideal choice for the home landscape. Its resilient nature and ability to tolerate a range of conditions makes it a great choice for any garden. The Columnar Norway Spruce is an amazing choice for any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/397_picea_abies_cupressina/og/49401283911_53b0de4b2b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/397_picea_abies_cupressina/regular/49401283911_53b0de4b2b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/397_picea_abies_cupressina/medium/49401283911_53b0de4b2b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/397_picea_abies_cupressina/small/49401283911_53b0de4b2b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/397_picea_abies_cupressina/thumbnail/49401283911_53b0de4b2b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

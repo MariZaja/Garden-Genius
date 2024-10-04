@@ -1,0 +1,123 @@
+{
+    "id": 323,
+    "common_name": "Worplesdon Sweet Gum",
+    "scientific_name": [
+        "Liquidambar styraciflua 'Worplesdon'"
+    ],
+    "other_name": [
+        "American Sweet Gum"
+    ],
+    "family": "Altingiaceae",
+    "origin": [
+        "Eastern United States",
+        "Mexico"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=323&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=323&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "7"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=323&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Worplesdon Sweet Gum is an amazing deciduous tree with an elegant shape and beautiful foliage. In the fall, its dark green leaves turn shades of yellow and orange, with hints of brilliant red. Its sweet aroma during the fall season is a joy to experience. Its bark is gray-brown with peeling and ridges that can easily be noticed. Its outstanding display of fall colors and ornamental value has made it a widely desired landscape tree. The Worplesdon Sweet Gum is also quite resistant to drought and can tolerate heat, making it a great choice for gardens. Its 30-foot height and spread make it dynamic and impressive. The Worplesdon Sweet Gum is an excellent tree for fall color, making it an amazing choice for any garden or park.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/323_liquidambar_styraciflua_worplesdon/og/2560px-Baden-Baden-Liquidambar_styraciflua-48-Amberbaum-Frucht-Laub-2013-gje.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/323_liquidambar_styraciflua_worplesdon/regular/2560px-Baden-Baden-Liquidambar_styraciflua-48-Amberbaum-Frucht-Laub-2013-gje.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/323_liquidambar_styraciflua_worplesdon/medium/2560px-Baden-Baden-Liquidambar_styraciflua-48-Amberbaum-Frucht-Laub-2013-gje.jpg",
+        "small_url": "https://perenual.com/storage/species_image/323_liquidambar_styraciflua_worplesdon/small/2560px-Baden-Baden-Liquidambar_styraciflua-48-Amberbaum-Frucht-Laub-2013-gje.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/323_liquidambar_styraciflua_worplesdon/thumbnail/2560px-Baden-Baden-Liquidambar_styraciflua-48-Amberbaum-Frucht-Laub-2013-gje.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,137 @@
+{
+    "id": 316,
+    "common_name": "Vossii Laburnum",
+    "scientific_name": [
+        "Laburnum x watereri 'Vossii'"
+    ],
+    "other_name": [
+        "Golden Chain Tree"
+    ],
+    "family": null,
+    "origin": [
+        "Austria",
+        "Czech Republic",
+        "Germany",
+        "Poland",
+        "Slovakia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 15,
+        "max_value": 15,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Division",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=316&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=316&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "trunk",
+            "color": [
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "dark-brown"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "yellow"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "November",
+        "March"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=316&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 1,
+    "poisonous_to_pets": 1,
+    "description": "Vossii Laburnum, also known as Laburnum x watereri 'Vossii', is the perfect ornamental tree for any garden. Not only is it spectacular when in bloom, but it also produces striking, golden-yellow flowers in late spring. These blossoms hang in long clusters that bring great visual interest to your landscape, and are complemented by glossy, dark-green foliage. This tree is a hardy variety, tolerant of both heat and occasional drought. Additionally, it is also relatively pest and disease resistant. There is no doubt that with its captivating beauty and easy maintenance, Vossii Laburnum is sure to be a wonderful addition to any landscape.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/316_laburnum_x_watereri_vossii/og/3518869127_6f86c8e26e_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/316_laburnum_x_watereri_vossii/regular/3518869127_6f86c8e26e_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/316_laburnum_x_watereri_vossii/medium/3518869127_6f86c8e26e_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/316_laburnum_x_watereri_vossii/small/3518869127_6f86c8e26e_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/316_laburnum_x_watereri_vossii/thumbnail/3518869127_6f86c8e26e_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,122 @@
+{
+    "id": 366,
+    "common_name": "Gravenstein Apple",
+    "scientific_name": [
+        "Malus 'Gravenstein'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Denmark",
+        "Germany",
+        "Russia",
+        "Sweden",
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=366&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=366&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "3"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=366&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Summer",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": true,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Gravenstein Apple is an amazing species of apple tree. This special variety is highly sought after for its uniquely sweet and tart flavor. The Gravenstein Apple is very popular in the Northern Coastal areas of California and Northwestern United States for its desirable characteristics and excellent harvest potential. It produces medium to large, slightly oval-shaped fruit with yellow or light green skin. Its white flesh is firm yet crisp and juicy when ripe. The Gravenstein Apple is best for baking and making delicious sauces, jellies and juices, but can also be served fresh! It's an ideal choice for home orchards and makes a great addition to any garden!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/og/Malus-Shampion.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/regular/Malus-Shampion.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/medium/Malus-Shampion.jpg",
+        "small_url": "https://perenual.com/storage/species_image/366_malus_gravenstein/small/Malus-Shampion.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/366_malus_gravenstein/thumbnail/Malus-Shampion.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

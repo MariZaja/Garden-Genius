@@ -1,0 +1,121 @@
+{
+    "id": 320,
+    "common_name": "Round Leaf Sweet Gum",
+    "scientific_name": [
+        "Liquidambar styraciflua 'Rotundiloba'"
+    ],
+    "other_name": [
+        "American Sweet Gum"
+    ],
+    "family": "Altingiaceae",
+    "origin": [
+        "Eastern United States",
+        "Mexico"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 70,
+        "max_value": 70,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings",
+        "Greenwood Cuttings",
+        "Layering Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=320&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=320&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "4"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August",
+        "August",
+        "September"
+    ],
+    "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+    },
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=320&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Anthracnose",
+        "  Deer resistant",
+        " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Yellow-green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "maroon"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Round Leaf Sweet Gum is an amazing tree species with a stunning aesthetic. Its beautiful green foliage is distinct - its leaves are round or cup-shaped with deep lobes, giving it its unique name. It blooms in early spring, its deep purple flowers adding another dimension of beauty to its visual impact. As the seasons change, its foliage turns to tones of yellow and deep red-bronze, providing a spectacular backdrop in the autumn months. Its low-maintenance characteristics make it an ideal addition to any garden. Its hardiness also makes it an excellent choice for anyone looking to add a little pizazz to their landscape.",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/320_liquidambar_styraciflua_rotundiloba/og/2560px-Liquidambar_styraciflua_Rotundiloba_3zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/320_liquidambar_styraciflua_rotundiloba/regular/2560px-Liquidambar_styraciflua_Rotundiloba_3zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/320_liquidambar_styraciflua_rotundiloba/medium/2560px-Liquidambar_styraciflua_Rotundiloba_3zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/320_liquidambar_styraciflua_rotundiloba/small/2560px-Liquidambar_styraciflua_Rotundiloba_3zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/320_liquidambar_styraciflua_rotundiloba/thumbnail/2560px-Liquidambar_styraciflua_Rotundiloba_3zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

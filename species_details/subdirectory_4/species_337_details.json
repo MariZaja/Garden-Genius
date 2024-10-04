@@ -1,0 +1,124 @@
+{
+    "id": 337,
+    "common_name": "Yellow Bird Magnolia",
+    "scientific_name": [
+        "Magnolia 'Yellow Bird'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Stem Propagation",
+        "Root Cutting",
+        "Seed Propagation"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=337&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=337&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inch",
+        "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "dark-green"
+            ]
+        },
+        {
+            "part": "flower",
+            "color": [
+                "yellow"
+            ]
+        },
+        {
+            "part": "twig",
+            "color": [
+                "green"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part shade"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=337&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Yellow Bird Magnolia is an amazing and beautiful tree. Its bright yellow buds contrast exquisitely against its glossy green leaves. In spring and summer, its foliage is littered with vibrant big flowers. This evergreen tree is quite hardy and can survive extreme temperatures. It can reach a height of over 20 feet and a width of 15 ft. Its huge and glossy leaves add contrast and character to any garden landscape. It has the power to transform any outdoor space into a captivating and vibrant garden. Its yellow flowers make it a great addition to any garden of any size or shape. Its colorful blooms spread cheer and joy with every passing season.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/337_magnolia_yellow_bird/og/7384703532_7b3c58347a_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/337_magnolia_yellow_bird/regular/7384703532_7b3c58347a_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/337_magnolia_yellow_bird/medium/7384703532_7b3c58347a_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/337_magnolia_yellow_bird/small/7384703532_7b3c58347a_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/337_magnolia_yellow_bird/thumbnail/7384703532_7b3c58347a_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,111 @@
+{
+    "id": 375,
+    "common_name": "Norland Apple",
+    "scientific_name": [
+        "Malus 'Norland'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "Canada"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "2",
+        "max": "2"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=375&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=375&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=375&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Norland Apple (Malus 'Norland') is an amazing tree with fantastic qualities. It bears medium-sized fruits which are aromatic and have excellent qualities. The flesh is crisp and juicy, with a sweet-tart flavor. The skin is bright red with a waxy texture. It is also a very hardy tree and is resistant to fire blight. It can grow in both sunny and partially shaded areas, and is not picky about soil, making it an easy and reliable choice for orchards. Plus, it is one of the earliest season apples, ripening and ready to harvest in late July or early August. Enjoy the Norland Apple in pies, jams, and fresh\u2014it's delicious!",
+    "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/375_malus_norland/og/frapple_apple_tree_fruit_17-image-kycidzch.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/375_malus_norland/regular/frapple_apple_tree_fruit_17-image-kycidzch.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/375_malus_norland/medium/frapple_apple_tree_fruit_17-image-kycidzch.jpg",
+        "small_url": "https://perenual.com/storage/species_image/375_malus_norland/small/frapple_apple_tree_fruit_17-image-kycidzch.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/375_malus_norland/thumbnail/frapple_apple_tree_fruit_17-image-kycidzch.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

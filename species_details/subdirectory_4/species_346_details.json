@@ -1,0 +1,153 @@
+{
+    "id": 346,
+    "common_name": "Oyama Magnolia",
+    "scientific_name": [
+        "Magnolia sieboldii"
+    ],
+    "other_name": [
+        "Siebold's Magnolia",
+        "Summer Magnolia"
+    ],
+    "family": "Magnoliaceae",
+    "origin": [
+        "China",
+        "Japan",
+        "Korea"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 25,
+        "max_value": 25,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Seed Propagation",
+        "Layering Propagation",
+        "Cutting",
+        "Cutting"
+    ],
+    "hardiness": {
+        "min": "6",
+        "max": "6"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=346&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=346&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "10"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "3-4",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "flower",
+            "color": [
+                "white"
+            ]
+        },
+        {
+            "part": "pistil",
+            "color": [
+                "red-white"
+            ]
+        },
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "twig",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "twigs",
+            "color": [
+                "green-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=346&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Humus rich",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Pest resistant",
+        " Disease resistant"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "White flowers with crimson stamens",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "red",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Oyama Magnolia (Magnolia sieboldii) is an amazing species of tree that is native to East Asia. It is an ornamental tree, with stunning big white and pink cup-shaped flowers that bloom among its beautiful, dark-green leaves in early spring. It is a fast-growing species that is adaptable to a wide range of climates and soils, making it a good choice for home gardeners. An added bonus is that the Oyama Magnolia produces delicious edible fruit, popular in many Asian countries. Pruned into hedges or left to its natural shape, this tree will become a stunning addition to any garden.",
+    "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/346_magnolia_sieboldii/og/51202061229_74b794b96c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/346_magnolia_sieboldii/regular/51202061229_74b794b96c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/346_magnolia_sieboldii/medium/51202061229_74b794b96c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/346_magnolia_sieboldii/small/51202061229_74b794b96c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/346_magnolia_sieboldii/thumbnail/51202061229_74b794b96c_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

@@ -1,0 +1,111 @@
+{
+    "id": 371,
+    "common_name": "Lodi Apple",
+    "scientific_name": [
+        "Malus 'Lodi'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+        "United States"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 20,
+        "max_value": 20,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+        "Grafting Propagation",
+        "Budding",
+        "Layering Propagation",
+        "Budding",
+        "Budding",
+        "Whip Grafting Propagation",
+        "Cleft Grafting Propagation",
+        "Budding",
+        "Inarching"
+    ],
+    "hardiness": {
+        "min": "4",
+        "max": "4"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=371&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=371&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+        "unit": "inches",
+        "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+        "full sun"
+    ],
+    "pruning_month": [
+        "December",
+        "January",
+        "February"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=371&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": true,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": true,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": true,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Lodi Apple (Malus 'Lodi') is an amazing fruit tree that produces beautiful, crisp, white-fleshed apples with a distinct tart flavor. Its strong growth and vigor combined with its high resistance to diseases makes this variety ideal for home and commercial orchards. Its harvest season begins in late July and early August, making it perfect for summertime snacking! Its tart apples are great for jams and jellies, and its flowers provide a sweet aroma to the air. The Lodi Apple is a must have for any orchard!",
+    "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/371_malus_lodi/og/2560px-PapierC3B3wka_owoce_na_gaC582C499ziach.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/371_malus_lodi/regular/2560px-PapierC3B3wka_owoce_na_gaC582C499ziach.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/371_malus_lodi/medium/2560px-PapierC3B3wka_owoce_na_gaC582C499ziach.jpg",
+        "small_url": "https://perenual.com/storage/species_image/371_malus_lodi/small/2560px-PapierC3B3wka_owoce_na_gaC582C499ziach.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/371_malus_lodi/thumbnail/2560px-PapierC3B3wka_owoce_na_gaC582C499ziach.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}

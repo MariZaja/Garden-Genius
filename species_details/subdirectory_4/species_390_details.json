@@ -1,0 +1,169 @@
+{
+    "id": 390,
+    "common_name": "Black Gum",
+    "scientific_name": [
+        "Nyssa sylvatica"
+    ],
+    "other_name": [
+        "Tupelo",
+        "Black Tupelo",
+        "Sour Gum",
+        "Pepperidge"
+    ],
+    "family": "Nyssaceae",
+    "origin": [
+        "Eastern North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  40 feet",
+    "dimensions": {
+        "type": "Height",
+        "min_value": 40,
+        "max_value": 40,
+        "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+        "Birds"
+    ],
+    "propagation": [
+        "Seed Propagation",
+        "Greenwood Cuttings"
+    ],
+    "hardiness": {
+        "min": "5",
+        "max": "5"
+    },
+    "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=390&size=og&key=sk-k0Dd66ebe3d09c08a6728",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=390&size=og&key=sk-k0Dd66ebe3d09c08a6728'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+        "unit": "gallons",
+        "value": "3"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+        "value": "7-10",
+        "unit": "days"
+    },
+    "plant_anatomy": [
+        {
+            "part": "leaves",
+            "color": [
+                "green"
+            ]
+        },
+        {
+            "part": "stem",
+            "color": [
+                "brown"
+            ]
+        },
+        {
+            "part": "branches",
+            "color": [
+                "brown",
+                "black-brown"
+            ]
+        },
+        {
+            "part": "trunk",
+            "color": [
+                "black-brown"
+            ]
+        },
+        {
+            "part": "flowers",
+            "color": [
+                "light-green"
+            ]
+        },
+        {
+            "part": "branch",
+            "color": [
+                "gray-brown"
+            ]
+        }
+    ],
+    "sunlight": [
+        "full sun",
+        "part sun/part shade",
+        "sheltered"
+    ],
+    "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=390&key=sk-k0Dd66ebe3d09c08a6728",
+    "soil": [
+        "Acidic",
+        " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+        "Dieback",
+        " Fungal leaf spot",
+        " Galls",
+        " Heart rot",
+        " Leaf miner insect",
+        " Mites",
+        " Rust",
+        " Scale insects",
+        "  Pest resistant",
+        " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish white",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+        "blue",
+        "purple"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+        "green",
+        "red",
+        "yellow",
+        "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Black Gum (Nyssa sylvatica) is an amazing tree species. It is native to the east coast of North America, and is one of the hardiest species in its region. Its bark is dark and furrowed and its foliage is magnificent, turning from a deep purple to orange or crimson in the fall months, providing a beautiful contrast with its glossy dark green leaves. Its small, sour berries provide food for birds, making it an excellent choice for birders. The Black Gum is also drought and salt tolerant, once established, and can reach heights of up to 75 feet. This tree is truly a delight to behold and an asset to any landscape.",
+    "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/390_nyssa_sylvatica/og/52036943537_be41b3d4a6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/390_nyssa_sylvatica/regular/52036943537_be41b3d4a6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/390_nyssa_sylvatica/medium/52036943537_be41b3d4a6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/390_nyssa_sylvatica/small/52036943537_be41b3d4a6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/390_nyssa_sylvatica/thumbnail/52036943537_be41b3d4a6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+}
