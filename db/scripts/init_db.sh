@@ -23,7 +23,7 @@ cat "$JSON_FILE" | jq -c '.vegetables[]' | while read vegetable; do
 
     # Insert the vegetable data into the PostgreSQL database
     psql -U gardenGenius -d gardenGeniusDb -c "
-        INSERT INTO vegetables (name, description, maintenance, watering_period, size, poisonous, default_image, sunlight, edible_parts)
+        INSERT INTO species (name, description, maintenance, watering_period, size, poisonous, default_image, sunlight, edible_parts)
         VALUES ('$Name', '$Description', '$Maintenance', '$Watering_period', '$Size', '$Poisonous', '$Default_image', '$Sunlight', '$Edible_parts');
     "
 done
