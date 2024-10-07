@@ -8,21 +8,26 @@ wait_for_postgres() {
   done
 }
 
+# Function to escape single quotes for SQL
+escape_string() {
+  echo "$1" | sed "s/'/''/g"
+}
+
 # Function to insert data into the species table
 insert_species_data() {
   local categories=("vegetables" "herbs")
   
   for category in "${categories[@]}"; do
     cat "$JSON_FILE" | jq -c ".${category}[]" | while read -r item; do
-      local Name=$(echo "$item" | jq -r '.Name')
-      local Description=$(echo "$item" | jq -r '.Description')
-      local Maintenance=$(echo "$item" | jq -r '.Maintenance')
-      local Watering_period=$(echo "$item" | jq -r '.Watering_period')
-      local Size=$(echo "$item" | jq -r '.Size')
-      local Poisonous=$(echo "$item" | jq -r '.Poisonous')
-      local Default_image=$(echo "$item" | jq -r '.Default_image')
-      local Sunlight=$(echo "$item" | jq -r '.Sunlight')
-      local Edible_parts=$(echo "$item" | jq -r '.Edible_parts')
+      local Name=$(escape_string "$(echo "$item" | jq -r '.Name')")
+      local Description=$(escape_string "$(echo "$item" | jq -r '.Description')")
+      local Maintenance=$(escape_string "$(echo "$item" | jq -r '.Maintenance')")
+      local Watering_period=$(escape_string "$(echo "$item" | jq -r '.Watering_period')")
+      local Size=$(escape_string "$(echo "$item" | jq -r '.Size')")
+      local Poisonous=$(escape_string "$(echo "$item" | jq -r '.Poisonous')")
+      local Default_image=$(escape_string "$(echo "$item" | jq -r '.Default_image')")
+      local Sunlight=$(escape_string "$(echo "$item" | jq -r '.Sunlight')")
+      local Edible_parts=$(escape_string "$(echo "$item" | jq -r '.Edible_parts')")
 
       # Insert the data into the PostgreSQL database
       psql -U gardenGenius -d gardenGeniusDb -c "
@@ -36,9 +41,9 @@ insert_species_data() {
 # Function to insert data into the users table
 insert_users_data() {
   cat "$JSON_FILE" | jq -c '.users[]' | while read -r user; do
-    local Username=$(echo "$user" | jq -r '.Username')
-    local Password=$(echo "$user" | jq -r '.Password')
-    local Email=$(echo "$user" | jq -r '.Email')
+    local Username=$(escape_string "$(echo "$user" | jq -r '.Username')")
+    local Password=$(escape_string "$(echo "$user" | jq -r '.Password')")
+    local Email=$(escape_string "$(echo "$user" | jq -r '.Email')")
 
     # Insert the data into the PostgreSQL database
     psql -U gardenGenius -d gardenGeniusDb -c "
@@ -48,7 +53,7 @@ insert_users_data() {
   done
 }
 
-
+# Main script execution
 JSON_FILE="/docker-entrypoint-initdb.d/data.json"
 
 # Wait for PostgreSQL to start
