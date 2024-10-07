@@ -2081,6 +2081,11 @@
       "Username": "user",
       "Password": "user",
       "Email":" user@gmail.com"
+    },
+    {
+      "Username": "user2",
+      "Password": "user2",
+      "Email": "user2@gmail.com"
     }
   ]
 }
