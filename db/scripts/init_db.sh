@@ -27,3 +27,35 @@ cat "$JSON_FILE" | jq -c '.vegetables[]' | while read vegetable; do
         VALUES ('$Name', '$Description', '$Maintenance', '$Watering_period', '$Size', '$Poisonous', '$Default_image', '$Sunlight', '$Edible_parts');
     "
 done
+
+# Loop through each herb entry in the JSON array
+cat "$JSON_FILE" | jq -c '.herbs[]' | while read herbs; do
+    Name=$(echo "$herbs" | jq -r '.Name')
+    Description=$(echo "$herbs" | jq -r '.Description')
+    Maintenance=$(echo "$herbs" | jq -r '.Maintenance')
+    Watering_period=$(echo "$herbs" | jq -r '.Watering_period')
+    Size=$(echo "$herbs" | jq -r '.Size')
+    Poisonous=$(echo "$herbs" | jq -r '.Poisonous')
+    Default_image=$(echo "$herbs" | jq -r '.Default_image')
+    Sunlight=$(echo "$herbs" | jq -r '.Sunlight')
+    Edible_parts=$(echo "$herbs" | jq -r '.Edible_parts')
+
+    # Insert the herbs data into the PostgreSQL database
+    psql -U gardenGenius -d gardenGeniusDb -c "
+        INSERT INTO species (name, description, maintenance, watering_period, size, poisonous, default_image, sunlight, edible_parts)
+        VALUES ('$Name', '$Description', '$Maintenance', '$Watering_period', '$Size', '$Poisonous', '$Default_image', '$Sunlight', '$Edible_parts');
+    "
+done
+
+# Loop through each users entry in the JSON array
+cat "$JSON_FILE" | jq -c '.users[]' | while read users; do
+    Username=$(echo "$users" | jq -r '.Username')
+    Password=$(echo "$users" | jq -r '.Password')
+    Email=$(echo "$users" | jq -r '.Email')
+    
+    # Insert the users data into the PostgreSQL database
+    psql -U gardenGenius -d gardenGeniusDb -c "
+        INSERT INTO users (username, password, email)
+        VALUES ('$Username', '$Password', '$Email');
+    "
+done
