@@ -2070,5 +2070,22 @@
       "Sunlight": "Shade",
       "Edible_parts": "Leaves"
     }
+  ],
+  "users": [
+    {
+      "Username": "admin",
+      "Password": "admin",
+      "Email": "admin@gmail.com"
+    },
+    {
+      "Username": "user",
+      "Password": "user",
+      "Email":" user@gmail.com"
+    },
+    {
+      "Username": "user2",
+      "Password": "user2",
+      "Email": "user2@gmail.com"
+    }
   ]
 }
