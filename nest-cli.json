@@ -1,8 +1,68 @@
 {
   "$schema": "https://json.schemastore.org/nest-cli",
   "collection": "@nestjs/schematics",
-  "sourceRoot": "src",
+  "sourceRoot": "apps/gar-api-gateway/src",
   "compilerOptions": {
-    "deleteOutDir": true
+    "deleteOutDir": true,
+    "webpack": true,
+    "tsConfigPath": "apps/gar-api-gateway/tsconfig.app.json"
+  },
+  "monorepo": true,
+  "root": "apps/gar-api-gateway",
+  "projects": {
+    "gar-api-gateway": {
+      "type": "application",
+      "root": "apps/gar-api-gateway",
+      "entryFile": "main",
+      "sourceRoot": "apps/gar-api-gateway/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/gar-api-gateway/tsconfig.app.json"
+      }
+    },
+    "plants": {
+      "type": "application",
+      "root": "apps/plants",
+      "entryFile": "main",
+      "sourceRoot": "apps/plants/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/plants/tsconfig.app.json"
+      }
+    },
+    "users": {
+      "type": "application",
+      "root": "apps/users",
+      "entryFile": "main",
+      "sourceRoot": "apps/users/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/users/tsconfig.app.json"
+      }
+    },
+    "gardens": {
+      "type": "application",
+      "root": "apps/gardens",
+      "entryFile": "main",
+      "sourceRoot": "apps/gardens/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/gardens/tsconfig.app.json"
+      }
+    },
+    "species": {
+      "type": "application",
+      "root": "apps/species",
+      "entryFile": "main",
+      "sourceRoot": "apps/species/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/species/tsconfig.app.json"
+      }
+    },
+    "contracts": {
+      "type": "library",
+      "root": "libs/contracts",
+      "entryFile": "index",
+      "sourceRoot": "libs/contracts/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/contracts/tsconfig.lib.json"
+      }
+    }
   }
 }
