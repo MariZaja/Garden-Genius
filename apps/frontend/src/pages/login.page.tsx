@@ -1,27 +1,22 @@
 /**
- * @author Copilot
+ * @author ChatGPT
  * @stage Start
  */
 
 import React, { useState } from 'react';
 import { TextField, Button } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
+import { useAuth } from '../context/AuthContext';
 
 const LoginPage: React.FC = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-
-  const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setEmail(event.target.value);
-  };
-
-  const handlePasswordChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setPassword(event.target.value);
-  };
+  const { login } = useAuth();
+  const navigate = useNavigate();
 
   const handleLogin = () => {
-    // Add your login logic here
-    console.log('Email:', email);
-    console.log('Password:', password);
+    login(email, password);
+    navigate('/user');
   };
 
   return (
@@ -29,14 +24,14 @@ const LoginPage: React.FC = () => {
       <TextField
         label="Email"
         value={email}
-        onChange={handleEmailChange}
+        onChange={(e) => setEmail(e.target.value)}
         fullWidth
         margin="normal"
       />
       <TextField
         label="Password"
         value={password}
-        onChange={handlePasswordChange}
+        onChange={(e) => setPassword(e.target.value)}
         type="password"
         fullWidth
         margin="normal"
@@ -51,6 +46,6 @@ const LoginPage: React.FC = () => {
 export default LoginPage;
 
 /**
- * @author Copilot
+ * @author ChatGPT
  * @stage End
  */
