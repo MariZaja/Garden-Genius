@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 
 @Injectable()
-export class PlantsService {
+export class GarApiGatewayService {
   getHello(): string {
-    return 'This is plant';
+    return 'Hello World!';
   }
 }
