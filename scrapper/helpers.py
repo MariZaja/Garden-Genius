@@ -1,12 +1,5 @@
 import json
 
-def get_first_x_ids(data, x):
-    if isinstance(data, str):
-        data = json.loads(data)
-
-    ids = [entry['id'] for entry in data['data'][:x]]
-    return ids
-
 def read_key() -> str:
     try:
         with open('KEY.txt', 'r') as file:
@@ -16,3 +9,14 @@ def read_key() -> str:
     except Exception as e:
         print(f"An error occurred while reading the file: {e}")
     return ""
+
+def read_keys() -> list:
+    keys = []
+    try:
+        with open('KEYS.txt', 'r') as file:
+            keys = file.read().splitlines()
+    except FileNotFoundError:
+        print("KEYS.txt file not found.")
+    except Exception as e:
+        print(f"An error occurred while reading the file: {e}")
+    return keys
